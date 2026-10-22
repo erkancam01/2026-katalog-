@@ -48,23 +48,23 @@
     },
     "AraKilit.dc.html": {
       "h": 1123,
-      "title": "s.96 · Bölüm ara sayfası — Kapı kilitleri",
+      "title": "s.105 · Bölüm ara sayfası — Kapı kilitleri",
       "w": 794,
-      "x": 794,
+      "x": 7466,
       "y": 21168
     },
     "AraKol.dc.html": {
       "h": 1123,
-      "title": "s.67 · Bölüm ara sayfası — Kollar",
+      "title": "s.69 · Bölüm ara sayfası — Kollar",
       "w": 794,
-      "x": 0,
+      "x": 1748,
       "y": 14553
     },
     "ArkaKapak.dc.html": {
       "h": 1123,
       "title": "Arka kapak",
       "w": 794,
-      "x": 10642,
+      "x": 20964,
       "y": 21168
     },
     "BolumAcilim.dc.html": {
@@ -114,23 +114,23 @@
     },
     "BolumKilit.dc.html": {
       "h": 1123,
-      "title": "s.97 · Bölüm açılışı — Kapı kilitleri",
+      "title": "s.106 · Bölüm açılışı — Kapı kilitleri",
       "w": 794,
-      "x": 0,
+      "x": 8260,
       "y": 21168
     },
     "BolumKol.dc.html": {
       "h": 1123,
-      "title": "s.68 · Bölüm açılışı — Kollar",
+      "title": "s.70 · Bölüm açılışı — Kollar",
       "w": 794,
-      "x": 2542,
+      "x": 4290,
       "y": 14553
     },
     "BolumMentese.dc.html": {
       "h": 1123,
-      "title": "s.60 · Bölüm açılışı — Menteşeler",
+      "title": "s.62 · Bölüm açılışı — Menteşeler",
       "w": 794,
-      "x": 794,
+      "x": 2542,
       "y": 13230
     },
     "CepheBuyuk.dc.html": {
@@ -338,73 +338,73 @@
     },
     "KaldirAraba16.dc.html": {
       "h": 1123,
-      "title": "s.89 · Araba seti 16 mm kanal",
-      "w": 794,
-      "x": 3496,
-      "y": 18522
-    },
-    "KaldirAraba16b.dc.html": {
-      "h": 1123,
-      "title": "s.90 · Araba seti 300 kg · 16/18/22 profil",
-      "w": 794,
-      "x": 794,
-      "y": 19845
-    },
-    "KaldirAraba16c.dc.html": {
-      "h": 1123,
-      "title": "s.91 · Araba seti 400 kg · 16/18/22 profil",
+      "title": "s.91 · Araba seti 16 mm kanal",
       "w": 794,
       "x": 0,
       "y": 19845
     },
-    "KaldirAraba30.dc.html": {
+    "KaldirAraba16b.dc.html": {
       "h": 1123,
-      "title": "s.86 · Araba setleri 30 mm kanal",
+      "title": "s.92 · Araba seti 300 kg · 16/18/22 profil",
       "w": 794,
       "x": 2542,
+      "y": 19845
+    },
+    "KaldirAraba16c.dc.html": {
+      "h": 1123,
+      "title": "s.93 · Araba seti 400 kg · 16/18/22 profil",
+      "w": 794,
+      "x": 1748,
+      "y": 19845
+    },
+    "KaldirAraba30.dc.html": {
+      "h": 1123,
+      "title": "s.88 · Araba setleri 30 mm kanal",
+      "w": 794,
+      "x": 4290,
       "y": 18522
     },
     "KaldirAraba42.dc.html": {
       "h": 1123,
-      "title": "s.87 · Araba seti 42 mm kanal",
+      "title": "s.89 · Araba seti 42 mm kanal",
       "w": 794,
-      "x": 1748,
+      "x": 3496,
       "y": 18522
     },
     "KaldirEkipman.dc.html": {
       "h": 1123,
-      "title": "s.95 · Sistem ekipmanları",
+      "title": "s.97 · Sistem ekipmanları",
+      "w": 794,
+      "x": 0,
+      "y": 21168
+    },
+    "KaldirIspanyolet.dc.html": {
+      "h": 1123,
+      "title": "s.95 · İspanyolet ve kilit mesafesi",
       "w": 794,
       "x": 3496,
       "y": 19845
     },
-    "KaldirIspanyolet.dc.html": {
-      "h": 1123,
-      "title": "s.93 · İspanyolet ve kilit mesafesi",
-      "w": 794,
-      "x": 1748,
-      "y": 19845
-    },
     "KaldirMontaj.dc.html": {
       "h": 1123,
-      "title": "s.94 · Montaj detayları",
+      "title": "s.96 · Montaj detayları",
       "w": 794,
-      "x": 4290,
-      "y": 19845
+      "x": 794,
+      "y": 21168
     },
     "KaldirMontaj16.dc.html": {
       "h": 1123,
-      "title": "s.92 · 16 mm kanal montaj şeması",
+      "title": "s.94 · 16 mm kanal montaj şeması",
       "w": 794,
-      "x": 2542,
+      "x": 4290,
       "y": 19845
     },
     "KaldirMontaj42.dc.html": {
       "h": 1123,
-      "title": "s.88 · 42 mm araba montaj şeması",
+      "title": "s.90 · 42 mm araba montaj şeması",
       "w": 794,
-      "x": 4290,
-      "y": 18522
+      "x": 794,
+      "y": 19845
     },
     "KaldirSistem.dc.html": {
       "h": 1123,
@@ -455,58 +455,58 @@
     },
     "KilitCiftPim.dc.html": {
       "h": 1123,
-      "title": "s.103 · Çift pimli 3 nokta kilit — montaj şeması",
+      "title": "s.114 · Çift pimli 3 nokta kilit — montaj şeması",
       "w": 794,
-      "x": 5878,
+      "x": 14612,
       "y": 21168
     },
     "KilitCoklu.dc.html": {
       "h": 1123,
-      "title": "s.98 · Çok noktalı kancalı kilit",
+      "title": "s.109 · Çok noktalı kancalı kilit",
       "w": 794,
-      "x": 2542,
+      "x": 10642,
       "y": 21168
     },
     "KilitKancaPim.dc.html": {
       "h": 1123,
-      "title": "s.102 · Kanca pimli 3 nokta kilit — montaj şeması",
+      "title": "s.113 · Kanca pimli 3 nokta kilit — montaj şeması",
       "w": 794,
-      "x": 5084,
+      "x": 13818,
       "y": 21168
     },
     "KilitKancali.dc.html": {
       "h": 1123,
-      "title": "s.99 · Kancalı ana kilit",
+      "title": "s.110 · Kancalı ana kilit",
       "w": 794,
-      "x": 1748,
+      "x": 11436,
       "y": 21168
     },
     "KilitKancali3.dc.html": {
       "h": 1123,
-      "title": "s.105 · Kancalı 3 nokta kilit — montaj şeması",
+      "title": "s.116 · Kancalı 3 nokta kilit — montaj şeması",
       "w": 794,
-      "x": 7466,
+      "x": 16200,
       "y": 21168
     },
     "KilitMontaj.dc.html": {
       "h": 1123,
-      "title": "s.100 · Tek nokta kilit seti — montaj şeması",
+      "title": "s.111 · Tek nokta kilit seti — montaj şeması",
       "w": 794,
-      "x": 3496,
+      "x": 12230,
       "y": 21168
     },
     "KilitTij.dc.html": {
       "h": 1123,
-      "title": "s.101 · Tij tahrikli tek nokta kilit — montaj şeması",
+      "title": "s.112 · Tij tahrikli tek nokta kilit — montaj şeması",
       "w": 794,
-      "x": 4290,
+      "x": 13024,
       "y": 21168
     },
     "KilitTij2.dc.html": {
       "h": 1123,
-      "title": "s.104 · Tij tahrikli tek nokta kilit — kapı profili",
+      "title": "s.115 · Tij tahrikli tek nokta kilit — kapı profili",
       "w": 794,
-      "x": 6672,
+      "x": 15406,
       "y": 21168
     },
     "KolBezault.dc.html": {
@@ -518,31 +518,31 @@
     },
     "KolDuz.dc.html": {
       "h": 1123,
-      "title": "s.73 · Düz model kremon kol",
+      "title": "s.75 · Düz model kremon kol",
       "w": 794,
-      "x": 0,
+      "x": 1748,
       "y": 15876
     },
     "KolDuz2.dc.html": {
       "h": 1123,
-      "title": "s.74 · Düz model kremon kol — cephe",
+      "title": "s.76 · Düz model kremon kol — cephe",
       "w": 794,
-      "x": 2542,
+      "x": 4290,
       "y": 15876
     },
     "KolGizliSurme.dc.html": {
       "h": 1123,
-      "title": "s.80 · Sürme kolu",
+      "title": "s.98 · Sürme kolu",
       "w": 794,
       "x": 2542,
-      "y": 17199
+      "y": 21168
     },
     "KolKaldirSur.dc.html": {
       "h": 1123,
-      "title": "s.81 · Novus kaldır-sür kolu",
+      "title": "s.99 · Novus kaldır-sür kolu",
       "w": 794,
       "x": 1748,
-      "y": 17199
+      "y": 21168
     },
     "KolKaldirSur2.dc.html": {
       "h": 1123,
@@ -554,65 +554,65 @@
     },
     "KolKapi.dc.html": {
       "h": 1123,
-      "title": "s.79 · Kapı kolu",
+      "title": "s.81 · Kapı kolu",
       "w": 794,
-      "x": 0,
+      "x": 1748,
       "y": 17199
     },
     "KolKivrik.dc.html": {
       "h": 1123,
-      "title": "s.75 · Kıvrık model kremon kol",
+      "title": "s.77 · Kıvrık model kremon kol",
       "w": 794,
-      "x": 1748,
+      "x": 3496,
       "y": 15876
     },
     "KolKivrik2.dc.html": {
       "h": 1123,
-      "title": "s.76 · Kıvrık model kremon kol — cephe",
+      "title": "s.78 · Kıvrık model kremon kol — cephe",
       "w": 794,
-      "x": 4290,
-      "y": 15876
+      "x": 794,
+      "y": 17199
     },
     "KolMafsal.dc.html": {
       "h": 1123,
-      "title": "s.69 · Mafsallı cephe kolu",
+      "title": "s.71 · Mafsallı cephe kolu",
       "w": 794,
-      "x": 1748,
+      "x": 3496,
       "y": 14553
     },
     "KolMafsal2.dc.html": {
       "h": 1123,
-      "title": "s.70 · Mafsallı cephe kolu — silikon cephe",
+      "title": "s.72 · Mafsallı cephe kolu — silikon cephe",
       "w": 794,
-      "x": 4290,
-      "y": 14553
+      "x": 794,
+      "y": 15876
     },
     "KolNovusDuz.dc.html": {
       "h": 1123,
-      "title": "s.71 · Novus düz kremon kol",
+      "title": "s.73 · Novus düz kremon kol",
       "w": 794,
-      "x": 3496,
-      "y": 14553
+      "x": 0,
+      "y": 15876
     },
     "KolNovusDuz2.dc.html": {
       "h": 1123,
-      "title": "s.72 · Novus düz kremon kol — cephe",
+      "title": "s.74 · Novus düz kremon kol — cephe",
       "w": 794,
-      "x": 794,
+      "x": 2542,
       "y": 15876
     },
     "KolNovusKivrik.dc.html": {
       "h": 1123,
-      "title": "s.77 · Novus kıvrık kremon kol",
+      "title": "s.79 · Novus kıvrık kremon kol",
       "w": 794,
-      "x": 3496,
-      "y": 15876
+      "x": 0,
+      "y": 17199
     },
     "KolNovusKivrik2.dc.html": {
       "h": 1123,
-      "title": "s.78 · Novus kıvrık kremon kol — cephe",
+      "title": "s.80 · Novus kıvrık kremon kol — cephe",
       "w": 794,
-      "x": 794,
+      "x": 2542,
       "y": 17199
     },
     "KolOvalA.dc.html": {
@@ -640,65 +640,65 @@
     },
     "MenteseFortisKapi.dc.html": {
       "h": 1123,
-      "title": "s.61 · Fortis kapı menteşesi",
-      "w": 794,
-      "x": 0,
-      "y": 13230
-    },
-    "MenteseFortisPencere.dc.html": {
-      "h": 1123,
-      "title": "s.65 · Fortis pencere menteşesi",
-      "w": 794,
-      "x": 3496,
-      "y": 13230
-    },
-    "MenteseFortisPencere2.dc.html": {
-      "h": 1123,
-      "title": "s.66 · Fortis pencere menteşesi — 2 yaprak",
-      "w": 794,
-      "x": 794,
-      "y": 14553
-    },
-    "MenteseTenax.dc.html": {
-      "h": 1123,
-      "title": "s.62 · Tenax kapı menteşesi",
-      "w": 794,
-      "x": 2542,
-      "y": 13230
-    },
-    "MenteseValidus.dc.html": {
-      "h": 1123,
-      "title": "s.63 · Validus ayarlı pencere menteşesi",
+      "title": "s.63 · Fortis kapı menteşesi",
       "w": 794,
       "x": 1748,
       "y": 13230
     },
-    "MenteseValidus2.dc.html": {
+    "MenteseFortisPencere.dc.html": {
       "h": 1123,
-      "title": "s.64 · Validus pencere menteşesi — 2 yaprak",
+      "title": "s.67 · Fortis pencere menteşesi",
+      "w": 794,
+      "x": 0,
+      "y": 14553
+    },
+    "MenteseFortisPencere2.dc.html": {
+      "h": 1123,
+      "title": "s.68 · Fortis pencere menteşesi — 2 yaprak",
+      "w": 794,
+      "x": 2542,
+      "y": 14553
+    },
+    "MenteseTenax.dc.html": {
+      "h": 1123,
+      "title": "s.64 · Tenax kapı menteşesi",
       "w": 794,
       "x": 4290,
       "y": 13230
     },
+    "MenteseValidus.dc.html": {
+      "h": 1123,
+      "title": "s.65 · Validus ayarlı pencere menteşesi",
+      "w": 794,
+      "x": 3496,
+      "y": 13230
+    },
+    "MenteseValidus2.dc.html": {
+      "h": 1123,
+      "title": "s.66 · Validus pencere menteşesi — 2 yaprak",
+      "w": 794,
+      "x": 794,
+      "y": 14553
+    },
     "Notlar1.dc.html": {
       "h": 1123,
-      "title": "s.106 · Notlar",
+      "title": "s.119 · Notlar",
       "w": 794,
-      "x": 8260,
+      "x": 18582,
       "y": 21168
     },
     "Notlar2.dc.html": {
       "h": 1123,
-      "title": "s.107 · Notlar",
+      "title": "s.120 · Notlar",
       "w": 794,
-      "x": 9054,
+      "x": 19376,
       "y": 21168
     },
     "Notlar3.dc.html": {
       "h": 1123,
-      "title": "s.108 · Notlar",
+      "title": "s.121 · Notlar",
       "w": 794,
-      "x": 9848,
+      "x": 20170,
       "y": 21168
     },
     "ParalelMakas.dc.html": {
@@ -715,16 +715,72 @@
       "x": 1748,
       "y": 10584
     },
+    "ParalelMakas350.dc.html": {
+      "h": 1123,
+      "title": "s.57 · Paralel makas 350 mm · 14″",
+      "w": 794,
+      "x": 1748,
+      "y": 11907
+    },
+    "ParalelMakas450.dc.html": {
+      "h": 1123,
+      "title": "s.54 · Paralel makas 450 mm · 110 kg",
+      "w": 794,
+      "x": 794,
+      "y": 11907
+    },
+    "ParalelMakas680.dc.html": {
+      "h": 1123,
+      "title": "s.56 · Paralel makas 680 mm · 27″",
+      "w": 794,
+      "x": 2542,
+      "y": 11907
+    },
+    "ParalelMakas925.dc.html": {
+      "h": 1123,
+      "title": "s.55 · Paralel makas 925 mm · çift",
+      "w": 794,
+      "x": 0,
+      "y": 11907
+    },
     "ParalelMontaj.dc.html": {
       "h": 1123,
-      "title": "s.58 · Paralel makas montaj şeması",
+      "title": "s.60 · Paralel makas montaj şeması",
+      "w": 794,
+      "x": 794,
+      "y": 13230
+    },
+    "ParalelMontaj2.dc.html": {
+      "h": 1123,
+      "title": "s.61 · Paralel makas montaj şeması (2)",
+      "w": 794,
+      "x": 0,
+      "y": 13230
+    },
+    "ParalelSecim1.dc.html": {
+      "h": 1123,
+      "title": "s.52 · Paralel makas seçim şeması (1)",
+      "w": 794,
+      "x": 4290,
+      "y": 10584
+    },
+    "ParalelSecim2.dc.html": {
+      "h": 1123,
+      "title": "s.53 · Paralel makas seçim şeması (2)",
+      "w": 794,
+      "x": 3496,
+      "y": 10584
+    },
+    "ParalelTamKapanan1.dc.html": {
+      "h": 1123,
+      "title": "s.58 · Tam kapanan paralel makas 14″ · 18″",
       "w": 794,
       "x": 4290,
       "y": 11907
     },
-    "ParalelMontaj2.dc.html": {
+    "ParalelTamKapanan2.dc.html": {
       "h": 1123,
-      "title": "s.59 · Paralel makas montaj şeması (2)",
+      "title": "s.59 · Tam kapanan paralel makas 27″ · 36″",
       "w": 794,
       "x": 3496,
       "y": 11907
@@ -906,47 +962,82 @@
       "x": 2542,
       "y": 6615
     },
-    "ParalelMakas450.dc.html": {
+    "KolYeni.dc.html": {
       "h": 1123,
-      "title": "s.52 · Paralel makas 450 mm · 110 kg",
-      "w": 794,
-      "x": 4290,
-      "y": 10584
-    },
-    "ParalelMakas925.dc.html": {
-      "h": 1123,
-      "title": "s.53 · Paralel makas 925 mm · çift",
+      "title": "s.100 · Novus kaldır-sür kolu — sürme havuz kolu ile",
       "w": 794,
       "x": 3496,
-      "y": 10584
+      "y": 21168
     },
-    "ParalelMakas680.dc.html": {
+    "KolYeni2.dc.html": {
       "h": 1123,
-      "title": "s.54 · Paralel makas 680 mm · 27″",
+      "title": "s.101 · Novus kaldır-sür kolu — sürme havuz kolu ile (2)",
       "w": 794,
-      "x": 794,
-      "y": 11907
+      "x": 4290,
+      "y": 21168
     },
-    "ParalelMakas350.dc.html": {
+    "KaldirSemalar.dc.html": {
       "h": 1123,
-      "title": "s.55 · Paralel makas 350 mm · 14″",
-      "w": 794,
-      "x": 0,
-      "y": 11907
-    },
-    "ParalelTamKapanan1.dc.html": {
-      "h": 1123,
-      "title": "s.56 · Tam kapanan paralel makas 14″ · 18″",
+      "title": "s.86 · Kaldır-sür — açılım şemaları",
       "w": 794,
       "x": 2542,
-      "y": 11907
+      "y": 18522
     },
-    "ParalelTamKapanan2.dc.html": {
+    "KaldirSecim.dc.html": {
       "h": 1123,
-      "title": "s.57 · Tam kapanan paralel makas 27″ · 36″",
+      "title": "s.87 · Kaldır-sür — hızlı seçim",
       "w": 794,
       "x": 1748,
-      "y": 11907
+      "y": 18522
+    },
+    "KaldirIsleme.dc.html": {
+      "h": 1123,
+      "title": "s.102 · Kaldır-sür — i̇şleme ölçüleri",
+      "w": 794,
+      "x": 5084,
+      "y": 21168
+    },
+    "KaldirBakim.dc.html": {
+      "h": 1123,
+      "title": "s.103 · Kaldır-sür — kullanım ve bakım",
+      "w": 794,
+      "x": 5878,
+      "y": 21168
+    },
+    "KaldirSiparis.dc.html": {
+      "h": 1123,
+      "title": "s.104 · Kaldır-sür — sipariş listesi",
+      "w": 794,
+      "x": 6672,
+      "y": 21168
+    },
+    "KilitSistem.dc.html": {
+      "h": 1123,
+      "title": "s.107 · Kapı kilitleri — sistem tanıtımı",
+      "w": 794,
+      "x": 9054,
+      "y": 21168
+    },
+    "KilitSecim.dc.html": {
+      "h": 1123,
+      "title": "s.108 · Kapı kilitleri — seçim tablosu",
+      "w": 794,
+      "x": 9848,
+      "y": 21168
+    },
+    "KilitKarsilik.dc.html": {
+      "h": 1123,
+      "title": "s.117 · Kapı kilitleri — karşılıklar ve aksesuar",
+      "w": 794,
+      "x": 16994,
+      "y": 21168
+    },
+    "KilitSiparis.dc.html": {
+      "h": 1123,
+      "title": "s.118 · Kapı kilitleri — sipariş bilgisi",
+      "w": 794,
+      "x": 17788,
+      "y": 21168
     }
   },
   "createdOnFiles": {
@@ -1061,6 +1152,8 @@
     "FotoCepheParalel.dc.html",
     "ParalelMakas.dc.html",
     "ParalelMakas2.dc.html",
+    "ParalelSecim1.dc.html",
+    "ParalelSecim2.dc.html",
     "ParalelMakas450.dc.html",
     "ParalelMakas925.dc.html",
     "ParalelMakas680.dc.html",
@@ -1089,12 +1182,12 @@
     "KolNovusKivrik.dc.html",
     "KolNovusKivrik2.dc.html",
     "KolKapi.dc.html",
-    "KolGizliSurme.dc.html",
-    "KolKaldirSur.dc.html",
     "KolBezault.dc.html",
     "AraKaldir.dc.html",
     "BolumKaldir.dc.html",
     "KaldirSistem.dc.html",
+    "KaldirSemalar.dc.html",
+    "KaldirSecim.dc.html",
     "KaldirAraba30.dc.html",
     "KaldirAraba42.dc.html",
     "KaldirMontaj42.dc.html",
@@ -1105,8 +1198,17 @@
     "KaldirIspanyolet.dc.html",
     "KaldirMontaj.dc.html",
     "KaldirEkipman.dc.html",
+    "KolGizliSurme.dc.html",
+    "KolKaldirSur.dc.html",
+    "KolYeni.dc.html",
+    "KolYeni2.dc.html",
+    "KaldirIsleme.dc.html",
+    "KaldirBakim.dc.html",
+    "KaldirSiparis.dc.html",
     "AraKilit.dc.html",
     "BolumKilit.dc.html",
+    "KilitSistem.dc.html",
+    "KilitSecim.dc.html",
     "KilitCoklu.dc.html",
     "KilitKancali.dc.html",
     "KilitMontaj.dc.html",
@@ -1115,6 +1217,8 @@
     "KilitCiftPim.dc.html",
     "KilitTij2.dc.html",
     "KilitKancali3.dc.html",
+    "KilitKarsilik.dc.html",
+    "KilitSiparis.dc.html",
     "Notlar1.dc.html",
     "Notlar2.dc.html",
     "Notlar3.dc.html",
