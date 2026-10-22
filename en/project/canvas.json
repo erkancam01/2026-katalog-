@@ -48,9 +48,9 @@
     },
     "AraKilit.dc.html": {
       "h": 1123,
-      "title": "p.100 · Section divider — Door locks",
+      "title": "p.105 · Section divider — Door locks",
       "w": 794,
-      "x": 3496,
+      "x": 7466,
       "y": 21168
     },
     "AraKol.dc.html": {
@@ -64,7 +64,7 @@
       "h": 1123,
       "title": "Back cover",
       "w": 794,
-      "x": 13818,
+      "x": 20964,
       "y": 21168
     },
     "BolumAcilim.dc.html": {
@@ -114,9 +114,9 @@
     },
     "BolumKilit.dc.html": {
       "h": 1123,
-      "title": "p.101 · Section opener — Door locks",
+      "title": "p.106 · Section opener — Door locks",
       "w": 794,
-      "x": 4290,
+      "x": 8260,
       "y": 21168
     },
     "BolumKol.dc.html": {
@@ -338,73 +338,73 @@
     },
     "KaldirAraba16.dc.html": {
       "h": 1123,
-      "title": "p.89 · Carriage set 16 mm channel",
-      "w": 794,
-      "x": 3496,
-      "y": 18522
-    },
-    "KaldirAraba16b.dc.html": {
-      "h": 1123,
-      "title": "p.90 · Carriage set 300 kg · 16/18/22 profile",
-      "w": 794,
-      "x": 794,
-      "y": 19845
-    },
-    "KaldirAraba16c.dc.html": {
-      "h": 1123,
-      "title": "p.91 · Carriage set 400 kg · 16/18/22 profile",
+      "title": "p.91 · Carriage set 16 mm channel",
       "w": 794,
       "x": 0,
       "y": 19845
     },
-    "KaldirAraba30.dc.html": {
+    "KaldirAraba16b.dc.html": {
       "h": 1123,
-      "title": "p.86 · Carriage sets 30 mm channel",
+      "title": "p.92 · Carriage set 300 kg · 16/18/22 profile",
       "w": 794,
       "x": 2542,
+      "y": 19845
+    },
+    "KaldirAraba16c.dc.html": {
+      "h": 1123,
+      "title": "p.93 · Carriage set 400 kg · 16/18/22 profile",
+      "w": 794,
+      "x": 1748,
+      "y": 19845
+    },
+    "KaldirAraba30.dc.html": {
+      "h": 1123,
+      "title": "p.88 · Carriage sets 30 mm channel",
+      "w": 794,
+      "x": 4290,
       "y": 18522
     },
     "KaldirAraba42.dc.html": {
       "h": 1123,
-      "title": "p.87 · Carriage set 42 mm channel",
+      "title": "p.89 · Carriage set 42 mm channel",
       "w": 794,
-      "x": 1748,
+      "x": 3496,
       "y": 18522
     },
     "KaldirEkipman.dc.html": {
       "h": 1123,
-      "title": "p.95 · System equipment",
+      "title": "p.97 · System equipment",
+      "w": 794,
+      "x": 0,
+      "y": 21168
+    },
+    "KaldirIspanyolet.dc.html": {
+      "h": 1123,
+      "title": "p.95 · Espagnolette and backset",
       "w": 794,
       "x": 3496,
       "y": 19845
     },
-    "KaldirIspanyolet.dc.html": {
-      "h": 1123,
-      "title": "p.93 · Espagnolette and backset",
-      "w": 794,
-      "x": 1748,
-      "y": 19845
-    },
     "KaldirMontaj.dc.html": {
       "h": 1123,
-      "title": "p.94 · Installation details",
+      "title": "p.96 · Installation details",
       "w": 794,
-      "x": 4290,
-      "y": 19845
+      "x": 794,
+      "y": 21168
     },
     "KaldirMontaj16.dc.html": {
       "h": 1123,
-      "title": "p.92 · 16 mm channel assembly diagram",
+      "title": "p.94 · 16 mm channel assembly diagram",
       "w": 794,
-      "x": 2542,
+      "x": 4290,
       "y": 19845
     },
     "KaldirMontaj42.dc.html": {
       "h": 1123,
-      "title": "p.88 · 42 mm carriage assembly diagram",
+      "title": "p.90 · 42 mm carriage assembly diagram",
       "w": 794,
-      "x": 4290,
-      "y": 18522
+      "x": 794,
+      "y": 19845
     },
     "KaldirSistem.dc.html": {
       "h": 1123,
@@ -455,58 +455,58 @@
     },
     "KilitCiftPim.dc.html": {
       "h": 1123,
-      "title": "p.107 · Twin-pin 3-point lock — assembly diagram",
+      "title": "p.114 · Twin-pin 3-point lock — assembly diagram",
       "w": 794,
-      "x": 9054,
+      "x": 14612,
       "y": 21168
     },
     "KilitCoklu.dc.html": {
       "h": 1123,
-      "title": "p.102 · Multipoint hook lock",
-      "w": 794,
-      "x": 5084,
-      "y": 21168
-    },
-    "KilitKancaPim.dc.html": {
-      "h": 1123,
-      "title": "p.106 · Hook-pin 3-point lock — assembly diagram",
-      "w": 794,
-      "x": 8260,
-      "y": 21168
-    },
-    "KilitKancali.dc.html": {
-      "h": 1123,
-      "title": "p.103 · Hook main lock",
-      "w": 794,
-      "x": 5878,
-      "y": 21168
-    },
-    "KilitKancali3.dc.html": {
-      "h": 1123,
-      "title": "p.109 · Hook 3-point lock — assembly diagram",
+      "title": "p.109 · Multipoint hook lock",
       "w": 794,
       "x": 10642,
       "y": 21168
     },
+    "KilitKancaPim.dc.html": {
+      "h": 1123,
+      "title": "p.113 · Hook-pin 3-point lock — assembly diagram",
+      "w": 794,
+      "x": 13818,
+      "y": 21168
+    },
+    "KilitKancali.dc.html": {
+      "h": 1123,
+      "title": "p.110 · Hook main lock",
+      "w": 794,
+      "x": 11436,
+      "y": 21168
+    },
+    "KilitKancali3.dc.html": {
+      "h": 1123,
+      "title": "p.116 · Hook 3-point lock — assembly diagram",
+      "w": 794,
+      "x": 16200,
+      "y": 21168
+    },
     "KilitMontaj.dc.html": {
       "h": 1123,
-      "title": "p.104 · Single-point lock set — assembly diagram",
+      "title": "p.111 · Single-point lock set — assembly diagram",
       "w": 794,
-      "x": 6672,
+      "x": 12230,
       "y": 21168
     },
     "KilitTij.dc.html": {
       "h": 1123,
-      "title": "p.105 · Rod-driven single-point lock — assembly diagram",
+      "title": "p.112 · Rod-driven single-point lock — assembly diagram",
       "w": 794,
-      "x": 7466,
+      "x": 13024,
       "y": 21168
     },
     "KilitTij2.dc.html": {
       "h": 1123,
-      "title": "p.108 · Rod-driven single-point lock — door profile",
+      "title": "p.115 · Rod-driven single-point lock — door profile",
       "w": 794,
-      "x": 9848,
+      "x": 15406,
       "y": 21168
     },
     "KolBezault.dc.html": {
@@ -532,16 +532,16 @@
     },
     "KolGizliSurme.dc.html": {
       "h": 1123,
-      "title": "p.96 · Sliding handle",
+      "title": "p.98 · Sliding handle",
       "w": 794,
-      "x": 794,
+      "x": 2542,
       "y": 21168
     },
     "KolKaldirSur.dc.html": {
       "h": 1123,
-      "title": "p.97 · Novus lift & slide handle",
+      "title": "p.99 · Novus lift & slide handle",
       "w": 794,
-      "x": 0,
+      "x": 1748,
       "y": 21168
     },
     "KolKaldirSur2.dc.html": {
@@ -682,23 +682,23 @@
     },
     "Notlar1.dc.html": {
       "h": 1123,
-      "title": "p.110 · Notes",
+      "title": "p.119 · Notes",
       "w": 794,
-      "x": 11436,
+      "x": 18582,
       "y": 21168
     },
     "Notlar2.dc.html": {
       "h": 1123,
-      "title": "p.111 · Notes",
+      "title": "p.120 · Notes",
       "w": 794,
-      "x": 12230,
+      "x": 19376,
       "y": 21168
     },
     "Notlar3.dc.html": {
       "h": 1123,
-      "title": "p.112 · Notes",
+      "title": "p.121 · Notes",
       "w": 794,
-      "x": 13024,
+      "x": 20170,
       "y": 21168
     },
     "ParalelMakas.dc.html": {
@@ -964,16 +964,79 @@
     },
     "KolYeni.dc.html": {
       "h": 1123,
-      "title": "p.98 · Novus lift & slide handle — with sliding flush pull",
+      "title": "p.100 · Novus lift & slide handle — with sliding flush pull",
       "w": 794,
-      "x": 2542,
+      "x": 3496,
       "y": 21168
     },
     "KolYeni2.dc.html": {
       "h": 1123,
-      "title": "p.99 · Novus lift & slide handle — with sliding flush pull (2)",
+      "title": "p.101 · Novus lift & slide handle — with sliding flush pull (2)",
+      "w": 794,
+      "x": 4290,
+      "y": 21168
+    },
+    "KaldirSemalar.dc.html": {
+      "h": 1123,
+      "title": "p.86 · Lift & slide — opening schemes",
+      "w": 794,
+      "x": 2542,
+      "y": 18522
+    },
+    "KaldirSecim.dc.html": {
+      "h": 1123,
+      "title": "p.87 · Lift & slide — quick selection",
       "w": 794,
       "x": 1748,
+      "y": 18522
+    },
+    "KaldirIsleme.dc.html": {
+      "h": 1123,
+      "title": "p.102 · Lift & slide — machining dimensions",
+      "w": 794,
+      "x": 5084,
+      "y": 21168
+    },
+    "KaldirBakim.dc.html": {
+      "h": 1123,
+      "title": "p.103 · Lift & slide — use and maintenance",
+      "w": 794,
+      "x": 5878,
+      "y": 21168
+    },
+    "KaldirSiparis.dc.html": {
+      "h": 1123,
+      "title": "p.104 · Lift & slide — order list",
+      "w": 794,
+      "x": 6672,
+      "y": 21168
+    },
+    "KilitSistem.dc.html": {
+      "h": 1123,
+      "title": "p.107 · Door locks — system overview",
+      "w": 794,
+      "x": 9054,
+      "y": 21168
+    },
+    "KilitSecim.dc.html": {
+      "h": 1123,
+      "title": "p.108 · Door locks — selection table",
+      "w": 794,
+      "x": 9848,
+      "y": 21168
+    },
+    "KilitKarsilik.dc.html": {
+      "h": 1123,
+      "title": "p.117 · Door locks — keepers and accessories",
+      "w": 794,
+      "x": 16994,
+      "y": 21168
+    },
+    "KilitSiparis.dc.html": {
+      "h": 1123,
+      "title": "p.118 · Door locks — ordering information",
+      "w": 794,
+      "x": 17788,
       "y": 21168
     }
   },
@@ -1123,6 +1186,8 @@
     "AraKaldir.dc.html",
     "BolumKaldir.dc.html",
     "KaldirSistem.dc.html",
+    "KaldirSemalar.dc.html",
+    "KaldirSecim.dc.html",
     "KaldirAraba30.dc.html",
     "KaldirAraba42.dc.html",
     "KaldirMontaj42.dc.html",
@@ -1137,8 +1202,13 @@
     "KolKaldirSur.dc.html",
     "KolYeni.dc.html",
     "KolYeni2.dc.html",
+    "KaldirIsleme.dc.html",
+    "KaldirBakim.dc.html",
+    "KaldirSiparis.dc.html",
     "AraKilit.dc.html",
     "BolumKilit.dc.html",
+    "KilitSistem.dc.html",
+    "KilitSecim.dc.html",
     "KilitCoklu.dc.html",
     "KilitKancali.dc.html",
     "KilitMontaj.dc.html",
@@ -1147,6 +1217,8 @@
     "KilitCiftPim.dc.html",
     "KilitTij2.dc.html",
     "KilitKancali3.dc.html",
+    "KilitKarsilik.dc.html",
+    "KilitSiparis.dc.html",
     "Notlar1.dc.html",
     "Notlar2.dc.html",
     "Notlar3.dc.html",

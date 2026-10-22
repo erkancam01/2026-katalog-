@@ -1773,3 +1773,348 @@
 1772	ArkaKapak	bossy.com.tr · ürünler ve teknik dokümanlar
 1773	ArkaKapak	Katalogdaki teknik bilgiler bilgilendirme amaçlıdır. Bossy, önceden bildirmeksizin ürün ve ölçülerde değişiklik yapma hakkını saklı tutar.
 1774	ArkaKapak	© 2026 Bossy · Birikim Kalıp A.Ş. · Baskı 01/2026
+1775	canvas	s.105 · Bölüm ara sayfası — Kapı kilitleri
+1776	canvas	s.106 · Bölüm açılışı — Kapı kilitleri
+1777	canvas	s.91 · Araba seti 16 mm kanal
+1778	canvas	s.92 · Araba seti 300 kg · 16/18/22 profil
+1779	canvas	s.93 · Araba seti 400 kg · 16/18/22 profil
+1780	canvas	s.88 · Araba setleri 30 mm kanal
+1781	canvas	s.89 · Araba seti 42 mm kanal
+1782	canvas	s.97 · Sistem ekipmanları
+1783	canvas	s.95 · İspanyolet ve kilit mesafesi
+1784	canvas	s.96 · Montaj detayları
+1785	canvas	s.94 · 16 mm kanal montaj şeması
+1786	canvas	s.90 · 42 mm araba montaj şeması
+1787	canvas	s.114 · Çift pimli 3 nokta kilit — montaj şeması
+1788	canvas	s.109 · Çok noktalı kancalı kilit
+1789	canvas	s.113 · Kanca pimli 3 nokta kilit — montaj şeması
+1790	canvas	s.110 · Kancalı ana kilit
+1791	canvas	s.116 · Kancalı 3 nokta kilit — montaj şeması
+1792	canvas	s.111 · Tek nokta kilit seti — montaj şeması
+1793	canvas	s.112 · Tij tahrikli tek nokta kilit — montaj şeması
+1794	canvas	s.115 · Tij tahrikli tek nokta kilit — kapı profili
+1795	canvas	s.98 · Sürme kolu
+1796	canvas	s.99 · Novus kaldır-sür kolu
+1797	canvas	s.119 · Notlar
+1798	canvas	s.120 · Notlar
+1799	canvas	s.121 · Notlar
+1800	canvas	s.100 · Novus kaldır-sür kolu — sürme havuz kolu ile
+1801	canvas	s.101 · Novus kaldır-sür kolu — sürme havuz kolu ile (2)
+1802	canvas	s.86 · Kaldır-sür — açılım şemaları
+1803	canvas	s.87 · Kaldır-sür — hızlı seçim
+1804	canvas	s.102 · Kaldır-sür — i̇şleme ölçüleri
+1805	canvas	s.103 · Kaldır-sür — kullanım ve bakım
+1806	canvas	s.104 · Kaldır-sür — sipariş listesi
+1807	canvas	s.107 · Kapı kilitleri — sistem tanıtımı
+1808	canvas	s.108 · Kapı kilitleri — seçim tablosu
+1809	canvas	s.117 · Kapı kilitleri — karşılıklar ve aksesuar
+1810	canvas	s.118 · Kapı kilitleri — sipariş bilgisi
+1811	Icindekiler	Açılım şemaları · hızlı seçim
+1812	Icindekiler	İşleme · bakım · sipariş listesi
+1813	Icindekiler	Sistem tanıtımı · seçim tablosu
+1814	Icindekiler	Karşılıklar · sipariş bilgisi
+1815	BolumKaldir	Açılım şemaları
+1816	BolumKaldir	Hızlı seçim
+1817	BolumKaldir	Araba setleri · 30 mm
+1818	BolumKaldir	Araba seti · 42 mm
+1819	BolumKaldir	42 mm montaj şeması
+1820	BolumKaldir	Araba setleri · 16/18/22
+1821	BolumKaldir	16 mm montaj şeması
+1822	BolumKaldir	Sürme havuz kolu
+1823	BolumKaldir	Kaldır-sür kolları
+1824	BolumKaldir	İşleme ölçüleri
+1825	BolumKaldir	Kullanım ve bakım
+1826	BolumKaldir	Sipariş listesi
+1827	KaldirSemalar	Kaldır-sür açılım şemaları
+1828	KaldirSemalar	ŞEMALARI
+1829	KaldirSemalar	ŞEMA TİPİ
+1830	KaldirSemalar	ŞEMALAR
+1831	KaldirSemalar	İÇERİDEN GÖRÜNÜŞ
+1832	KaldirSemalar	Sabit kanat (F)
+1833	KaldirSemalar	Duvar / cep
+1834	KaldirSemalar	ŞEMAYA GÖRE DONANIM
+1835	KaldirSemalar	ADET · ŞEMA BAŞINA
+1836	KaldirSemalar	ŞEMA
+1837	KaldirSemalar	HAREKETLİ
+1838	KaldirSemalar	SABİT
+1839	KaldirSemalar	E
+1840	KaldirSemalar	G
+1841	KaldirSemalar	Her hareketli kanat için bir araba seti, bir ispanyolet ve bir kaldır-sür kolu kullanılır.
+1842	KaldirSemalar	Kilitleme noktası ve bağlantı laması adetleri kanat ölçüsüne göre belirlenir; seçim için s. 87'deki tablolara bakınız.
+1843	KaldirSemalar	Şema harfini ve hareketli kanadın açılım yönünü (sağ / sol) siparişte belirtiniz.
+1844	KaldirSemalar	Ölçüler mm · şemalar içeriden görünüştür
+1845	KaldirSecim	Kaldır-sür hızlı seçim
+1846	KaldirSecim	HIZLI
+1847	KaldirSecim	SEÇİM
+1848	KaldirSecim	KULLANIM DİYAGRAMI
+1849	KaldirSecim	ÖRNEK · 40 kg/m²
+1850	KaldirSecim	KANAT GENİŞLİĞİ (mm)
+1851	KaldirSecim	KANAT YÜKSEKLİĞİ (mm)
+1852	KaldirSecim	Kanat ağırlığı = kanat alanı (m²) × birim ağırlık (kg/m²). Diyagram 40 kg/m² örnek birim ağırlık içindir.
+1853	KaldirSecim	Hesaplanan kanat ağırlığı, seçilen araba setinin taşıma değerini aşmamalıdır.
+1854	KaldirSecim	ARABA SETİ SEÇİMİ
+1855	KaldirSecim	KANAL × AĞIRLIK
+1856	KaldirSecim	SAYFA
+1857	KaldirSecim	30 × 22 mm
+1858	KaldirSecim	16 · 18 · 22 profil
+1859	KaldirSecim	İSPANYOLET SEÇİMİ
+1860	KaldirSecim	BOY L
+1861	KaldirSecim	KOL YÜKS.
+1862	KaldirSecim	KANAT YÜKS.
+1863	KaldirSecim	1800 mm
+1864	KaldirSecim	2100 mm
+1865	KaldirSecim	2400 mm
+1866	KaldirSecim	2700 mm
+1867	KaldirSecim	KANAT GENİŞLİĞİNE GÖRE
+1868	KaldirSecim	LAMA
+1869	KaldirSecim	Kısa
+1870	KaldirSecim	Orta
+1871	KaldirSecim	Uzun
+1872	KaldirSecim	ÖRNEK HESAP
+1873	KaldirSecim	Kanat 2500 × 2800 mm → alan 7,0 m²
+1874	KaldirSecim	7,0 m² × 40 kg/m² =
+1875	KaldirSecim	280 kg
+1876	KaldirSecim	Seçim:
+1877	KaldirSecim	· kanat yüksekliğine uygun ispanyolet boyu
+1878	KaldirSecim	SİSTEM SINIRLARI
+1879	KaldirSecim	30 · 42 mm KANAL
+1880	KaldirSecim	maks. 3300 mm
+1881	KaldirSecim	600 / 700 – 3300 mm
+1882	KaldirSecim	Kanat genişliği alt sınırı 30 mm kanalda 600 mm, 42 mm kanalda 700 mm'dir.
+1883	KaldirSecim	— işaretli değerler için teknik destek birimimize danışınız
+1884	KaldirMontaj42	Araba seti s. 89 · ispanyolet boyları s. 95 · montaj detayları s. 96
+1885	KaldirMontaj16	İspanyolet boyları s. 95 · montaj detayları s. 96
+1886	KaldirIsleme	Kaldır-sür işleme ölçüleri
+1887	KaldirIsleme	PROFİL İŞLEME
+1888	KaldirIsleme	İŞLEME
+1889	KaldirIsleme	ÖLÇÜLERİ
+1890	KaldirIsleme	KOL DELİK ŞABLONU
+1891	KaldirIsleme	KANAT PROFİLİ · mm
+1892	KaldirIsleme	Kol delik şablonu
+1893	KaldirIsleme	İSPANYOLET CEBİ
+1894	KaldirIsleme	Kilit mesafesi
+1895	KaldirIsleme	STOPER BAĞLANTISI
+1896	KaldirIsleme	KASA PROFİLİ
+1897	KaldirIsleme	DELİK ÇAPI
+1898	KaldirIsleme	Stoper montaj detayı için s. 96'ya bakınız.
+1899	KaldirIsleme	Kilit mesafesi (27,5 / 37,5 mm) profil sistemine göre seçilir ve siparişte belirtilir.
+1900	KaldirIsleme	İŞLEME ÖZETİ
+1901	KaldirIsleme	İŞLEM
+1902	KaldirIsleme	ÖLÇÜ
+1903	KaldirIsleme	İLGİLİ SAYFA
+1904	KaldirIsleme	Kol mil deliği
+1905	KaldirIsleme	Kol vida delikleri
+1906	KaldirIsleme	Ø8 · 80 aralık
+1907	KaldirIsleme	İspanyolet cebi
+1908	KaldirIsleme	Stoper delikleri
+1909	KaldirIsleme	Ø13 / Ø5 · 20 aralık
+1910	KaldirIsleme	Kasa
+1911	KaldirIsleme	Araba bağlantı delikleri
+1912	KaldirBakim	Kaldır-sür kullanım ve bakım
+1913	KaldirBakim	BİLGİ
+1914	KaldirBakim	VE BAKIM
+1915	KaldirBakim	Açma
+1916	KaldirBakim	Kolu sonuna kadar 180° çevirin. Kanat contalardan ayrılarak arabaların üzerine kalkar.
+1917	KaldirBakim	Kaydırma
+1918	KaldirBakim	Kanadı kol veya tutamaktan tutarak kaydırın. Kanadı zorlamadan, stopere çarptırmadan hareket ettirin.
+1919	KaldirBakim	Kapatma
+1920	KaldirBakim	Kanadı kapalı konuma getirin ve kolu başlangıç konumuna çevirin. Kanat yerine oturur, contalara bastırarak kilitlenir.
+1921	KaldirBakim	UYARILAR
+1922	KaldirBakim	Kanat açık konumdayken kolu kapalı konuma çevirmeyin.
+1923	KaldirBakim	Kanat hareket ederken kanat ile kasa arasına elinizi sokmayın.
+1924	KaldirBakim	Kanada ek yük asmayın; stoperleri sökmeyin.
+1925	KaldirBakim	Çocukların kanadı gözetimsiz kullanmasına izin vermeyin.
+1926	KaldirBakim	BAKIM
+1927	KaldirBakim	ÖNERİLEN
+1928	KaldirBakim	Ray ve kanal:
+1929	KaldirBakim	Alt rayı ve kanalı toz, kum ve yabancı maddelerden düzenli olarak temizleyin.
+1930	KaldirBakim	Hareketli parçalar:
+1931	KaldirBakim	İspanyolet, kilitleme noktaları ve araba makaralarını asit ve reçine içermeyen yağ ile yağlayın.
+1932	KaldirBakim	Yüzeyler:
+1933	KaldirBakim	Nötr temizlik maddesi ve yumuşak bez kullanın; aşındırıcı veya solvent içeren ürün kullanmayın.
+1934	KaldirBakim	Bağlantılar:
+1935	KaldirBakim	Kol ve kilit vidalarının sıkılığını kontrol edin.
+1936	KaldirBakim	Ayar ve onarım:
+1937	KaldirBakim	Yalnızca yetkili ve eğitimli personel tarafından yapılmalıdır.
+1938	KaldirBakim	BAKIM PERİYODU
+1939	KaldirBakim	SIKLIK
+1940	KaldirBakim	Ray ve kanal temizliği
+1941	KaldirBakim	3 ayda bir
+1942	KaldirBakim	Hareketli parça yağlama
+1943	KaldirBakim	Yılda en az 1
+1944	KaldirBakim	Vida ve bağlantı kontrolü
+1945	KaldirBakim	Conta kontrolü
+1946	KaldirBakim	Bu bilgiler son kullanıcıya iletilmelidir. Düzenli bakım, sistemin ömrünü ve güvenli kullanımını doğrudan etkiler.
+1947	KaldirBakim	Bakım periyotları normal kullanım koşulları için önerilmiştir
+1948	KaldirSiparis	Kaldır-sür sipariş listesi
+1949	KaldirSiparis	ÜRÜN KODLARI
+1950	KaldirSiparis	SİPARİŞ
+1951	KaldirSiparis	LİSTESİ
+1952	KaldirSiparis	AÇIKLAMA
+1953	KaldirSiparis	ÜRÜN KODU
+1954	KaldirSiparis	AMBALAJ
+1955	KaldirSiparis	Araba seti 200 kg · 30 mm kanal
+1956	KaldirSiparis	Köşe tahrikli ön + arka araba
+1957	KaldirSiparis	Araba seti 300 kg · 30 mm kanal
+1958	KaldirSiparis	Araba seti 400 kg · 30 mm kanal
+1959	KaldirSiparis	300–400 kg kanatlar
+1960	KaldirSiparis	Araba seti 200 kg · 16/18/22
+1961	KaldirSiparis	Kanal profilleri için
+1962	KaldirSiparis	Araba seti 300 kg · 16/18/22
+1963	KaldirSiparis	Araba seti 400 kg · 16/18/22
+1964	KaldirSiparis	İspanyolet L 1800
+1965	KaldirSiparis	Kol yüksekliği 440 mm
+1966	KaldirSiparis	İspanyolet L 2100
+1967	KaldirSiparis	Kol yüksekliği 957 mm
+1968	KaldirSiparis	İspanyolet L 2400
+1969	KaldirSiparis	İspanyolet L 2700
+1970	KaldirSiparis	Kilitleme noktası · hareketli
+1971	KaldirSiparis	Mikro ventilasyon
+1972	KaldirSiparis	Kilitleme noktası · sabit
+1973	KaldirSiparis	Sabit kanat
+1974	KaldirSiparis	Bağlantı laması 900 mm
+1975	KaldirSiparis	Bağlantı laması 1400 mm
+1976	KaldirSiparis	Bağlantı laması 1900 mm
+1977	KaldirSiparis	80 mm delik aralığı
+1978	KaldirSiparis	Novus kaldır-sür kol seti
+1979	KaldirSiparis	İç kol + dış havuz kolu
+1980	KaldirSiparis	SİPARİŞTE BELİRTİLECEKLER
+1981	KaldirSiparis	Kanal tipi (30 × 22 / 42 × 22 mm / 16 · 18 · 22 profil) ve kanat ağırlığı
+1982	KaldirSiparis	Kanat yüksekliğine göre ispanyolet boyu ve kilit mesafesi (27,5 / 37,5 mm)
+1983	KaldirSiparis	Açılım şeması ve hareketli kanadın açılım yönü (sağ / sol), renk / kaplama
+1984	BolumKilit	Sistem tanıtımı
+1985	BolumKilit	Seçim tablosu
+1986	BolumKilit	Tij tahrikli tek nokta
+1987	BolumKilit	Kanca pimli 3 nokta
+1988	BolumKilit	Çift pimli 3 nokta
+1989	BolumKilit	Karşılıklar ve aksesuar
+1990	BolumKilit	Sipariş bilgisi
+1991	KilitSistem	Kapı kilitleri — sistem tanıtımı
+1992	KilitSistem	KAPI KİLİTLERİ · SİSTEM
+1993	KilitSistem	TANITIMI
+1994	KilitSistem	PARÇA HARİTASI
+1995	KilitSistem	İÇERİDEN · 3 NOKTA
+1996	KilitSistem	Yükseklikler lama alt ucundan, mm
+1997	KilitSistem	NO
+1998	KilitSistem	Ana kilit
+1999	KilitSistem	koldan kumandalı
+2000	KilitSistem	Üst kilitleme noktası
+2001	KilitSistem	kanca + pim
+2002	KilitSistem	Alt kilitleme noktası
+2003	KilitSistem	Lama
+2004	KilitSistem	22 mm · U / düz
+2005	KilitSistem	Karşılıklar
+2006	KilitSistem	kasa tarafı
+2007	KilitSistem	kol yüksekliği 1020
+2008	KilitSistem	Avrupa profil · PZ
+2009	KilitSistem	menteşe tarafı
+2010	KilitSistem	TEMEL ÖLÇÜLER
+2011	KilitSistem	DORNMASS
+2012	KilitSistem	35 mm
+2013	KilitSistem	AKS · KOL – BAREL
+2014	KilitSistem	92 mm
+2015	KilitSistem	LAMA BOYU
+2016	KilitSistem	2170 mm
+2017	KilitSistem	KOL YÜKSEKLİĞİ
+2018	KilitSistem	1020 mm
+2019	KilitSistem	KANCA · PİM ÇIKIŞI
+2020	KilitSistem	KİLİTLEME ELEMANLARI
+2021	KilitSistem	Kasa karşılığına kancalanır
+2022	KilitSistem	Karşılığa girerek sıkıştırır
+2023	KilitSistem	MANTAR
+2024	KilitSistem	Tij ile çalışan kilit noktası
+2025	KilitSistem	DİL
+2026	KilitSistem	Ana dil / kilitleme dili
+2027	KilitSistem	Kol indirildiğinde tüm kilitleme noktaları aynı anda kasa karşılıklarına kilitlenir.
+2028	KilitSistem	Ölçüler mm · çizim ölçeksizdir
+2029	KilitSecim	Kapı kilitleri — seçim tablosu
+2030	KilitSecim	KAPI KİLİTLERİ · SEÇİM
+2031	KilitSecim	TABLOSU
+2032	KilitSecim	ÜRÜN MATRİSİ
+2033	KilitSecim	8 ÜRÜN
+2034	KilitSecim	NOKTA
+2035	KilitSecim	KİLİTLEME ELEMANI
+2036	KilitSecim	D · AKS
+2037	KilitSecim	Kanca + 2 pim
+2038	KilitSecim	22 U / düz
+2039	KilitSecim	Dil + kanca + 2 pim
+2040	KilitSecim	Dil + sürgü
+2041	KilitSecim	1 + mantar
+2042	KilitSecim	Dil + mantar
+2043	KilitSecim	Kol + tij
+2044	KilitSecim	Kanca + pim
+2045	KilitSecim	Kancalı 3 nokta
+2046	KilitSecim	Kanca
+2047	KilitSecim	NOKTA YÜKSEKLİKLERİ
+2048	KilitSecim	3 NOKTA · mm
+2049	KilitSecim	LAMA ALT UCUNDAN
+2050	KilitSecim	Üst kanca
+2051	KilitSecim	Kol · ana kilit
+2052	KilitSecim	Alt kanca
+2053	KilitSecim	ÖLÇÜ VE UYUMLULUK
+2054	KilitSecim	PARAMETRE
+2055	KilitSecim	DEĞER
+2056	KilitSecim	Kol yuvası
+2057	KilitSecim	Kapı yüksekliği aralığı
+2058	KilitSecim	DIN sol / sağ çevrilebilirlik
+2059	KilitSecim	Karşılık ayar aralığı
+2060	KilitSecim	D: dornmaß (lama yüzü ile kol mili ekseni arası) · Aks: kol mili ile barel ekseni arası.
+2061	KilitSecim	Tij tahrikli setlerde kilit gövdesi, tij ve köşe dönüşleri üzerinden kanat çevresindeki mantar noktalarını çalıştırır.
+2062	KilitSecim	Kapı yönünü (DIN sol / sağ), lama tipini (U / düz) ve rengi siparişte belirtiniz.
+2063	KilitKarsilik	Kapı kilitleri — karşılıklar ve aksesuar
+2064	KilitKarsilik	KAPI KİLİTLERİ · AKSESUAR
+2065	KilitKarsilik	KARŞILIKLAR
+2066	KilitKarsilik	VE AKSESUAR
+2067	KilitKarsilik	KASA TARAFI · ADET / KANAT
+2068	KilitKarsilik	KULLANILDIĞI KİLİT
+2069	KilitKarsilik	ADET
+2070	KilitKarsilik	3 nokta kilitler · ana kilit
+2071	KilitKarsilik	Kancalı / kanca pimli 3 nokta
+2072	KilitKarsilik	Çift pimli kilitler
+2073	KilitKarsilik	Tek nokta / tij tahrikli
+2074	KilitKarsilik	Tij tahrikli setler
+2075	KilitKarsilik	AKSESUAR
+2076	KilitKarsilik	SET DIŞI / UYUMLU PARÇALAR
+2077	KilitKarsilik	BAREL
+2078	KilitKarsilik	Avrupa profil · PZ · aks 92
+2079	KilitKarsilik	Rozetli kapı kolu · bkz. s. 81
+2080	KilitKarsilik	22 mm · U veya düz
+2081	KilitKarsilik	MENTEŞE
+2082	KilitKarsilik	Tij tahrikli setlerde 3 adet
+2083	KilitKarsilik	MANTAR PİM
+2084	KilitKarsilik	Tij tahrikli setler · 6 – 8 adet
+2085	KilitKarsilik	TİJ / KÖŞE DÖNÜŞ
+2086	KilitKarsilik	UYUMLULUK NOTLARI
+2087	KilitKarsilik	Karşılık tipi, kilitleme elemanına (kanca, pim, mantar) ve kasa profil kesitine göre seçilir.
+2088	KilitKarsilik	Barel boyu kapı kalınlığına göre seçilir.
+2089	KilitKarsilik	Profil sistemine göre karşılık seçimi için teknik destek birimimize danışınız.
+2090	KilitKarsilik	Karşılıklar kilit setiyle birlikte ya da ayrı yedek parça olarak sipariş edilebilir. Kasa profil kesitini ve kilitleme elemanı tipini belirtiniz.
+2091	KilitSiparis	Kapı kilitleri — sipariş bilgisi
+2092	KilitSiparis	KAPI KİLİTLERİ · SİPARİŞ
+2093	KilitSiparis	BİLGİSİ
+2094	KilitSiparis	Ana kilit · 2 ek kilit · lama · karşılıklar
+2095	KilitSiparis	Ana kilit · ek kilitler · lama
+2096	KilitSiparis	Gövde · karşılık · kol · barel rozeti
+2097	KilitSiparis	8 parça · 3 menteşe dahil
+2098	KilitSiparis	Ana kilit · 2 nokta · lama · karşılıklar
+2099	KilitSiparis	6 parça · 3 menteşe dahil
+2100	KilitSiparis	SİPARİŞ KONTROL LİSTESİ
+2101	KilitSiparis	Kilit tipi
+2102	KilitSiparis	nokta sayısı · eleman
+2103	KilitSiparis	Aks
+2104	KilitSiparis	Lama tipi
+2105	KilitSiparis	U / düz · 22 mm
+2106	KilitSiparis	Kapı yönü
+2107	KilitSiparis	DIN sol / sağ
+2108	KilitSiparis	PZ · boy
+2109	KilitSiparis	Kasa profili
+2110	KilitSiparis	karşılık seçimi
+2111	KilitSiparis	Renk / yüzey
+2112	KilitSiparis	STANDART VE TESTLER
+2113	KilitSiparis	SINIF / SONUÇ
+2114	KilitSiparis	EN 15685 · çok noktalı kilit
+2115	KilitSiparis	EN 12209 · kilit
+2116	KilitSiparis	EN 1670 · korozyon
+2117	KilitSiparis	EN 1627 · RC sınıfı
+2118	KilitSiparis	Ürünler CE ve TSE işaretlidir.
+2119	KilitSiparis	Test ve sertifika ayrıntıları için teknik destek birimimize danışınız.

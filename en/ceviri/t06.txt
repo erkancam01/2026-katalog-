@@ -1,0 +1,347 @@
+# 22 Ekim 2026 — kaldır-sür ve kapı kilidi bölümlerine eklenen sayfalar
+1775|p.105 · Section divider — Door locks
+1776|p.106 · Section opener — Door locks
+1777|p.91 · Carriage set 16 mm channel
+1778|p.92 · Carriage set 300 kg · 16/18/22 profile
+1779|p.93 · Carriage set 400 kg · 16/18/22 profile
+1780|p.88 · Carriage sets 30 mm channel
+1781|p.89 · Carriage set 42 mm channel
+1782|p.97 · System equipment
+1783|p.95 · Espagnolette and backset
+1784|p.96 · Installation details
+1785|p.94 · 16 mm channel assembly diagram
+1786|p.90 · 42 mm carriage assembly diagram
+1787|p.114 · Twin-pin 3-point lock — assembly diagram
+1788|p.109 · Multipoint hook lock
+1789|p.113 · Hook-pin 3-point lock — assembly diagram
+1790|p.110 · Hook main lock
+1791|p.116 · Hook 3-point lock — assembly diagram
+1792|p.111 · Single-point lock set — assembly diagram
+1793|p.112 · Rod-driven single-point lock — assembly diagram
+1794|p.115 · Rod-driven single-point lock — door profile
+1795|p.98 · Sliding handle
+1796|p.99 · Novus lift & slide handle
+1797|p.119 · Notes
+1798|p.120 · Notes
+1799|p.121 · Notes
+1800|p.100 · Novus lift & slide handle — with sliding flush pull
+1801|p.101 · Novus lift & slide handle — with sliding flush pull (2)
+1802|p.86 · Lift & slide — opening schemes
+1803|p.87 · Lift & slide — quick selection
+1804|p.102 · Lift & slide — machining dimensions
+1805|p.103 · Lift & slide — use and maintenance
+1806|p.104 · Lift & slide — order list
+1807|p.107 · Door locks — system overview
+1808|p.108 · Door locks — selection table
+1809|p.117 · Door locks — keepers and accessories
+1810|p.118 · Door locks — ordering information
+1811|Opening schemes · quick selection
+1812|Machining · maintenance · order list
+1813|System overview · selection table
+1814|Keepers · ordering information
+1815|Opening schemes
+1816|Quick selection
+1817|Carriage sets · 30 mm
+1818|Carriage set · 42 mm
+1819|42 mm assembly diagram
+1820|Carriage sets · 16/18/22
+1821|16 mm assembly diagram
+1822|Sliding flush pull
+1823|Lift &amp; slide handles
+1824|Machining dimensions
+1825|Use and maintenance
+1826|Order list
+1827|Lift &amp; slide opening schemes
+1828|SCHEMES
+1829|SCHEME TYPES
+1830|SCHEMES
+1831|VIEW FROM INSIDE
+1832|Fixed sash (F)
+1833|Wall / pocket
+1834|HARDWARE BY SCHEME
+1835|QTY · PER SCHEME
+1836|SCHEME
+1837|SLIDING
+1838|FIXED
+1839|=
+1840|=
+1841|Each sliding sash takes one carriage set, one espagnolette and one lift &amp; slide handle.
+1842|The number of locking points and connecting bars depends on sash size; see the tables on p. 87.
+1843|State the scheme letter and the opening direction of the sliding sash (right / left) when ordering.
+1844|Dimensions in mm · schemes are viewed from inside
+1845|Lift &amp; slide quick selection
+1846|QUICK
+1847|SELECTION
+1848|APPLICATION DIAGRAM
+1849|EXAMPLE · 40 kg/m²
+1850|SASH WIDTH (mm)
+1851|SASH HEIGHT (mm)
+1852|Sash weight = sash area (m²) × unit weight (kg/m²). The diagram is for an example unit weight of 40 kg/m².
+1853|The calculated sash weight must not exceed the capacity of the selected carriage set.
+1854|CARRIAGE SET SELECTION
+1855|CHANNEL × WEIGHT
+1856|PAGE
+1857|=
+1858|16 · 18 · 22 profile
+1859|ESPAGNOLETTE SELECTION
+1860|LENGTH L
+1861|HANDLE HT.
+1862|SASH HT.
+1863|=
+1864|=
+1865|=
+1866|=
+1867|BY SASH WIDTH
+1868|FACEPLATE
+1868@KaldirSecim|BAR
+1869|Short
+1870|Medium
+1871|Long
+1872|EXAMPLE CALCULATION
+1873|Sash 2500 × 2800 mm → area 7.0 m²
+1874|7.0 m² × 40 kg/m² =
+1875|=
+1876|Selection:
+1877|· espagnolette length to suit sash height
+1878|SYSTEM LIMITS
+1879|30 · 42 mm CHANNEL
+1880|max. 3300 mm
+1881|=
+1882|The minimum sash width is 600 mm for the 30 mm channel and 700 mm for the 42 mm channel.
+1883|— for marked values, please consult our technical support team
+1884|Carriage set p. 89 · espagnolette lengths p. 95 · installation details p. 96
+1885|Espagnolette lengths p. 95 · installation details p. 96
+1886|Lift &amp; slide machining dimensions
+1887|PROFILE MACHINING
+1888|MACHINING
+1889|DIMENSIONS
+1890|HANDLE DRILLING TEMPLATE
+1891|SASH PROFILE · mm
+1892|Handle drilling template
+1893|ESPAGNOLETTE POCKET
+1894|Backset
+1895|STOPPER CONNECTION
+1896|FRAME PROFILE
+1897|HOLE DIAMETER
+1898|See p. 96 for the stopper installation detail.
+1899|The backset (27.5 / 37.5 mm) is chosen according to the profile system and specified when ordering.
+1900|MACHINING SUMMARY
+1901|OPERATION
+1902|DIMENSION
+1903|SEE PAGE
+1904|Handle spindle hole
+1905|Handle screw holes
+1906|Ø8 · 80 spacing
+1907|Espagnolette pocket
+1908|Stopper holes
+1909|Ø13 / Ø5 · 20 spacing
+1910|Frame
+1911|Carriage fixing holes
+1912|Lift &amp; slide use and maintenance
+1913|INFORMATION
+1914|AND MAINTENANCE
+1915|Opening
+1916|Turn the handle fully through 180°. The sash lifts off the gaskets onto its carriages.
+1917|Sliding
+1918|Slide the sash by holding the handle or grip. Move it without forcing and without striking the stopper.
+1919|Closing
+1920|Bring the sash to the closed position and turn the handle back to its starting position. The sash lowers into place and locks against the gaskets.
+1921|WARNINGS
+1922|Do not turn the handle to the closed position while the sash is open.
+1923|Keep hands clear of the gap between sash and frame while the sash is moving.
+1924|Do not hang extra loads on the sash; do not remove the stoppers.
+1925|Do not let children use the sash unsupervised.
+1926|MAINTENANCE
+1927|RECOMMENDED
+1928|Rail and channel:
+1929|Regularly clean the bottom rail and channel of dust, sand and debris.
+1930|Moving parts:
+1931|Lubricate the espagnolette, locking points and carriage rollers with acid- and resin-free oil.
+1932|Surfaces:
+1933|Use a neutral cleaner and a soft cloth; do not use abrasive or solvent-based products.
+1934|Fixings:
+1935|Check that the handle and lock screws are tight.
+1936|Adjustment and repair:
+1937|Must only be carried out by authorised, trained personnel.
+1938|MAINTENANCE INTERVALS
+1939|FREQUENCY
+1940|Rail and channel cleaning
+1941|Every 3 months
+1942|Lubrication of moving parts
+1943|At least once a year
+1944|Screw and fixing check
+1945|Gasket check
+1946|This information must be passed on to the end user. Regular maintenance directly affects the service life and safe use of the system.
+1947|Maintenance intervals are recommended for normal operating conditions
+1948|Lift &amp; slide order list
+1949|PRODUCT CODES
+1950|ORDER
+1951|LIST
+1952|DESCRIPTION
+1953|PRODUCT CODE
+1954|PACKAGING
+1955|Carriage set 200 kg · 30 mm channel
+1956|Corner-driven front + rear carriage
+1957|Carriage set 300 kg · 30 mm channel
+1958|Carriage set 400 kg · 30 mm channel
+1959|300–400 kg sashes
+1960|Carriage set 200 kg · 16/18/22
+1961|For channel profiles
+1962|Carriage set 300 kg · 16/18/22
+1963|Carriage set 400 kg · 16/18/22
+1964|Espagnolette L 1800
+1965|Handle height 440 mm
+1966|Espagnolette L 2100
+1967|Handle height 957 mm
+1968|Espagnolette L 2400
+1969|Espagnolette L 2700
+1970|Locking point · sliding
+1971|Micro-ventilation
+1972|Locking point · fixed
+1973|Fixed sash
+1974|Connecting bar 900 mm
+1975|Connecting bar 1400 mm
+1976|Connecting bar 1900 mm
+1977|80 mm hole spacing
+1978|Novus lift &amp; slide handle set
+1979|Inner handle + outer flush pull
+1980|TO BE SPECIFIED WHEN ORDERING
+1981|Channel type (30 × 22 / 42 × 22 mm / 16 · 18 · 22 profile) and sash weight
+1982|Espagnolette length to suit sash height and backset (27.5 / 37.5 mm)
+1983|Opening scheme and opening direction of the sliding sash (right / left), colour / finish
+1984|System overview
+1985|Selection table
+1986|Rod-driven single-point
+1987|Hook-pin 3-point
+1988|Twin-pin 3-point
+1989|Keepers and accessories
+1990|Ordering information
+1991|Door locks — system overview
+1992|DOOR LOCKS · SYSTEM
+1993|OVERVIEW
+1994|PARTS MAP
+1995|FROM INSIDE · 3-POINT
+1996|Heights from the bottom end of the faceplate, mm
+1997|=
+1998|Main lock
+1999|handle-operated
+2000|Top locking point
+2001|hook + pin
+2002|Bottom locking point
+2003|Faceplate
+2004|22 mm · U / flat
+2005|Keepers
+2006|frame side
+2007|handle height 1020
+2008|Euro profile · PZ
+2009|hinge side
+2010|BASIC DIMENSIONS
+2011|BACKSET
+2012|=
+2013|CENTRES · HANDLE – CYLINDER
+2014|=
+2015|FACEPLATE LENGTH
+2016|=
+2017|HANDLE HEIGHT
+2018|=
+2019|HOOK · PIN PROJECTION
+2020|LOCKING ELEMENTS
+2021|Hooks into the frame keeper
+2022|Engages the keeper and compresses
+2023|MUSHROOM
+2024|Rod-operated locking point
+2025|LATCH
+2026|Latch / deadbolt
+2027|When the handle is lowered, all locking points lock into the frame keepers at the same time.
+2028|Dimensions in mm · drawing not to scale
+2029|Door locks — selection table
+2030|DOOR LOCKS · SELECTION
+2031|TABLE
+2032|PRODUCT MATRIX
+2033|8 PRODUCTS
+2034|POINTS
+2035|LOCKING ELEMENT
+2036|BS · CTR
+2037|Hook + 2 pins
+2038|22 U / flat
+2039|Latch + hook + 2 pins
+2040|Latch + bolt
+2041|1 + mushroom
+2042|Latch + mushroom
+2043|Handle + rod
+2044|Hook + pin
+2045|Hook 3-point
+2046|Hook
+2047|POINT HEIGHTS
+2048|3-POINT · mm
+2049|FROM FACEPLATE BOTTOM
+2050|Top hook
+2051|Handle · main lock
+2052|Bottom hook
+2053|DIMENSIONS AND COMPATIBILITY
+2054|PARAMETER
+2055|VALUE
+2056|Handle seat
+2057|Door height range
+2058|DIN left / right reversible
+2059|Keeper adjustment range
+2060|BS: backset (faceplate face to handle spindle axis) · Ctr: handle spindle to cylinder axis.
+2061|In rod-driven sets, the lock body operates the mushroom points around the leaf via the rods and corner drives.
+2062|State the door handing (DIN left / right), faceplate type (U / flat) and colour when ordering.
+2063|Door locks — keepers and accessories
+2064|DOOR LOCKS · ACCESSORIES
+2065|KEEPERS
+2066|AND ACCESSORIES
+2067|FRAME SIDE · QTY / LEAF
+2068|USED WITH LOCK
+2069|QTY
+2070|3-point locks · main lock
+2071|Hook / hook-pin 3-point
+2072|Twin-pin locks
+2073|Single-point / rod-driven
+2074|Rod-driven sets
+2075|ACCESSORIES
+2076|NOT IN SET / COMPATIBLE PARTS
+2077|CYLINDER
+2078|Euro profile · PZ · 92 centres
+2079|Door handle on rose · see p. 81
+2080|22 mm · U or flat
+2081|HINGE
+2082|3 pcs in rod-driven sets
+2083|MUSHROOM PIN
+2084|Rod-driven sets · 6 – 8 pcs
+2085|ROD / CORNER DRIVE
+2086|COMPATIBILITY NOTES
+2087|The keeper type is selected according to the locking element (hook, pin, mushroom) and the frame profile section.
+2088|The cylinder length is selected according to door thickness.
+2089|Please consult our technical support team for keeper selection by profile system.
+2090|Keepers can be ordered with the lock set or separately as spare parts. Specify the frame profile section and locking element type.
+2091|Door locks — ordering information
+2092|DOOR LOCKS · ORDERING
+2093|INFORMATION
+2094|Main lock · 2 auxiliary locks · faceplate · keepers
+2095|Main lock · auxiliary locks · faceplate
+2096|Body · keeper · handle · cylinder escutcheon
+2097|8 parts · incl. 3 hinges
+2098|Main lock · 2 points · faceplate · keepers
+2099|6 parts · incl. 3 hinges
+2100|ORDER CHECKLIST
+2101|Lock type
+2102|number of points · element
+2103|Centres
+2104|Faceplate type
+2105|U / flat · 22 mm
+2106|Door handing
+2107|DIN left / right
+2108|PZ · length
+2109|Frame profile
+2110|keeper selection
+2111|Colour / finish
+2112|STANDARDS AND TESTS
+2113|CLASS / RESULT
+2114|EN 15685 · multipoint lock
+2115|EN 12209 · lock
+2116|EN 1670 · corrosion
+2117|EN 1627 · RC class
+2118|Products are CE and TSE marked.
+2119|Please consult our technical support team for test and certificate details.
