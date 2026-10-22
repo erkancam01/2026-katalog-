@@ -1,0 +1,1174 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "Aksesuar1.dc.html": {
+      "h": 1123,
+      "title": "p.37 · Auxiliary accessories A01–A03",
+      "w": 794,
+      "x": 0,
+      "y": 7938
+    },
+    "Aksesuar2.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Auxiliary accessories A07–A12 (archive)",
+      "w": 794,
+      "x": 874,
+      "y": 0
+    },
+    "Aksesuar3.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Auxiliary accessories A13–A16 (archive)",
+      "w": 794,
+      "x": 1748,
+      "y": 0
+    },
+    "AksesuarEk.dc.html": {
+      "h": 1123,
+      "title": "p.39 · Auxiliary accessories A09–A16",
+      "w": 794,
+      "x": 1748,
+      "y": 7938
+    },
+    "AksesuarManivela.dc.html": {
+      "h": 1123,
+      "title": "p.38 · Auxiliary accessories A04–A08",
+      "w": 794,
+      "x": 2542,
+      "y": 7938
+    },
+    "AraKaldir.dc.html": {
+      "h": 1123,
+      "title": "p.83 · Section divider — Lift & slide",
+      "w": 794,
+      "x": 3496,
+      "y": 17199
+    },
+    "AraKilit.dc.html": {
+      "h": 1123,
+      "title": "p.100 · Section divider — Door locks",
+      "w": 794,
+      "x": 3496,
+      "y": 21168
+    },
+    "AraKol.dc.html": {
+      "h": 1123,
+      "title": "p.69 · Section divider — Handles",
+      "w": 794,
+      "x": 1748,
+      "y": 14553
+    },
+    "ArkaKapak.dc.html": {
+      "h": 1123,
+      "title": "Back cover",
+      "w": 794,
+      "x": 13818,
+      "y": 21168
+    },
+    "BolumAcilim.dc.html": {
+      "h": 1123,
+      "title": "p.03 · Section opener — Opening systems",
+      "w": 794,
+      "x": 4290,
+      "y": 0
+    },
+    "BolumAcilimA.dc.html": {
+      "h": 1123,
+      "page": "bolum04",
+      "title": "A · Light grey scene, large product",
+      "w": 794,
+      "x": 0,
+      "y": 0
+    },
+    "BolumAcilimB.dc.html": {
+      "h": 1123,
+      "page": "bolum04",
+      "title": "B · Colour panel, product overlaps panel",
+      "w": 794,
+      "x": 874,
+      "y": 0
+    },
+    "BolumAcilimC.dc.html": {
+      "h": 1123,
+      "page": "bolum04",
+      "title": "C · Giant coloured 01, product in front",
+      "w": 794,
+      "x": 1748,
+      "y": 0
+    },
+    "BolumCephe.dc.html": {
+      "h": 1123,
+      "title": "p.40 · Section opener — Facade systems",
+      "w": 794,
+      "x": 4290,
+      "y": 7938
+    },
+    "BolumKaldir.dc.html": {
+      "h": 1123,
+      "title": "p.84 · Section opener — Lift & slide",
+      "w": 794,
+      "x": 794,
+      "y": 18522
+    },
+    "BolumKilit.dc.html": {
+      "h": 1123,
+      "title": "p.101 · Section opener — Door locks",
+      "w": 794,
+      "x": 4290,
+      "y": 21168
+    },
+    "BolumKol.dc.html": {
+      "h": 1123,
+      "title": "p.70 · Section opener — Handles",
+      "w": 794,
+      "x": 4290,
+      "y": 14553
+    },
+    "BolumMentese.dc.html": {
+      "h": 1123,
+      "title": "p.62 · Section opener — Hinges",
+      "w": 794,
+      "x": 2542,
+      "y": 13230
+    },
+    "CepheBuyuk.dc.html": {
+      "h": 1123,
+      "title": "p.42 · Outward opening — Large friction stays",
+      "w": 794,
+      "x": 794,
+      "y": 9261
+    },
+    "CepheEkipman.dc.html": {
+      "h": 1123,
+      "title": "p.48 · System hardware equipment",
+      "w": 794,
+      "x": 794,
+      "y": 10584
+    },
+    "CepheKilit1.dc.html": {
+      "h": 1123,
+      "title": "p.45 · Facade locking set W 1200",
+      "w": 794,
+      "x": 1748,
+      "y": 9261
+    },
+    "CepheKilit2.dc.html": {
+      "h": 1123,
+      "title": "p.46 · Facade locking set W 1200–1400",
+      "w": 794,
+      "x": 4290,
+      "y": 9261
+    },
+    "CepheKilit3.dc.html": {
+      "h": 1123,
+      "title": "p.47 · Facade locking set W 1500",
+      "w": 794,
+      "x": 3496,
+      "y": 9261
+    },
+    "CepheKucuk.dc.html": {
+      "h": 1123,
+      "title": "p.41 · Outward opening — Small friction stays",
+      "w": 794,
+      "x": 3496,
+      "y": 7938
+    },
+    "CiftAcilim100Cizim.dc.html": {
+      "h": 1123,
+      "title": "p.11 · 100 kg — Assembly diagram",
+      "w": 794,
+      "x": 3496,
+      "y": 1323
+    },
+    "CiftAcilim100Veri.dc.html": {
+      "h": 1123,
+      "title": "p.12 · 100 kg — Technical data",
+      "w": 794,
+      "x": 794,
+      "y": 2646
+    },
+    "CiftAcilim130Cizim.dc.html": {
+      "h": 1123,
+      "title": "p.13 · 130 kg — Assembly diagram",
+      "w": 794,
+      "x": 0,
+      "y": 2646
+    },
+    "CiftAcilim130Veri.dc.html": {
+      "h": 1123,
+      "title": "p.14 · 130 kg — Technical data",
+      "w": 794,
+      "x": 2542,
+      "y": 2646
+    },
+    "CiftAcilim150Cizim.dc.html": {
+      "h": 1123,
+      "title": "p.15 · 150 kg — Assembly diagram",
+      "w": 794,
+      "x": 1748,
+      "y": 2646
+    },
+    "CiftAcilim150Veri.dc.html": {
+      "h": 1123,
+      "title": "p.16 · 150 kg — Technical data",
+      "w": 794,
+      "x": 4290,
+      "y": 2646
+    },
+    "CiftAcilim170Cizim.dc.html": {
+      "h": 1123,
+      "title": "p.17 · 170 kg — Assembly diagram",
+      "w": 794,
+      "x": 3496,
+      "y": 2646
+    },
+    "CiftAcilim170Veri.dc.html": {
+      "h": 1123,
+      "title": "p.18 · 170 kg — Technical data",
+      "w": 794,
+      "x": 794,
+      "y": 3969
+    },
+    "CiftAcilim80Cizim.dc.html": {
+      "h": 1123,
+      "title": "p.09 · 80 kg — Assembly diagram",
+      "w": 794,
+      "x": 1748,
+      "y": 1323
+    },
+    "CiftAcilim80Veri.dc.html": {
+      "h": 1123,
+      "title": "p.10 · 80 kg — Technical data",
+      "w": 794,
+      "x": 4290,
+      "y": 1323
+    },
+    "CiftAcilimBilesenler.dc.html": {
+      "h": 1123,
+      "title": "p.06 · Tilt & Turn — System sets 1–5",
+      "w": 794,
+      "x": 0,
+      "y": 1323
+    },
+    "CiftAcilimBilesenler2.dc.html": {
+      "h": 1123,
+      "title": "p.07 · Tilt & Turn — System sets 5–6",
+      "w": 794,
+      "x": 2542,
+      "y": 1323
+    },
+    "CiftAcilimBilesenler3.dc.html": {
+      "h": 1123,
+      "title": "p.08 · Tilt & Turn — Optional hardware 8–13",
+      "w": 794,
+      "x": 5084,
+      "y": 1323
+    },
+    "CiftAcilimManivela.dc.html": {
+      "h": 1123,
+      "title": "p.21 · Tilt & Turn — Concealed lever handle set",
+      "w": 794,
+      "x": 1748,
+      "y": 3969
+    },
+    "CiftAcilimPasif.dc.html": {
+      "h": 1123,
+      "title": "p.19 · Tilt & Turn — Passive sash opening",
+      "w": 794,
+      "x": 20,
+      "y": 3983
+    },
+    "CiftAcilimPasifVeri.dc.html": {
+      "h": 1123,
+      "title": "p.20 · Tilt & Turn — Passive sash technical data",
+      "w": 794,
+      "x": 2542,
+      "y": 3969
+    },
+    "CiftAcilimTanitim.dc.html": {
+      "h": 1123,
+      "title": "p.04 · Tilt & turn system — 20,000 cycles",
+      "w": 794,
+      "x": 3496,
+      "y": 0
+    },
+    "CiftAcilimVeri.dc.html": {
+      "h": 1123,
+      "title": "p.05 · Tilt & Turn — Set selection",
+      "w": 794,
+      "x": 794,
+      "y": 1323
+    },
+    "EmniyetKilidi.dc.html": {
+      "h": 1123,
+      "title": "p.36 · Tilt & Turn — Safety lock set",
+      "w": 794,
+      "x": 794,
+      "y": 7938
+    },
+    "FotoCepheParalel.dc.html": {
+      "h": 1123,
+      "title": "p.49 · Parallel opening facade image",
+      "w": 794,
+      "x": 0,
+      "y": 10584
+    },
+    "Hakkinda.dc.html": {
+      "h": 1123,
+      "title": "p.02 · Meet Bossy",
+      "w": 794,
+      "x": 1748,
+      "y": 0
+    },
+    "Icindekiler.dc.html": {
+      "h": 1123,
+      "title": "p.01 · Contents",
+      "w": 794,
+      "x": 2542,
+      "y": 0
+    },
+    "Kademeli.dc.html": {
+      "h": 1123,
+      "title": "p.43 · Stepped restrictor",
+      "w": 794,
+      "x": 0,
+      "y": 9261
+    },
+    "KaldirAraba16.dc.html": {
+      "h": 1123,
+      "title": "p.89 · Carriage set 16 mm channel",
+      "w": 794,
+      "x": 3496,
+      "y": 18522
+    },
+    "KaldirAraba16b.dc.html": {
+      "h": 1123,
+      "title": "p.90 · Carriage set 300 kg · 16/18/22 profile",
+      "w": 794,
+      "x": 794,
+      "y": 19845
+    },
+    "KaldirAraba16c.dc.html": {
+      "h": 1123,
+      "title": "p.91 · Carriage set 400 kg · 16/18/22 profile",
+      "w": 794,
+      "x": 0,
+      "y": 19845
+    },
+    "KaldirAraba30.dc.html": {
+      "h": 1123,
+      "title": "p.86 · Carriage sets 30 mm channel",
+      "w": 794,
+      "x": 2542,
+      "y": 18522
+    },
+    "KaldirAraba42.dc.html": {
+      "h": 1123,
+      "title": "p.87 · Carriage set 42 mm channel",
+      "w": 794,
+      "x": 1748,
+      "y": 18522
+    },
+    "KaldirEkipman.dc.html": {
+      "h": 1123,
+      "title": "p.95 · System equipment",
+      "w": 794,
+      "x": 3496,
+      "y": 19845
+    },
+    "KaldirIspanyolet.dc.html": {
+      "h": 1123,
+      "title": "p.93 · Espagnolette and backset",
+      "w": 794,
+      "x": 1748,
+      "y": 19845
+    },
+    "KaldirMontaj.dc.html": {
+      "h": 1123,
+      "title": "p.94 · Installation details",
+      "w": 794,
+      "x": 4290,
+      "y": 19845
+    },
+    "KaldirMontaj16.dc.html": {
+      "h": 1123,
+      "title": "p.92 · 16 mm channel assembly diagram",
+      "w": 794,
+      "x": 2542,
+      "y": 19845
+    },
+    "KaldirMontaj42.dc.html": {
+      "h": 1123,
+      "title": "p.88 · 42 mm carriage assembly diagram",
+      "w": 794,
+      "x": 4290,
+      "y": 18522
+    },
+    "KaldirSistem.dc.html": {
+      "h": 1123,
+      "title": "p.85 · Lift & slide system data",
+      "w": 794,
+      "x": 0,
+      "y": 18522
+    },
+    "KaldirSur.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Old lift & slide page (archive)",
+      "w": 794,
+      "x": 0,
+      "y": 0
+    },
+    "KapakA.dc.html": {
+      "h": 1123,
+      "page": "kapak",
+      "title": "A · Photo + dark panel (current)",
+      "w": 794,
+      "x": 0,
+      "y": 0
+    },
+    "KapakB.dc.html": {
+      "h": 1123,
+      "page": "kapak",
+      "title": "B · Light background, product image",
+      "w": 794,
+      "x": 874,
+      "y": 0
+    },
+    "KapakC.dc.html": {
+      "h": 1123,
+      "page": "kapak",
+      "title": "C · Full-page photo",
+      "w": 794,
+      "x": 1748,
+      "y": 0
+    },
+    "KapakD.dc.html": {
+      "h": 1123,
+      "page": "kapak",
+      "title": "D · Technical drawing + red band",
+      "w": 794,
+      "x": 2622,
+      "y": 0
+    },
+    "KilitCiftPim.dc.html": {
+      "h": 1123,
+      "title": "p.107 · Twin-pin 3-point lock — assembly diagram",
+      "w": 794,
+      "x": 9054,
+      "y": 21168
+    },
+    "KilitCoklu.dc.html": {
+      "h": 1123,
+      "title": "p.102 · Multipoint hook lock",
+      "w": 794,
+      "x": 5084,
+      "y": 21168
+    },
+    "KilitKancaPim.dc.html": {
+      "h": 1123,
+      "title": "p.106 · Hook-pin 3-point lock — assembly diagram",
+      "w": 794,
+      "x": 8260,
+      "y": 21168
+    },
+    "KilitKancali.dc.html": {
+      "h": 1123,
+      "title": "p.103 · Hook main lock",
+      "w": 794,
+      "x": 5878,
+      "y": 21168
+    },
+    "KilitKancali3.dc.html": {
+      "h": 1123,
+      "title": "p.109 · Hook 3-point lock — assembly diagram",
+      "w": 794,
+      "x": 10642,
+      "y": 21168
+    },
+    "KilitMontaj.dc.html": {
+      "h": 1123,
+      "title": "p.104 · Single-point lock set — assembly diagram",
+      "w": 794,
+      "x": 6672,
+      "y": 21168
+    },
+    "KilitTij.dc.html": {
+      "h": 1123,
+      "title": "p.105 · Rod-driven single-point lock — assembly diagram",
+      "w": 794,
+      "x": 7466,
+      "y": 21168
+    },
+    "KilitTij2.dc.html": {
+      "h": 1123,
+      "title": "p.108 · Rod-driven single-point lock — door profile",
+      "w": 794,
+      "x": 9848,
+      "y": 21168
+    },
+    "KolBezault.dc.html": {
+      "h": 1123,
+      "title": "p.82 · Bezault handle",
+      "w": 794,
+      "x": 4290,
+      "y": 17199
+    },
+    "KolDuz.dc.html": {
+      "h": 1123,
+      "title": "p.75 · Straight cremone handle",
+      "w": 794,
+      "x": 1748,
+      "y": 15876
+    },
+    "KolDuz2.dc.html": {
+      "h": 1123,
+      "title": "p.76 · Straight cremone handle — facade",
+      "w": 794,
+      "x": 4290,
+      "y": 15876
+    },
+    "KolGizliSurme.dc.html": {
+      "h": 1123,
+      "title": "p.96 · Sliding handle",
+      "w": 794,
+      "x": 794,
+      "y": 21168
+    },
+    "KolKaldirSur.dc.html": {
+      "h": 1123,
+      "title": "p.97 · Novus lift & slide handle",
+      "w": 794,
+      "x": 0,
+      "y": 21168
+    },
+    "KolKaldirSur2.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Novus lift & slide handle — installation (archive)",
+      "w": 794,
+      "x": 4370,
+      "y": 0
+    },
+    "KolKapi.dc.html": {
+      "h": 1123,
+      "title": "p.81 · Door handle",
+      "w": 794,
+      "x": 1748,
+      "y": 17199
+    },
+    "KolKivrik.dc.html": {
+      "h": 1123,
+      "title": "p.77 · Curved cremone handle",
+      "w": 794,
+      "x": 3496,
+      "y": 15876
+    },
+    "KolKivrik2.dc.html": {
+      "h": 1123,
+      "title": "p.78 · Curved cremone handle — facade",
+      "w": 794,
+      "x": 794,
+      "y": 17199
+    },
+    "KolMafsal.dc.html": {
+      "h": 1123,
+      "title": "p.71 · Articulated facade handle",
+      "w": 794,
+      "x": 3496,
+      "y": 14553
+    },
+    "KolMafsal2.dc.html": {
+      "h": 1123,
+      "title": "p.72 · Articulated facade handle — silicone facade",
+      "w": 794,
+      "x": 794,
+      "y": 15876
+    },
+    "KolNovusDuz.dc.html": {
+      "h": 1123,
+      "title": "p.73 · Novus straight cremone handle",
+      "w": 794,
+      "x": 0,
+      "y": 15876
+    },
+    "KolNovusDuz2.dc.html": {
+      "h": 1123,
+      "title": "p.74 · Novus straight cremone handle — facade",
+      "w": 794,
+      "x": 2542,
+      "y": 15876
+    },
+    "KolNovusKivrik.dc.html": {
+      "h": 1123,
+      "title": "p.79 · Novus curved cremone handle",
+      "w": 794,
+      "x": 0,
+      "y": 17199
+    },
+    "KolNovusKivrik2.dc.html": {
+      "h": 1123,
+      "title": "p.80 · Novus curved cremone handle — facade",
+      "w": 794,
+      "x": 2542,
+      "y": 17199
+    },
+    "KolOvalA.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Oval A cremone handle",
+      "w": 794,
+      "x": 2622,
+      "y": 0
+    },
+    "KolOvalB.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Oval B cremone handle",
+      "w": 794,
+      "x": 3496,
+      "y": 0
+    },
+    "Main.dc.html": {
+      "h": 1123,
+      "title": "Front cover",
+      "w": 794,
+      "x": 0,
+      "y": 0
+    },
+    "MenteseFortisKapi.dc.html": {
+      "h": 1123,
+      "title": "p.63 · Fortis door hinge",
+      "w": 794,
+      "x": 1748,
+      "y": 13230
+    },
+    "MenteseFortisPencere.dc.html": {
+      "h": 1123,
+      "title": "p.67 · Fortis window hinge",
+      "w": 794,
+      "x": 0,
+      "y": 14553
+    },
+    "MenteseFortisPencere2.dc.html": {
+      "h": 1123,
+      "title": "p.68 · Fortis window hinge — 2-knuckle",
+      "w": 794,
+      "x": 2542,
+      "y": 14553
+    },
+    "MenteseTenax.dc.html": {
+      "h": 1123,
+      "title": "p.64 · Tenax door hinge",
+      "w": 794,
+      "x": 4290,
+      "y": 13230
+    },
+    "MenteseValidus.dc.html": {
+      "h": 1123,
+      "title": "p.65 · Validus adjustable window hinge",
+      "w": 794,
+      "x": 3496,
+      "y": 13230
+    },
+    "MenteseValidus2.dc.html": {
+      "h": 1123,
+      "title": "p.66 · Validus window hinge — 2-knuckle",
+      "w": 794,
+      "x": 794,
+      "y": 14553
+    },
+    "Notlar1.dc.html": {
+      "h": 1123,
+      "title": "p.110 · Notes",
+      "w": 794,
+      "x": 11436,
+      "y": 21168
+    },
+    "Notlar2.dc.html": {
+      "h": 1123,
+      "title": "p.111 · Notes",
+      "w": 794,
+      "x": 12230,
+      "y": 21168
+    },
+    "Notlar3.dc.html": {
+      "h": 1123,
+      "title": "p.112 · Notes",
+      "w": 794,
+      "x": 13024,
+      "y": 21168
+    },
+    "ParalelMakas.dc.html": {
+      "h": 1123,
+      "title": "p.50 · Parallel stay 14″ · 18″",
+      "w": 794,
+      "x": 2542,
+      "y": 10584
+    },
+    "ParalelMakas2.dc.html": {
+      "h": 1123,
+      "title": "p.51 · Parallel stay 27″ · 36″",
+      "w": 794,
+      "x": 1748,
+      "y": 10584
+    },
+    "ParalelMakas350.dc.html": {
+      "h": 1123,
+      "title": "p.57 · Parallel stay 350 mm · 14″",
+      "w": 794,
+      "x": 1748,
+      "y": 11907
+    },
+    "ParalelMakas450.dc.html": {
+      "h": 1123,
+      "title": "p.54 · Parallel stay 450 mm · 110 kg",
+      "w": 794,
+      "x": 794,
+      "y": 11907
+    },
+    "ParalelMakas680.dc.html": {
+      "h": 1123,
+      "title": "p.56 · Parallel stay 680 mm · 27″",
+      "w": 794,
+      "x": 2542,
+      "y": 11907
+    },
+    "ParalelMakas925.dc.html": {
+      "h": 1123,
+      "title": "p.55 · Parallel stay 925 mm · double",
+      "w": 794,
+      "x": 0,
+      "y": 11907
+    },
+    "ParalelMontaj.dc.html": {
+      "h": 1123,
+      "title": "p.60 · Parallel stay assembly diagram",
+      "w": 794,
+      "x": 794,
+      "y": 13230
+    },
+    "ParalelMontaj2.dc.html": {
+      "h": 1123,
+      "title": "p.61 · Parallel stay assembly diagram (2)",
+      "w": 794,
+      "x": 0,
+      "y": 13230
+    },
+    "ParalelSecim1.dc.html": {
+      "h": 1123,
+      "title": "p.52 · Parallel stay selection chart (1)",
+      "w": 794,
+      "x": 4290,
+      "y": 10584
+    },
+    "ParalelSecim2.dc.html": {
+      "h": 1123,
+      "title": "p.53 · Parallel stay selection chart (2)",
+      "w": 794,
+      "x": 3496,
+      "y": 10584
+    },
+    "ParalelTamKapanan1.dc.html": {
+      "h": 1123,
+      "title": "p.58 · Fully closing parallel stay 14″ · 18″",
+      "w": 794,
+      "x": 4290,
+      "y": 11907
+    },
+    "ParalelTamKapanan2.dc.html": {
+      "h": 1123,
+      "title": "p.59 · Fully closing parallel stay 27″ · 36″",
+      "w": 794,
+      "x": 3496,
+      "y": 11907
+    },
+    "SecimGrafigi.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Parallel stay selection graph (archive)",
+      "w": 794,
+      "x": 8740,
+      "y": 0
+    },
+    "Sinirlandirici.dc.html": {
+      "h": 1123,
+      "title": "p.44 · Restrictor stay",
+      "w": 794,
+      "x": 2542,
+      "y": 9261
+    },
+    "TekAcilim130Cevre.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Turn-Only — 130 kg perimeter locking assembly diagram (archive)",
+      "w": 794,
+      "x": 6118,
+      "y": 0
+    },
+    "TekAcilim130Standart.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Turn-Only — 130 kg standard set assembly diagram (archive)",
+      "w": 794,
+      "x": 5244,
+      "y": 0
+    },
+    "TekAcilim130VeriCevre.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Turn-Only — 130 kg perimeter locking technical data (archive)",
+      "w": 794,
+      "x": 7866,
+      "y": 0
+    },
+    "TekAcilim130VeriStandart.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Turn-Only — 130 kg standard set technical data (archive)",
+      "w": 794,
+      "x": 6992,
+      "y": 0
+    },
+    "TekAcilim150Cevre.dc.html": {
+      "h": 1123,
+      "title": "p.29 · Turn-Only — 150 kg perimeter locking assembly diagram",
+      "w": 794,
+      "x": 3496,
+      "y": 5292
+    },
+    "TekAcilim150Standart.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Turn-Only — 150 kg standard set assembly diagram (archive)",
+      "w": 794,
+      "x": 5244,
+      "y": 0
+    },
+    "TekAcilim150VeriCevre.dc.html": {
+      "h": 1123,
+      "title": "p.34 · Turn-Only — 150 kg perimeter locking technical data",
+      "w": 794,
+      "x": 4290,
+      "y": 6615
+    },
+    "TekAcilim150VeriStandart.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Turn-Only — 150 kg standard set technical data (archive)",
+      "w": 794,
+      "x": 6118,
+      "y": 0
+    },
+    "TekAcilim170Cevre.dc.html": {
+      "h": 1123,
+      "title": "p.30 · Turn-Only — 170 kg perimeter locking assembly diagram",
+      "w": 794,
+      "x": 794,
+      "y": 6615
+    },
+    "TekAcilim170Standart.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Turn-Only — 170 kg standard set assembly diagram (archive)",
+      "w": 794,
+      "x": 5244,
+      "y": 0
+    },
+    "TekAcilim170VeriCevre.dc.html": {
+      "h": 1123,
+      "title": "p.35 · Turn-Only — 170 kg perimeter locking technical data",
+      "w": 794,
+      "x": 3496,
+      "y": 6615
+    },
+    "TekAcilim170VeriStandart.dc.html": {
+      "h": 1123,
+      "page": "arsiv",
+      "title": "Turn-Only — 170 kg standard set technical data (archive)",
+      "w": 794,
+      "x": 6118,
+      "y": 0
+    },
+    "TekAcilimBilesenler.dc.html": {
+      "h": 1123,
+      "title": "p.23 · Turn-Only — System sets 1–6",
+      "w": 794,
+      "x": 3496,
+      "y": 3969
+    },
+    "TekAcilimBilesenler2.dc.html": {
+      "h": 1123,
+      "title": "p.24 · Turn-Only — System sets 2 · 7–8",
+      "w": 794,
+      "x": 794,
+      "y": 5292
+    },
+    "TekAcilimBilesenler3.dc.html": {
+      "h": 1123,
+      "title": "p.25 · Turn-Only — System sets 3",
+      "w": 794,
+      "x": 0,
+      "y": 5292
+    },
+    "TekAcilimCevre.dc.html": {
+      "h": 1123,
+      "title": "p.28 · Turn-Only — Perimeter locking assembly diagram",
+      "w": 794,
+      "x": 4290,
+      "y": 5292
+    },
+    "TekAcilimCizim.dc.html": {
+      "h": 1123,
+      "title": "p.26 · Turn-Only — Eco set assembly diagram",
+      "w": 794,
+      "x": 2542,
+      "y": 5292
+    },
+    "TekAcilimSecim.dc.html": {
+      "h": 1123,
+      "title": "p.22 · Turn-Only — Set selection",
+      "w": 794,
+      "x": 4290,
+      "y": 3969
+    },
+    "TekAcilimStandart.dc.html": {
+      "h": 1123,
+      "title": "p.27 · Turn-Only — Standard set assembly diagram",
+      "w": 794,
+      "x": 1748,
+      "y": 5292
+    },
+    "TekAcilimVeri.dc.html": {
+      "h": 1123,
+      "title": "p.31 · Turn-Only — Eco set technical data",
+      "w": 794,
+      "x": 0,
+      "y": 6615
+    },
+    "TekAcilimVeriCevre.dc.html": {
+      "h": 1123,
+      "title": "p.33 · Turn-Only — Perimeter locking technical data",
+      "w": 794,
+      "x": 1748,
+      "y": 6615
+    },
+    "TekAcilimVeriStandart.dc.html": {
+      "h": 1123,
+      "title": "p.32 · Turn-Only — Standard set technical data",
+      "w": 794,
+      "x": 2542,
+      "y": 6615
+    },
+    "KolYeni.dc.html": {
+      "h": 1123,
+      "title": "p.98 · Novus lift & slide handle — with sliding flush pull",
+      "w": 794,
+      "x": 2542,
+      "y": 21168
+    },
+    "KolYeni2.dc.html": {
+      "h": 1123,
+      "title": "p.99 · Novus lift & slide handle — with sliding flush pull (2)",
+      "w": 794,
+      "x": 1748,
+      "y": 21168
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-09-28T13:05:00Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "page": "katalog",
+    "view": "canvas"
+  },
+  "notes": {
+    "baslik": {
+      "kind": "title1",
+      "maxW": 5084,
+      "text": "Bossy Product Catalog — A4 · perfect binding · facing pages",
+      "w": 240,
+      "x": 0,
+      "y": -300
+    },
+    "kapakbaslik": {
+      "kind": "title1",
+      "maxW": 3416,
+      "page": "kapak",
+      "text": "Cover options — A · B · C · D",
+      "w": 240,
+      "x": 0,
+      "y": -300
+    },
+    "s04baslik": {
+      "kind": "title1",
+      "maxW": 2416,
+      "page": "bolum04",
+      "text": "p.04 section opener — A · B · C",
+      "w": 240,
+      "x": 0,
+      "y": -300
+    }
+  },
+  "order": [
+    "KapakA.dc.html",
+    "KapakB.dc.html",
+    "KapakC.dc.html",
+    "KapakD.dc.html",
+    "BolumAcilimA.dc.html",
+    "BolumAcilimB.dc.html",
+    "BolumAcilimC.dc.html",
+    "KaldirSur.dc.html",
+    "Aksesuar2.dc.html",
+    "Aksesuar3.dc.html",
+    "KolOvalA.dc.html",
+    "KolOvalB.dc.html",
+    "KolKaldirSur2.dc.html",
+    "TekAcilim170Standart.dc.html",
+    "TekAcilim170VeriStandart.dc.html",
+    "TekAcilim150Standart.dc.html",
+    "TekAcilim150VeriStandart.dc.html",
+    "TekAcilim130Standart.dc.html",
+    "TekAcilim130Cevre.dc.html",
+    "TekAcilim130VeriStandart.dc.html",
+    "TekAcilim130VeriCevre.dc.html",
+    "SecimGrafigi.dc.html",
+    "Main.dc.html",
+    "Icindekiler.dc.html",
+    "Hakkinda.dc.html",
+    "BolumAcilim.dc.html",
+    "CiftAcilimTanitim.dc.html",
+    "CiftAcilimVeri.dc.html",
+    "CiftAcilimBilesenler.dc.html",
+    "CiftAcilimBilesenler2.dc.html",
+    "CiftAcilimBilesenler3.dc.html",
+    "CiftAcilim80Cizim.dc.html",
+    "CiftAcilim80Veri.dc.html",
+    "CiftAcilim100Cizim.dc.html",
+    "CiftAcilim100Veri.dc.html",
+    "CiftAcilim130Cizim.dc.html",
+    "CiftAcilim130Veri.dc.html",
+    "CiftAcilim150Cizim.dc.html",
+    "CiftAcilim150Veri.dc.html",
+    "CiftAcilim170Cizim.dc.html",
+    "CiftAcilim170Veri.dc.html",
+    "CiftAcilimPasif.dc.html",
+    "CiftAcilimPasifVeri.dc.html",
+    "CiftAcilimManivela.dc.html",
+    "TekAcilimSecim.dc.html",
+    "TekAcilimBilesenler.dc.html",
+    "TekAcilimBilesenler2.dc.html",
+    "TekAcilimBilesenler3.dc.html",
+    "TekAcilimCizim.dc.html",
+    "TekAcilimStandart.dc.html",
+    "TekAcilimCevre.dc.html",
+    "TekAcilim150Cevre.dc.html",
+    "TekAcilim170Cevre.dc.html",
+    "TekAcilimVeri.dc.html",
+    "TekAcilimVeriStandart.dc.html",
+    "TekAcilimVeriCevre.dc.html",
+    "TekAcilim150VeriCevre.dc.html",
+    "TekAcilim170VeriCevre.dc.html",
+    "EmniyetKilidi.dc.html",
+    "Aksesuar1.dc.html",
+    "AksesuarManivela.dc.html",
+    "AksesuarEk.dc.html",
+    "BolumCephe.dc.html",
+    "CepheKucuk.dc.html",
+    "CepheBuyuk.dc.html",
+    "Kademeli.dc.html",
+    "Sinirlandirici.dc.html",
+    "CepheKilit1.dc.html",
+    "CepheKilit2.dc.html",
+    "CepheKilit3.dc.html",
+    "CepheEkipman.dc.html",
+    "FotoCepheParalel.dc.html",
+    "ParalelMakas.dc.html",
+    "ParalelMakas2.dc.html",
+    "ParalelSecim1.dc.html",
+    "ParalelSecim2.dc.html",
+    "ParalelMakas450.dc.html",
+    "ParalelMakas925.dc.html",
+    "ParalelMakas680.dc.html",
+    "ParalelMakas350.dc.html",
+    "ParalelTamKapanan1.dc.html",
+    "ParalelTamKapanan2.dc.html",
+    "ParalelMontaj.dc.html",
+    "ParalelMontaj2.dc.html",
+    "BolumMentese.dc.html",
+    "MenteseFortisKapi.dc.html",
+    "MenteseTenax.dc.html",
+    "MenteseValidus.dc.html",
+    "MenteseValidus2.dc.html",
+    "MenteseFortisPencere.dc.html",
+    "MenteseFortisPencere2.dc.html",
+    "AraKol.dc.html",
+    "BolumKol.dc.html",
+    "KolMafsal.dc.html",
+    "KolMafsal2.dc.html",
+    "KolNovusDuz.dc.html",
+    "KolNovusDuz2.dc.html",
+    "KolDuz.dc.html",
+    "KolDuz2.dc.html",
+    "KolKivrik.dc.html",
+    "KolKivrik2.dc.html",
+    "KolNovusKivrik.dc.html",
+    "KolNovusKivrik2.dc.html",
+    "KolKapi.dc.html",
+    "KolBezault.dc.html",
+    "AraKaldir.dc.html",
+    "BolumKaldir.dc.html",
+    "KaldirSistem.dc.html",
+    "KaldirAraba30.dc.html",
+    "KaldirAraba42.dc.html",
+    "KaldirMontaj42.dc.html",
+    "KaldirAraba16.dc.html",
+    "KaldirAraba16b.dc.html",
+    "KaldirAraba16c.dc.html",
+    "KaldirMontaj16.dc.html",
+    "KaldirIspanyolet.dc.html",
+    "KaldirMontaj.dc.html",
+    "KaldirEkipman.dc.html",
+    "KolGizliSurme.dc.html",
+    "KolKaldirSur.dc.html",
+    "KolYeni.dc.html",
+    "KolYeni2.dc.html",
+    "AraKilit.dc.html",
+    "BolumKilit.dc.html",
+    "KilitCoklu.dc.html",
+    "KilitKancali.dc.html",
+    "KilitMontaj.dc.html",
+    "KilitTij.dc.html",
+    "KilitKancaPim.dc.html",
+    "KilitCiftPim.dc.html",
+    "KilitTij2.dc.html",
+    "KilitKancali3.dc.html",
+    "Notlar1.dc.html",
+    "Notlar2.dc.html",
+    "Notlar3.dc.html",
+    "ArkaKapak.dc.html"
+  ],
+  "pages": [
+    {
+      "id": "katalog",
+      "name": "Catalog"
+    },
+    {
+      "id": "kapak",
+      "name": "Cover options"
+    },
+    {
+      "id": "bolum04",
+      "name": "p.04 options"
+    },
+    {
+      "id": "arsiv",
+      "name": "Archive"
+    }
+  ],
+  "title": "Bossy Product Catalog 2026 (EN)"
+}

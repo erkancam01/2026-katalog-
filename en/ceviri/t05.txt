@@ -1,0 +1,19 @@
+# layout fixes (later files override earlier ones)
+496|WE BUILD
+497|SOLUTIONS FOR
+498|YOUR NEEDS.
+932|FITTING DIMENSIONS
+943|Fitted above the handle.
+306|Pressure block set
+798|Concealed lever set
+835|Numbers match the diagrams and parts lists. Hinge set, handle and handle drive are shared with tilt &amp; turn.
+1287|Compression adj.
+1583|BOSSY FLUSH PULL&nbsp;
+1604|CYLINDER INNER HANDLE + OUTER PULL
+1605|INNER HANDLE + OUTER FLUSH PULL
+1634|Aux. lock · hook + twin pins
+1637|Hook/pin keeper
+1709|Lock body · rod drive
+1711|Pin keeper
+1712|Pin locking bar
+1709|Lock body · rods

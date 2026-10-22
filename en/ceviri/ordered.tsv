@@ -1,0 +1,1775 @@
+0	canvas	Ürün Kataloğu Tasarımı
+1	canvas	s.37 · Yardımcı aksesuarlar A01–A03
+2	canvas	Yardımcı aksesuarlar A07–A12 (arşiv)
+3	canvas	Yardımcı aksesuarlar A13–A16 (arşiv)
+4	canvas	s.39 · Yardımcı aksesuarlar A09–A16
+5	canvas	s.38 · Yardımcı aksesuarlar A04–A08
+6	canvas	s.83 · Bölüm ara sayfası — Kaldır sür
+7	canvas	s.100 · Bölüm ara sayfası — Kapı kilitleri
+8	canvas	s.69 · Bölüm ara sayfası — Kollar
+9	canvas	Arka kapak
+10	canvas	s.03 · Bölüm açılışı — Açılım
+11	canvas	A · Açık gri sahne, büyük ürün
+12	canvas	B · Renk paneli, ürün paneli taşıyor
+13	canvas	C · Dev renkli 01, ürün önde
+14	canvas	s.40 · Bölüm açılışı — Cephe sistemleri
+15	canvas	s.84 · Bölüm açılışı — Kaldır-sür
+16	canvas	s.101 · Bölüm açılışı — Kapı kilitleri
+17	canvas	s.70 · Bölüm açılışı — Kollar
+18	canvas	s.62 · Bölüm açılışı — Menteşeler
+19	canvas	s.42 · Dışa açılım — Büyük boy makaslar
+20	canvas	s.48 · Sistem donanım ekipmanları
+21	canvas	s.45 · Cephe kilitleme seti W 1200
+22	canvas	s.46 · Cephe kilitleme seti W 1200–1400
+23	canvas	s.47 · Cephe kilitleme seti W 1500
+24	canvas	s.41 · Dışa açılım — Küçük boy makaslar
+25	canvas	s.11 · 100 kg — Montaj şeması
+26	canvas	s.12 · 100 kg — Teknik veriler
+27	canvas	s.13 · 130 kg — Montaj şeması
+28	canvas	s.14 · 130 kg — Teknik veriler
+29	canvas	s.15 · 150 kg — Montaj şeması
+30	canvas	s.16 · 150 kg — Teknik veriler
+31	canvas	s.17 · 170 kg — Montaj şeması
+32	canvas	s.18 · 170 kg — Teknik veriler
+33	canvas	s.09 · 80 kg — Montaj şeması
+34	canvas	s.10 · 80 kg — Teknik veriler
+35	canvas	s.06 · Çift Açılım — Sistem setleri 1–5
+36	canvas	s.07 · Çift Açılım — Sistem setleri 5–6
+37	canvas	s.08 · Çift Açılım — Opsiyonel donanım 8–13
+38	canvas	s.21 · Çift Açılım — Gizli manivela kolu seti
+39	canvas	s.19 · Çift Açılım — Pasif kanat açılım
+40	canvas	s.20 · Çift Açılım — Pasif kanat teknik veriler
+41	canvas	s.04 · Çift açılım sistemi — 20.000 döngü
+42	canvas	s.05 · Çift Açılım — Set seçimi
+43	canvas	s.36 · Çift Açılım — Emniyet kilidi seti
+44	canvas	s.49 · Paralel açılım cephe görseli
+45	canvas	s.02 · Bossy'yi tanıyın
+46	canvas	s.01 · İçindekiler
+47	canvas	s.43 · Kademeli sınırlandırıcı
+48	canvas	s.89 · Araba seti 16 mm kanal
+49	canvas	s.90 · Araba seti 300 kg · 16/18/22 profil
+50	canvas	s.91 · Araba seti 400 kg · 16/18/22 profil
+51	canvas	s.86 · Araba setleri 30 mm kanal
+52	canvas	s.87 · Araba seti 42 mm kanal
+53	canvas	s.95 · Sistem ekipmanları
+54	canvas	s.93 · İspanyolet ve kilit mesafesi
+55	canvas	s.94 · Montaj detayları
+56	canvas	s.92 · 16 mm kanal montaj şeması
+57	canvas	s.88 · 42 mm araba montaj şeması
+58	canvas	s.85 · Kaldır-sür sistem verileri
+59	canvas	Eski kaldır-sür sayfası (arşiv)
+60	canvas	A · Fotoğraf + koyu panel (mevcut)
+61	canvas	B · Açık zemin, ürün görseli
+62	canvas	C · Tam sayfa fotoğraf
+63	canvas	D · Teknik çizim + kırmızı bant
+64	canvas	s.107 · Çift pimli 3 nokta kilit — montaj şeması
+65	canvas	s.102 · Çok noktalı kancalı kilit
+66	canvas	s.106 · Kanca pimli 3 nokta kilit — montaj şeması
+67	canvas	s.103 · Kancalı ana kilit
+68	canvas	s.109 · Kancalı 3 nokta kilit — montaj şeması
+69	canvas	s.104 · Tek nokta kilit seti — montaj şeması
+70	canvas	s.105 · Tij tahrikli tek nokta kilit — montaj şeması
+71	canvas	s.108 · Tij tahrikli tek nokta kilit — kapı profili
+72	canvas	s.82 · Bezault kolu
+73	canvas	s.75 · Düz model kremon kol
+74	canvas	s.76 · Düz model kremon kol — cephe
+75	canvas	s.96 · Sürme kolu
+76	canvas	s.97 · Novus kaldır-sür kolu
+77	canvas	Novus kaldır-sür kolu — montaj (arşiv)
+78	canvas	s.81 · Kapı kolu
+79	canvas	s.77 · Kıvrık model kremon kol
+80	canvas	s.78 · Kıvrık model kremon kol — cephe
+81	canvas	s.71 · Mafsallı cephe kolu
+82	canvas	s.72 · Mafsallı cephe kolu — silikon cephe
+83	canvas	s.73 · Novus düz kremon kol
+84	canvas	s.74 · Novus düz kremon kol — cephe
+85	canvas	s.79 · Novus kıvrık kremon kol
+86	canvas	s.80 · Novus kıvrık kremon kol — cephe
+87	canvas	Oval A kremon kol
+88	canvas	Oval B kremon kol
+89	canvas	Ön kapak
+90	canvas	s.63 · Fortis kapı menteşesi
+91	canvas	s.67 · Fortis pencere menteşesi
+92	canvas	s.68 · Fortis pencere menteşesi — 2 yaprak
+93	canvas	s.64 · Tenax kapı menteşesi
+94	canvas	s.65 · Validus ayarlı pencere menteşesi
+95	canvas	s.66 · Validus pencere menteşesi — 2 yaprak
+96	canvas	s.110 · Notlar
+97	canvas	s.111 · Notlar
+98	canvas	s.112 · Notlar
+99	canvas	s.50 · Paralel makas 14″ · 18″
+100	canvas	s.51 · Paralel makas 27″ · 36″
+101	canvas	s.57 · Paralel makas 350 mm · 14″
+102	canvas	s.54 · Paralel makas 450 mm · 110 kg
+103	canvas	s.56 · Paralel makas 680 mm · 27″
+104	canvas	s.55 · Paralel makas 925 mm · çift
+105	canvas	s.60 · Paralel makas montaj şeması
+106	canvas	s.61 · Paralel makas montaj şeması (2)
+107	canvas	s.52 · Paralel makas seçim şeması (1)
+108	canvas	s.53 · Paralel makas seçim şeması (2)
+109	canvas	s.58 · Tam kapanan paralel makas 14″ · 18″
+110	canvas	s.59 · Tam kapanan paralel makas 27″ · 36″
+111	canvas	Paralel makas seçim grafiği (arşiv)
+112	canvas	s.44 · Sınırlandırıcı makas
+113	canvas	Tek Açılım — 130 kg çevre kilitleme montaj şeması (arşiv)
+114	canvas	Tek Açılım — 130 kg standart set montaj şeması (arşiv)
+115	canvas	Tek Açılım — 130 kg çevre kilitleme teknik veriler (arşiv)
+116	canvas	Tek Açılım — 130 kg standart set teknik veriler (arşiv)
+117	canvas	s.29 · Tek Açılım — 150 kg çevre kilitleme montaj şeması
+118	canvas	Tek Açılım — 150 kg standart set montaj şeması (arşiv)
+119	canvas	s.34 · Tek Açılım — 150 kg çevre kilitleme teknik veriler
+120	canvas	Tek Açılım — 150 kg standart set teknik veriler (arşiv)
+121	canvas	s.30 · Tek Açılım — 170 kg çevre kilitleme montaj şeması
+122	canvas	Tek Açılım — 170 kg standart set montaj şeması (arşiv)
+123	canvas	s.35 · Tek Açılım — 170 kg çevre kilitleme teknik veriler
+124	canvas	Tek Açılım — 170 kg standart set teknik veriler (arşiv)
+125	canvas	s.23 · Tek Açılım — Sistem setleri 1–6
+126	canvas	s.24 · Tek Açılım — Sistem setleri 2 · 7–8
+127	canvas	s.25 · Tek Açılım — Sistem setleri 3
+128	canvas	s.28 · Tek Açılım — Çevre kilitleme montaj şeması
+129	canvas	s.26 · Tek Açılım — Eco set montaj şeması
+130	canvas	s.22 · Tek Açılım — Set seçimi
+131	canvas	s.27 · Tek Açılım — Standart set montaj şeması
+132	canvas	s.31 · Tek Açılım — Eco set teknik veriler
+133	canvas	s.33 · Tek Açılım — Çevre kilitleme teknik veriler
+134	canvas	s.32 · Tek Açılım — Standart set teknik veriler
+135	canvas	s.98 · Novus kaldır-sür kolu — sürme havuz kolu ile
+136	canvas	s.99 · Novus kaldır-sür kolu — sürme havuz kolu ile (2)
+137	canvas	Bossy Ürün Kataloğu — A4 · Amerikan cilt · karşılıklı sayfalar
+138	canvas	Kapak seçenekleri — A · B · C · D
+139	canvas	s.04 bölüm açılışı — A · B · C
+140	canvas	Katalog
+141	canvas	Kapak seçenekleri
+142	canvas	s.04 seçenekleri
+143	canvas	Arşiv
+144	KapakA	Kapak seçeneği A
+145	KapakA	Antrasit alüminyum pencere köşesi ve kırmızı Bossy menteşesi
+146	KapakA	Bossy — Window and Door Hardware Solutions
+147	KapakA	ALÜMİNYUM DOĞRAMA VE CEPHE DONANIMLARI
+148	KapakA	ÜRÜN KATALOĞU
+149	KapakA	Maksimum dayanıklılık, kusursuz güvenlik: alüminyum doğrama ve cephe sistemleri için 304 paslanmaz çelik donanım çözümleri.
+150	KapakA	Çift Açılım Sistemleri
+151	KapakA	Dış Cephe Makasları
+152	KapakA	Paralel Makaslar
+153	KapakA	Kaldır-Sür Sistemleri
+154	KapakA	CE
+155	KapakA	ift
+156	KapakA	TSE
+157	KapakA	304 PASLANMAZ
+158	KapakA	www.bossy.com.tr
+159	KapakB	Kapak seçeneği B
+160	KapakB	WINDOW AND DOOR HARDWARE SOLUTIONS
+161	KapakB	Bossy çift açılım sistemi, kanat devirme konumunda
+162	KapakB	ÜRÜN
+163	KapakB	KATALOĞU
+164	KapakB	Alüminyum doğrama ve cephe sistemleri için donanım çözümleri.
+165	KapakC	Kapak seçeneği C
+166	KapakC	2026 · BASKI 01
+167	KapakC	Çift Açılım
+168	KapakC	Kaldır-Sür
+169	KapakC	Dış Cephe Makası
+170	KapakC	Paralel Makas
+171	KapakD	Kapak seçeneği D
+172	KapakD	Çift açılım ve kaldır-sür setleri, dış cephe ve paralel makaslar. 304 paslanmaz çelik.
+173	KapakD	Açılım Sistemleri
+174	KapakD	Cephe Sistemleri
+175	KapakD	Sürme Sistemleri
+176	BolumAcilimA	Bölüm açılışı — Açılım Sistemleri
+177	BolumAcilimA	Bossy çift açılım sistemi
+178	BolumAcilimA	Bossy
+179	BolumAcilimA	ÇİFT AÇILIM · DEVİRME
+180	BolumAcilimA	BÖLÜM 01
+181	BolumAcilimA	AÇILIM
+182	BolumAcilimA	SİSTEMLERİ
+183	BolumAcilimA	ÇİFT VE TEK AÇILIM SETLERİ
+184	BolumAcilimA	Avrupa kanallı alüminyum profiller için çift ve tek açılım setleri. Çift açılımda kanat içe devrilir ya da tamamen içe açılır; tek açılımda yalnızca yandan döner.
+185	BolumAcilimA	kg
+186	BolumAcilimA	kapasite
+187	BolumAcilimA	tip
+188	BolumAcilimA	açılım
+189	BolumAcilimA	parça
+190	BolumAcilimA	set bileşeni
+191	BolumAcilimA	İÇİNDEKİLER
+192	BolumAcilimA	Çift açılım setleri 80–170 kg
+193	BolumAcilimA	Çift açılım bileşenleri
+194	BolumAcilimA	Tek açılım setleri
+195	BolumAcilimA	Tek açılım montaj şemaları
+196	BolumAcilimA	Tek açılım teknik veriler
+197	BolumAcilimA	Emniyet kilidi seti
+198	BolumAcilimA	Yardımcı aksesuarlar
+199	BolumAcilimA	BOSSY · WINDOW AND DOOR HARDWARE
+200	KaldirSur	Kaldır-sür seti
+201	KaldirSur	05 · SÜRME SİSTEMLERİ
+202	KaldirSur	KALDIR-SÜR
+203	KaldirSur	KALDIR-SÜR SETİ
+204	KaldirSur	Kol çevrildiğinde kanat contalardan ayrılarak makaralar üzerine kalkar ve hafifçe kayar. Kol kapatıldığında kanat yerine oturur ve contalara bastırarak sızdırmazlığı sağlar.
+205	KaldirSur	300 kg
+206	KaldirSur	Maks. kanat ağırlığı
+207	KaldirSur	Maks. kanat yüksekliği, mm
+208	KaldirSur	Kanat genişliği, mm
+209	KaldirSur	Kanal yük. × gen., mm
+210	KaldirSur	[Set fotoğrafı
+211	KaldirSur	araba, kol ve mekanizma]
+212	KaldirSur	ÇALIŞMA PRENSİBİ
+213	KaldirSur	Kaldır-sür kanadının kalkma, kayma ve oturma adımları
+214	KaldirSur	Sabit
+215	KaldirSur	Görünüş, içeriden
+216	KaldirSur	Kol 180° çevrilir, kanat kalkar.
+217	KaldirSur	Kanat makaralar üzerinde kayar.
+218	KaldirSur	Kol kapatılır, kanat oturur ve kilitlenir.
+219	KaldirSur	Tanım
+220	KaldirSur	Kanat gen.
+221	KaldirSur	Maks. yük.
+222	KaldirSur	Maks. ağırlık
+223	KaldirSur	Kanal
+224	KaldirSur	TAMAMLAYICI ÜRÜNLER
+225	KaldirSur	Novus kaldır-sür kolu
+226	KaldirSur	s. 56
+227	KaldirSur	Sürme kolu
+228	KaldirSur	s. 55
+229	KaldirSur	[foto]
+230	KaldirSur	Teknik doküman
+231	KaldirSur	bossy.com.tr · QR
+232	KaldirSur	Teknik değişiklik hakkı saklıdır · www.bossy.com.tr
+233	Aksesuar2	Yardımcı aksesuarlar A07–A12
+234	Aksesuar2	AÇILIM SİSTEMLERİ
+235	Aksesuar2	AÇILIM SİSTEMLERİ · AKSESUAR
+236	Aksesuar2	YARDIMCI
+237	Aksesuar2	AKSESUARLAR
+238	Aksesuar2	A07–A12
+239	Aksesuar2	tüm setlerle uyumlu tamamlayıcı parçalar
+240	Aksesuar2	A07
+241	Aksesuar2	RENDER
+242	Aksesuar2	Aksesuar adı
+243	Aksesuar2	Kısa açıklama · kullanım yeri
+244	Aksesuar2	A08
+245	Aksesuar2	A09
+246	Aksesuar2	A10
+247	Aksesuar2	A11
+248	Aksesuar2	A12
+249	Aksesuar2	Görseller temsilidir · siparişte ürün kodunu belirtiniz
+250	Aksesuar2	BOSSY
+251	Aksesuar2	Teknik değişiklik hakkı saklıdır · bossy.com.tr
+252	Aksesuar3	Yardımcı aksesuarlar A13–A16
+253	Aksesuar3	A13–A16
+254	Aksesuar3	A13
+255	Aksesuar3	A14
+256	Aksesuar3	A15
+257	Aksesuar3	A16
+258	KolOvalA	KOLLAR
+259	KolOvalA	KREMON KOL
+260	KolOvalA	BOSSY OVAL A
+261	KolOvalA	KOL
+262	KolOvalA	120 mm
+263	KolOvalA	GÖVDE BOYU
+264	KolOvalA	PENCERE
+265	KolOvalA	A / B
+266	KolOvalA	pencere
+267	KolOvalA	mm
+268	KolOvalA	GÖVDE
+269	KolOvalA	MAÇA
+270	KolOvalA	PİM
+271	KolOvalA	TEKNİK ÇİZİM
+272	KolOvalA	ÖLÇÜLER · mm
+273	KolOvalA	Ölçüler
+274	KolOvalA	GÖVDE ENİ
+275	KolOvalA	32 mm
+276	KolOvalA	VİDA ARALIĞI
+277	KolOvalA	104 / 98 mm
+278	KolOvalA	CEPHE
+279	KolOvalA	B / B
+280	KolOvalA	cephe
+281	KolOvalA	KULAK
+282	KolOvalA	KULAK ARALIĞI
+283	KolOvalA	13,7 mm
+284	KolOvalA	Ölçüler mm · sipariş verirken maça boyunu belirtiniz
+285	KolOvalB	BOSSY OVAL B
+286	KolOvalB	146 mm
+287	KolOvalB	104 / 130 mm
+288	KolKaldirSur2	Novus kaldır-sür kolu — montaj
+289	KolKaldirSur2	KALDIR &amp; SÜR · MONTAJ
+290	KolKaldirSur2	NOVUS
+291	KolKaldirSur2	80 mm
+292	KolKaldirSur2	DELİK ARALIĞI
+293	KolKaldirSur2	MONTAJ
+294	KolKaldirSur2	İÇ VE DIŞ KOL BİRLİKTE
+295	KolKaldirSur2	Montaj
+296	KolKaldirSur2	Ölçüler mm · 3 mm alyan anahtar
+297	TekAcilim170Standart	Tek açılım 170 kg standart set — montaj şeması
+298	TekAcilim170Standart	TEK AÇILIM KİLİTLEME SETİ · MONTAJ ŞEMASI
+299	TekAcilim170Standart	STANDART
+300	TekAcilim170Standart	SET
+301	TekAcilim170Standart	MONTAJ ŞEMASI
+302	TekAcilim170Standart	İçeriden görünüş · menteşe sağda
+303	TekAcilim170Standart	Tek açılım makası
+304	TekAcilim170Standart	Kol ve kol aktarma seti
+305	TekAcilim170Standart	Kilit karşılığı ve mantar pim
+306	TekAcilim170Standart	Gizli baskı seti
+307	TekAcilim170Standart	Köşe karşılığı
+308	TekAcilim170Standart	KANAT ÖLÇÜSÜ
+309	TekAcilim170Standart	W
+310	TekAcilim170Standart	H
+311	TekAcilim170Standart	kanat dış ölçüsü, mm
+312	TekAcilim170Standart	PROFİL KESİTİ
+313	TekAcilim170Standart	Profil kesiti
+314	TekAcilim170VeriStandart	Tek açılım 170 kg standart set — teknik veriler
+315	TekAcilim170VeriStandart	TEK AÇILIM KİLİTLEME SETİ · TEKNİK VERİLER
+316	TekAcilim170VeriStandart	STANDART SET
+317	TekAcilim170VeriStandart	170 KG
+318	TekAcilim170VeriStandart	Kanat genişliği W
+319	TekAcilim170VeriStandart	Kanat yüksekliği H
+320	TekAcilim170VeriStandart	No
+321	TekAcilim170VeriStandart	Parça
+322	TekAcilim170VeriStandart	Açıklama
+323	TekAcilim170VeriStandart	Adet
+324	TekAcilim170VeriStandart	SET İÇERİĞİ
+325	TekAcilim170VeriStandart	Menteşe seti B
+326	TekAcilim170VeriStandart	üst + alt menteşe · çift açılımla ortak
+327	TekAcilim170VeriStandart	1 set
+328	TekAcilim170VeriStandart	Üst menteşe destek vidası
+329	TekAcilim170VeriStandart	170 kg · üst menteşeye
+330	TekAcilim170VeriStandart	Kasa menteşesi sıkıştırma parçası
+331	TekAcilim170VeriStandart	alt menteşe, kasa tarafı
+332	TekAcilim170VeriStandart	Yük aktarma parçası
+333	TekAcilim170VeriStandart	alt menteşe, kanat tarafı
+334	TekAcilim170VeriStandart	Kol
+335	TekAcilim170VeriStandart	düz maça
+336	TekAcilim170VeriStandart	Kol aktarma seti
+337	TekAcilim170VeriStandart	kol hizasında
+338	TekAcilim170VeriStandart	Kilitleme seti
+339	TekAcilim170VeriStandart	kilit karşılığı + mantar pim 2 · köşe karşılığı 1
+340	TekAcilim170VeriStandart	üst kanat
+341	TekAcilim170VeriStandart	menteşe tarafı, menteşeler arasına eşit aralıkla
+342	TekAcilim170VeriStandart	UYGULAMA ARALIĞI
+343	TekAcilim170VeriStandart	Kanat genişliği ve yüksekliğine göre uygulama aralığı
+344	TekAcilim170VeriStandart	Standart set
+345	TekAcilim170VeriStandart	W 400–1000 · H 550–2000
+346	TekAcilim170VeriStandart	W, H: kanat dış ölçüsü (mm). Kanat ağırlığı 170 kg'ı aşmamalıdır. Menteşe seti B, destek vidası ve kasa parçaları çift açılım 170 kg setiyle ortaktır (s. 17).
+347	TekAcilim170VeriStandart	2 gizli baskı (16) menteşe tarafına, menteşeler arasına eşit aralıkla takılır.
+348	TekAcilim170VeriStandart	Kanat yönü (DIN-L / DIN-R) siparişte belirtilmelidir.
+349	TekAcilim170VeriStandart	Parça numaraları s. 24'teki montaj şemasıyla eşleşir.
+350	TekAcilim150Standart	Tek açılım 150 kg standart set — montaj şeması
+351	TekAcilim150VeriStandart	Tek açılım 150 kg standart set — teknik veriler
+352	TekAcilim150VeriStandart	150 KG
+353	TekAcilim150VeriStandart	150 kg · üst menteşeye
+354	TekAcilim150VeriStandart	W, H: kanat dış ölçüsü (mm). Kanat ağırlığı 150 kg'ı aşmamalıdır. Menteşe seti B, destek vidası ve kasa parçaları çift açılım 150 kg setiyle ortaktır (s. 15).
+355	TekAcilim150VeriStandart	Parça numaraları s. 23'teki montaj şemasıyla eşleşir.
+356	TekAcilim130Standart	Tek açılım 130 kg standart set — montaj şeması
+357	TekAcilim130Cevre	Tek açılım 130 kg çevre kilitleme — montaj şeması
+358	TekAcilim130Cevre	ÇEVRE KİLİTLEME
+359	TekAcilim130Cevre	SETİ
+360	TekAcilim130Cevre	Allenli köşe aktarma (üst)
+361	TekAcilim130Cevre	Kilit karşılığı
+362	TekAcilim130Cevre	Allenli köşe aktarma (alt)
+363	TekAcilim130Cevre	Üst kilit karşılığı ve mantar pim
+364	TekAcilim130Cevre	Arka kilitleme hareket iletim parçası
+365	TekAcilim130VeriStandart	Tek açılım 130 kg standart set — teknik veriler
+366	TekAcilim130VeriStandart	130 KG
+367	TekAcilim130VeriStandart	130 kg · üst menteşeye
+368	TekAcilim130VeriStandart	W, H: kanat dış ölçüsü (mm). Kanat ağırlığı 130 kg'ı aşmamalıdır. Menteşe seti B, destek vidası ve kasa parçaları çift açılım 130 kg setiyle ortaktır (s. 13).
+369	TekAcilim130VeriCevre	Tek açılım 130 kg çevre kilitleme — teknik veriler
+370	TekAcilim130VeriCevre	ÇEVRE KİLİTLEME SETİ
+371	TekAcilim130VeriCevre	STANDART KİLİTLEME SETİ
+372	TekAcilim130VeriCevre	kilit karşılığı · kol tarafı 2 · üst 1
+373	TekAcilim130VeriCevre	menteşe tarafı, eşit aralıkla
+374	TekAcilim130VeriCevre	ÇEVRE KİLİTLEME EK SETİ
+375	TekAcilim130VeriCevre	· standart sete ek olarak
+376	TekAcilim130VeriCevre	Allenli köşe aktarma
+377	TekAcilim130VeriCevre	üst + alt köşe
+378	TekAcilim130VeriCevre	kilit karşılığı · köşe 2 · üst 1 · alt köşe karşılığı 1
+379	TekAcilim130VeriCevre	Uç parça
+380	TekAcilim130VeriCevre	mantar pimli · kol tarafı alt
+381	TekAcilim130VeriCevre	Çevre kilitleme seti
+382	TekAcilim130VeriCevre	W 400–1300 · H 550–2400
+383	TekAcilim130VeriCevre	Çevre kilitleme, standart sete ek parçalarla (17, 5) kurulur.
+384	TekAcilim130VeriCevre	3 gizli baskı (16) menteşe tarafına eşit aralıkla takılır.
+385	SecimGrafigi	Paralel makas seçim grafiği
+386	SecimGrafigi	CEPHE SİSTEMLERİ
+387	SecimGrafigi	SEÇİM GRAFİĞİ · MANUEL AÇILIM
+388	SecimGrafigi	PARALEL MAKAS SEÇİMİ
+389	SecimGrafigi	Kanat yüksekliği
+390	SecimGrafigi	'nin düştüğü satırı bulun (A–D).
+391	SecimGrafigi	Kanat genişliği
+392	SecimGrafigi	'nin düştüğü sütunu bulun (1–4).
+393	SecimGrafigi	Kesişen hücre, yan ve üst/alt makas kodunu ve adedini verir.
+394	SecimGrafigi	H ↓ · W →
+395	SecimGrafigi	W 400–700 mm
+396	SecimGrafigi	W 701–1000 mm
+397	SecimGrafigi	W 1001–1400 mm
+398	SecimGrafigi	W 1401–1800 mm
+399	SecimGrafigi	A
+400	SecimGrafigi	H 400–700 mm
+401	SecimGrafigi	maks. 110 kg
+402	SecimGrafigi	A1
+403	SecimGrafigi	Yan makas
+404	SecimGrafigi	14″ tek × 2
+405	SecimGrafigi	Üst / alt makas
+406	SecimGrafigi	A2
+407	SecimGrafigi	18″ tek × 2
+408	SecimGrafigi	A3
+409	SecimGrafigi	27″ çift × 2
+410	SecimGrafigi	A4
+411	SecimGrafigi	36″ çift × 2
+412	SecimGrafigi	B
+413	SecimGrafigi	H 701–1000 mm
+414	SecimGrafigi	maks. 55 kg
+415	SecimGrafigi	B1
+416	SecimGrafigi	B2
+417	SecimGrafigi	B3
+418	SecimGrafigi	B4
+419	SecimGrafigi	C
+420	SecimGrafigi	H 1001–1400 mm
+421	SecimGrafigi	maks. 225 kg
+422	SecimGrafigi	C1
+423	SecimGrafigi	C2
+424	SecimGrafigi	C3
+425	SecimGrafigi	C4
+426	SecimGrafigi	D
+427	SecimGrafigi	H 1401–1800 mm
+428	SecimGrafigi	D1
+429	SecimGrafigi	D2
+430	SecimGrafigi	D3
+431	SecimGrafigi	D4
+432	SecimGrafigi	OKUMA ÖRNEĞİ
+433	SecimGrafigi	Yüksekliği B bandında, genişliği 3 bandında olan kanat için
+434	SecimGrafigi	hücresindeki makaslar kullanılır. Satırdaki maks. ağırlık aşılmamalıdır.
+435	SecimGrafigi	Tablo manuel açılım içindir.
+436	SecimGrafigi	Motorlu uygulamalar ve tablo dışındaki ölçüler için teknik departmanımıza danışın.
+437	Main	Bossy Ürün Kataloğu — Ön kapak
+438	Main	BOSSY.COM.TR
+439	Icindekiler	İçindekiler ve simgeler
+440	Icindekiler	ÜRÜN KATALOĞU 2026
+441	Icindekiler	bölüm
+442	Icindekiler	sayfa
+443	Icindekiler	AÇILIM SISTEMLERI
+444	Icindekiler	Çift açılım seti · genel bakış
+445	Icindekiler	Sistem setleri 1–13
+446	Icindekiler	CEPHE SISTEMLERI
+447	Icindekiler	Küçük boy makaslar
+448	Icindekiler	Büyük boy makaslar
+449	Icindekiler	Kademeli sınırlandırıcı
+450	Icindekiler	Sınırlandırıcı makas
+451	Icindekiler	Cephe kilitleme seti
+452	Icindekiler	Sistem donanım ekipmanları
+453	Icindekiler	Paralel makas
+454	Icindekiler	MENTEŞELER
+455	Icindekiler	Fortis kapı menteşesi
+456	Icindekiler	Tenax kapı menteşesi
+457	Icindekiler	Validus ayarlı pencere menteşesi
+458	Icindekiler	Fortis pencere menteşesi
+459	Icindekiler	Mafsallı kol
+460	Icindekiler	Novus düz kol
+461	Icindekiler	Düz ve kıvrık model kol
+462	Icindekiler	Novus kıvrık kol
+463	Icindekiler	Kapı kolu
+464	Icindekiler	Bezault kol
+465	Icindekiler	KALDIR-SÜR SISTEMLERI
+466	Icindekiler	Sistem verileri
+467	Icindekiler	Araba setleri · 30 · 42 · 16/18/22
+468	Icindekiler	Montaj setleri · 42 ve 16 mm
+469	Icindekiler	İspanyolet ve kilit
+470	Icindekiler	Montaj detayları
+471	Icindekiler	Sistem ekipmanları
+472	Icindekiler	Sürme ve kaldır-sür kolları
+473	Icindekiler	KAPI KILITLERI
+474	Icindekiler	Çift pimli kancalı kilit
+475	Icindekiler	Kancalı ana kilit
+476	Icindekiler	Tek nokta kilit seti
+477	Icindekiler	Tij tahrikli tek nokta kilit
+478	Icindekiler	Kanca pimli 3 nokta kilit
+479	Icindekiler	Çift pimli 3 nokta kilit
+480	Icindekiler	Kancalı 3 nokta kilit
+481	Icindekiler	KATALOGDAKİ SİMGELER
+482	Icindekiler	Kanat genişliği (W)
+483	Icindekiler	Kanat yüksekliği (H)
+484	Icindekiler	Malzeme
+485	Icindekiler	304 paslanmaz, alüminyum
+486	Icindekiler	Dayanım testi
+487	Icindekiler	açma-kapama çevrimi
+488	Icindekiler	Opsiyonel parça
+489	Icindekiler	sete dahil değildir
+490	Icindekiler	Kutu adedi
+491	Icindekiler	kutu başına parça sayısı
+492	Icindekiler	Tüm ölçüler mm cinsindendir. W: kanat genişliği, H: kanat yüksekliği (kanat dış ölçüsü).
+493	Icindekiler	Numaralı daireler, montaj şemasındaki parça numaralarını gösterir.
+494	Hakkinda	Bossy hakkında
+495	Hakkinda	BOSSY'Yİ TANIYIN
+496	Hakkinda	SORUNLARINIZA
+497	Hakkinda	ÖZEL ÇÖZÜMLER
+498	Hakkinda	ÜRETİYORUZ.
+499	Hakkinda	SINCE 2003 · İSTANBUL
+500	Hakkinda	KIMIZ
+501	Hakkinda	2003 yılından bu yana inşaat sektörü ve dış cephe aksesuarları pazarına yenilikçi ve teknolojik ürünler sunuyoruz. Birikim Kalıp Yapı Ürünleri olarak Türkiye'de ve dünyanın pek çok ülkesinde yüzlerce müşterimize üretim yapıyoruz.
+502	Hakkinda	NE ÜRETIYORUZ
+503	Hakkinda	Dış cephe makasları, paralel makaslar, pencere ve kapı kolları, çift açılım sistemleri, menteşeler ve kaldır-sür setleri. Alüminyum pencere profilleri için kullanılan makasların yerli üreticisiyiz.
+504	Hakkinda	NASIL ÇALIŞIYORUZ
+505	Hakkinda	Uzman mühendis kadromuz ve kendi kalıphanemizle ürünlerimizi tasarlıyor, seri üretiyor ve test ediyoruz. Ar-Ge yatırımlarımız hız kesmeden sürüyor.
+506	Hakkinda	kuruluş
+507	Hakkinda	m² üretim alanı
+508	Hakkinda	paslanmaz çelik
+509	Hakkinda	müşteri memnuniyeti hedefi
+510	Hakkinda	VİZYONUMUZ
+511	Hakkinda	Sürdürülebilir bir büyüme ile en üst seviyede güven ve kaliteyi vaat eden bir dünya markası olmak.
+512	Hakkinda	MİSYONUMUZ
+513	Hakkinda	Yüzde yüz müşteri memnuniyetini gözeterek Türkiye'de ve dünyada yenilikçi, teknolojik ürünler sunmak; sektörde öncü markalar arasında yer almak.
+514	BolumAcilim	Antrasit profilli çift açılım pencere, devirme konumunda, şehir manzaralı iç mekân
+515	BolumAcilim	Çift açılım sistemi
+516	BolumAcilim	Çift açılım sistem setleri
+517	BolumAcilim	Tek açılım sistem setleri
+518	BolumAcilim	Window and door hardware solutions
+519	CiftAcilimTanitim	ÇİFT AÇILIM SİSTEMİ
+520	CiftAcilimTanitim	DÖNME + DEVİRME
+521	CiftAcilimTanitim	TEK KOLDA
+522	CiftAcilimTanitim	Antrasit profilli çift açılım pencere, devirme konumunda, Bossy kol
+523	CiftAcilimTanitim	Bossy düz maça kol
+524	CiftAcilimTanitim	BOSSY KOL
+525	CiftAcilimTanitim	Düz maça · s. 06
+526	CiftAcilimTanitim	ANTRASİT PROFİL · DEVİRME KONUMU
+527	CiftAcilimTanitim	DAYANIM GARANTİSİ
+528	CiftAcilimTanitim	açma-kapama döngüsü
+529	CiftAcilimTanitim	Menteşe, makas ve kol mekanizması 20.000 açma-kapama döngüsüne kadar garantilidir.
+530	CiftAcilimTanitim	KANAT AĞIRLIĞI
+531	CiftAcilimTanitim	KANAT GENIŞLIĞI
+532	CiftAcilimTanitim	KANAT YÜKSEKLIĞI
+533	CiftAcilimTanitim	set
+534	CiftAcilimTanitim	AĞIRLIK SINIFI
+535	CiftAcilimTanitim	KOL KONUMLARI
+536	CiftAcilimTanitim	İÇERİDEN
+537	CiftAcilimTanitim	Kapalı
+538	CiftAcilimTanitim	kol aşağı
+539	CiftAcilimTanitim	Dönme
+540	CiftAcilimTanitim	kol yatay 90°
+541	CiftAcilimTanitim	Devirme
+542	CiftAcilimTanitim	kol yukarı 180°
+543	CiftAcilimTanitim	ÖZELLİKLER
+544	CiftAcilimTanitim	SET SEÇİMİ S. 06
+545	CiftAcilimTanitim	Tek kolla iki hareket
+546	CiftAcilimTanitim	Kanat kolun konumuna göre yandan içe açılır ya da üstten devrilir.
+547	CiftAcilimTanitim	Euro kanal uyumu
+548	CiftAcilimTanitim	Avrupa kanallı alüminyum profillere doğrudan uygulanır.
+549	CiftAcilimTanitim	Paslanmaz gizli makas
+550	CiftAcilimTanitim	Devirme makası kanat ile kasa arasında kalır; paslanmaz çelik gövde.
+551	CiftAcilimTanitim	Paslanmaz pim
+552	CiftAcilimTanitim	Menteşe pimi 304 paslanmaz çelik; dış ortamda korozyona dayanıklı.
+553	CiftAcilimTanitim	Sol ve sağ kanat
+554	CiftAcilimTanitim	DIN-L ve DIN-R olarak uygulanır; kanat yönü siparişte belirtilir.
+555	CiftAcilimTanitim	Opsiyonel parçalar
+556	CiftAcilimTanitim	Büyük kanatlar için ek makas, ek kilitleme ve kanat kaldırma.
+557	CiftAcilimTanitim	Garanti, montaj talimatına uygun kurulum ve kullanım koşullarında geçerlidir.
+558	CiftAcilimVeri	Çift Açılım Seti — Teknik veriler
+559	CiftAcilimVeri	GENEL BAKIŞ VE SET SEÇİMİ
+560	CiftAcilimVeri	ÇİFT AÇILIM SETİ
+561	CiftAcilimVeri	Set
+562	CiftAcilimVeri	Standart kanat
+563	CiftAcilimVeri	W 400–1300 · H 550–2000
+564	CiftAcilimVeri	Yüksek kanat
+565	CiftAcilimVeri	W 400–1300 · H 2000–2400
+566	CiftAcilimVeri	Destek vidası
+567	CiftAcilimVeri	parça 11
+568	CiftAcilimVeri	80 kg
+569	CiftAcilimVeri	s. 09
+570	CiftAcilimVeri	100 kg
+571	CiftAcilimVeri	s. 11
+572	CiftAcilimVeri	130 kg
+573	CiftAcilimVeri	s. 13
+574	CiftAcilimVeri	150 kg
+575	CiftAcilimVeri	s. 15
+576	CiftAcilimVeri	170 kg
+577	CiftAcilimVeri	s. 17
+578	CiftAcilimVeri	Kanat genişliği ve yüksekliğine göre uygulama aralığı grafiği
+579	CiftAcilimVeri	W, H: kanat dış ölçüsü, mm · Set ağırlığı aşılmamalı
+580	CiftAcilimVeri	AÇILIM ŞEKLİ
+581	CiftAcilimVeri	Çift açılım kanadı görünüşü, dönme ve devirme sembolleri
+582	CiftAcilimVeri	Düz: dönme · Kesikli: devirme
+583	CiftAcilimVeri	KANAT AĞIRLIĞI HESABI
+584	CiftAcilimVeri	Cam ağırlığı (kg) =
+585	CiftAcilimVeri	cam alanı (m²) × toplam cam kalınlığı (mm) × 2,5
+586	CiftAcilimVeri	Kanat ağırlığı ≈ cam ağırlığı + kanat profili ve aksesuar ağırlığı
+587	CiftAcilimVeri	ÖRNEK
+588	CiftAcilimVeri	1000 × 1500 mm kanat, 4 + 16 + 4 ısıcam (toplam 8 mm cam)
+589	CiftAcilimVeri	1,5 m² × 8 mm × 2,5 =
+590	CiftAcilimVeri	30 kg
+591	CiftAcilimVeri	cam
+592	CiftAcilimVeri	Kanat ağırlığı = 30 kg + profil ve aksesuar ağırlığı
+593	CiftAcilimVeri	SET SEÇİMİ
+594	CiftAcilimVeri	Kanat W ve H ölçüsünü uygulama aralığında kontrol edin.
+595	CiftAcilimVeri	Kanat ağırlığını hesaplayın.
+596	CiftAcilimVeri	Ağırlığı karşılayan en küçük seti seçin; parça listesi ilgili sayfada.
+597	CiftAcilimBilesenler	Çift açılım seti — sistem setleri 1–5
+598	CiftAcilimBilesenler	ÇİFT AÇILIM SETİ · STANDART SET
+599	CiftAcilimBilesenler	SİSTEM SETLERİ
+600	CiftAcilimBilesenler	Numaralar montaj şeması ve parça listeleriyle eşleşir. Menteşe seti iki tiptir: A ve B.
+601	CiftAcilimBilesenler	Menteşe seti A render görseli
+602	CiftAcilimBilesenler	Menteşe seti A
+603	CiftAcilimBilesenler	80 · 100 kg · üst ve alt menteşe
+604	CiftAcilimBilesenler	Kutu adedi: 10
+605	CiftAcilimBilesenler	ad / kutu
+606	CiftAcilimBilesenler	Menteşe seti B render görseli · kasa
+607	CiftAcilimBilesenler	Menteşe seti B render görseli · kanat
+608	CiftAcilimBilesenler	130 · 150 · 170 kg · üst ve alt menteşe
+609	CiftAcilimBilesenler	Makas seti render görseli
+610	CiftAcilimBilesenler	Makas seti
+611	CiftAcilimBilesenler	1. boy · 2. boy
+612	CiftAcilimBilesenler	Kol render görseli
+613	CiftAcilimBilesenler	Kol aktarma seti render görseli · karşılık
+614	CiftAcilimBilesenler	Kol aktarma seti render görseli · aktarma parçası
+615	CiftAcilimBilesenler	Kol aktarma seti 1
+616	CiftAcilimBilesenler	Kol aktarma seti 2 render görseli
+617	CiftAcilimBilesenler	ALTERNATİF
+618	CiftAcilimBilesenler	Kol aktarma seti 2
+619	CiftAcilimBilesenler	Kutu adedi: 20
+620	CiftAcilimBilesenler	Kilitleme seti render görseli · tırnaklı köşe aktarma
+621	CiftAcilimBilesenler	Kilitleme seti render görseli
+622	CiftAcilimBilesenler	Kilitleme seti render görseli · karşılık
+623	CiftAcilimBilesenler	Kilitleme seti 1
+624	CiftAcilimBilesenler	tırnaklı köşe aktarma
+625	CiftAcilimBilesenler	Kilitleme seti render görseli · mandallı köşe aktarma
+626	CiftAcilimBilesenler	Kilitleme seti 2
+627	CiftAcilimBilesenler	mandallı köşe aktarma
+628	CiftAcilimBilesenler2	Çift açılım seti — sistem setleri 5–6
+629	CiftAcilimBilesenler2	ÇİFT AÇILIM SETİ · SETLER
+630	CiftAcilimBilesenler2	Birden fazla parçadan oluşan setler. Kesikli daire opsiyonel seti gösterir; opsiyonel donanım sonraki sayfadadır.
+631	CiftAcilimBilesenler2	Yatay vasistas kilitleme seti 1 render görseli · 2 karşılık, köşe aktarma, tırnaklı köşe aktarma, uzatma, kilitleme karşılığı, kaldırma takozu, yatay vasistas destek
+632	CiftAcilimBilesenler2	Yatay vasistas kilitleme seti 1
+633	CiftAcilimBilesenler2	150 · 170 kg · tırnaklı köşe aktarma
+634	CiftAcilimBilesenler2	AD / KUTU
+635	CiftAcilimBilesenler2	Yatay vasistas kilitleme seti 2 render görseli · 2 karşılık, köşe aktarma, mandallı köşe aktarma, uzatma, kilitleme karşılığı, kaldırma takozu, yatay vasistas destek
+636	CiftAcilimBilesenler2	Yatay vasistas kilitleme seti 2
+637	CiftAcilimBilesenler2	150 · 170 kg · mandallı köşe aktarma
+638	CiftAcilimBilesenler2	Köşe dönüşü render görseli
+639	CiftAcilimBilesenler2	Kilitleme noktası render görseli
+640	CiftAcilimBilesenler2	Karşılık render görseli
+641	CiftAcilimBilesenler2	Arka kilitleme seti
+642	CiftAcilimBilesenler3	Çift açılım seti — opsiyonel donanım 8–14
+643	CiftAcilimBilesenler3	ÇİFT AÇILIM SETİ · OPSİYONLAR VE EK PARÇALAR
+644	CiftAcilimBilesenler3	OPSİYONEL DONANIM
+645	CiftAcilimBilesenler3	Kesikli daire: opsiyon, ayrıca sipariş edilir. Düz daire: sete dahil. Numaralar montaj şeması ve teknik veri tablolarıyla eşleşir.
+646	CiftAcilimBilesenler3	Ek makas render görseli
+647	CiftAcilimBilesenler3	Ek makas karşılığı render görseli
+648	CiftAcilimBilesenler3	EK MAKAS
+649	CiftAcilimBilesenler3	Uygulama aralığı
+650	CiftAcilimBilesenler3	1200 &lt; W &lt; 1300 mm
+651	CiftAcilimBilesenler3	Setler
+652	CiftAcilimBilesenler3	80 · 100 · 130 · 150 · 170 kg
+653	CiftAcilimBilesenler3	Makaralı kanat kaldırma · kasa parçası render görseli
+654	CiftAcilimBilesenler3	Makaralı kanat kaldırma · makaralı parça render görseli
+655	CiftAcilimBilesenler3	MAKARALI KANAT KALDIRMA
+656	CiftAcilimBilesenler3	Ek kilitleme pimi render görseli
+657	CiftAcilimBilesenler3	EK KİLİTLEME PİMİ
+658	CiftAcilimBilesenler3	Üst menteşe destek vidası render görseli
+659	CiftAcilimBilesenler3	ÜST MENTEŞE DESTEK VİDASI
+660	CiftAcilimBilesenler3	Tüm kanat ölçüleri
+661	CiftAcilimBilesenler3	100 · 130 · 150 · 170 kg
+662	CiftAcilimBilesenler3	Yük aktarma parçası render görseli
+663	CiftAcilimBilesenler3	YÜK AKTARMA PARÇASI
+664	CiftAcilimBilesenler3	150 · 170 kg
+665	CiftAcilimBilesenler3	Pencere sınırlandırıcı render görseli
+666	CiftAcilimBilesenler3	SINIRLANDIRICI LİMİTÖR
+667	CiftAcilimBilesenler3	1.Boy 400-1000 mm
+668	CiftAcilimBilesenler3	2.Boy 1001-1300 mm
+669	CiftAcilim80Cizim	80 kg çift açılım seti — montaj şeması
+670	CiftAcilim80Cizim	ÇİFT AÇILIM SETİ · MONTAJ ŞEMASI
+671	CiftAcilim80Cizim	80 KG STANDART SET
+672	CiftAcilim80Cizim	W 400–1300 · H 550–2400 mm
+673	CiftAcilim80Cizim	80 kg çift açılım seti montaj şeması, numaralı parçalar ve profil kesiti
+674	CiftAcilim80Cizim	400-1300 mm
+675	CiftAcilim80Cizim	550-2400 mm
+676	CiftAcilim80Cizim	Mandallı köşe aktarma
+677	CiftAcilim80Cizim	Kol birleştirme parçası (alternatif)
+678	CiftAcilim80Cizim	Mantar pim
+679	CiftAcilim80Cizim	gizle: eski 7
+680	CiftAcilim80Cizim	6 uç parça (yatay)
+681	CiftAcilim80Cizim	Karşılık
+682	CiftAcilim80Cizim	Kılavuz çizgiler
+683	CiftAcilim80Cizim	Parça 6 (opsiyon)
+684	CiftAcilim80Cizim	Pencere sınırlandırıcı
+685	CiftAcilim80Cizim	Etiket 14 (pencere sınırlandırıcı)
+686	CiftAcilim80Veri	80 kg çift açılım seti — teknik veriler
+687	CiftAcilim80Veri	ÇİFT AÇILIM SETİ · TEKNİK VERİLER
+688	CiftAcilim80Veri	Uygulama aralığı, mm
+689	CiftAcilim80Veri	Menteşe seti A&nbsp;
+690	CiftAcilim80Veri	400 &lt; W &lt; 1300 · 550 &lt; H &lt; 2400
+691	CiftAcilim80Veri	Makas — 1. boy
+692	CiftAcilim80Veri	400 &lt; W &lt; 600
+693	CiftAcilim80Veri	Makas — 2. boy
+694	CiftAcilim80Veri	601 &lt; W &lt; 1300
+695	CiftAcilim80Veri	· alternatif
+696	CiftAcilim80Veri	· tırnaklı köşe aktarma
+697	CiftAcilim80Veri	· mandallı köşe aktarma alternatif
+698	CiftAcilim80Veri	OPSİYONLAR
+699	CiftAcilim80Veri	· sete dahil değildir, ayrıca sipariş edilir
+700	CiftAcilim80Veri	1200 &lt; H &lt; 2400
+701	CiftAcilim80Veri	1200 &lt; W &lt; 1300
+702	CiftAcilim80Veri	Ek makas
+703	CiftAcilim80Veri	Makaralı kanat kaldırma
+704	CiftAcilim80Veri	Ek kilitleme pimi
+705	CiftAcilim80Veri	Sınırlandırıcı limitör
+706	CiftAcilim80Veri	· 1. boy · 2. boy
+707	CiftAcilim80Veri	400 &lt; W &lt;1300
+708	CiftAcilim80Veri	W, H: kanat dış ölçüsü (mm). Kanat ağırlığı 80 kg'ı aşmamalıdır.
+709	CiftAcilim80Veri	Parça numaraları s. 09'daki montaj şemasıyla eşleşir.
+710	CiftAcilim100Cizim	100 kg çift açılım seti — montaj şeması
+711	CiftAcilim100Cizim	100 KG STANDART SET
+712	CiftAcilim100Cizim	100 kg çift açılım seti montaj şeması, numaralı parçalar ve profil kesiti
+713	CiftAcilim100Cizim	Parça 5
+714	CiftAcilim100Veri	100 kg çift açılım seti — teknik veriler
+715	CiftAcilim100Veri	· 10 ad/kutu
+716	CiftAcilim100Veri	Üst menteşe destek vidası — 100 kg
+717	CiftAcilim100Veri	W, H: kanat dış ölçüsü (mm). Kanat ağırlığı 100 kg'ı aşmamalıdır.
+718	CiftAcilim100Veri	Parça numaraları s. 11'deki montaj şemasıyla eşleşir.
+719	CiftAcilim130Cizim	130 kg çift açılım seti — montaj şeması
+720	CiftAcilim130Cizim	130 KG STANDART SET
+721	CiftAcilim130Cizim	130 kg çift açılım seti montaj şeması, numaralı parçalar ve profil kesiti
+722	CiftAcilim130Veri	130 kg çift açılım seti — teknik veriler
+723	CiftAcilim130Veri	· mandallı köşe aktarma alternatif"
+724	CiftAcilim130Veri	Üst menteşe destek vidası — 130 kg
+725	CiftAcilim130Veri	W, H: kanat dış ölçüsü (mm). Kanat ağırlığı 130 kg'ı aşmamalıdır.
+726	CiftAcilim130Veri	Parça numaraları s. 13'teki montaj şemasıyla eşleşir.
+727	CiftAcilim150Cizim	150 kg çift açılım seti — montaj şeması
+728	CiftAcilim150Cizim	150 KG STANDART SET
+729	CiftAcilim150Cizim	W 400–1300 · H 550–2600 mm
+730	CiftAcilim150Cizim	150 kg çift açılım seti montaj şeması, numaralı parçalar ve profil kesiti
+731	CiftAcilim150Cizim	550-2600 mm
+732	CiftAcilim150Cizim	150 kg köşe aktarma
+733	CiftAcilim150Cizim	Plastik kaldırma takozu
+734	CiftAcilim150Cizim	Yatay vasistas destek parçası
+735	CiftAcilim150Cizim	Parça 10
+736	CiftAcilim150Cizim	Parça 9
+737	CiftAcilim150Cizim	Pim kılavuz çizgileri
+738	CiftAcilim150Cizim	Parça 7 · karşılık
+739	CiftAcilim150Cizim	Parça 10 · pim
+740	CiftAcilim150Cizim	gizle: eski kılavuz
+741	CiftAcilim150Veri	150 kg çift açılım seti — teknik veriler
+742	CiftAcilim150Veri	400 &lt; W &lt; 1300 · 550 &lt; H &lt; 2600
+743	CiftAcilim150Veri	Yatay Vasistas Kilitleme seti 1
+744	CiftAcilim150Veri	Yatay Vasistas Kilitleme seti 2
+745	CiftAcilim150Veri	· mandallı köşe aktarma-alternatif
+746	CiftAcilim150Veri	Üst menteşe destek vidası — 150 kg
+747	CiftAcilim150Veri	1200 &lt; H &lt; 2600
+748	CiftAcilim150Veri	1000 &lt; W &lt; 1300
+749	CiftAcilim150Veri	W 400–1300 · H 2000–2600
+750	CiftAcilim150Veri	W, H: kanat dış ölçüsü (mm). Kanat ağırlığı 150 kg'ı aşmamalıdır.
+751	CiftAcilim150Veri	Parça numaraları s. 15'teki montaj şemasıyla eşleşir.
+752	CiftAcilim170Cizim	170 kg çift açılım seti — montaj şeması
+753	CiftAcilim170Cizim	170 KG STANDART SET
+754	CiftAcilim170Cizim	W 400–1300 · H 550–2800 mm
+755	CiftAcilim170Cizim	170 kg çift açılım seti montaj şeması, numaralı parçalar ve profil kesiti
+756	CiftAcilim170Cizim	550-2800 mm
+757	CiftAcilim170Veri	170 kg çift açılım seti — teknik veriler
+758	CiftAcilim170Veri	Menteşe seti B&nbsp;
+759	CiftAcilim170Veri	400 &lt; W &lt; 1300 · 550 &lt; H &lt; 2800
+760	CiftAcilim170Veri	· mandallı köşe aktarma · alternatif
+761	CiftAcilim170Veri	1200 &lt; H &lt; 2800
+762	CiftAcilim170Veri	Üst menteşe destek vidası — 170 kg
+763	CiftAcilim170Veri	Yatay kilitleme seti
+764	CiftAcilim170Veri	· uç parça + karşılık
+765	CiftAcilim170Veri	1020 &lt; W &lt; 1300
+766	CiftAcilim170Veri	H 2000–2800
+767	CiftAcilim170Veri	W, H: kanat dış ölçüsü (mm). Kanat ağırlığı 170 kg'ı aşmamalıdır.
+768	CiftAcilim170Veri	Parça numaraları s. 17'deki montaj şemasıyla eşleşir.
+769	CiftAcilimPasif	Çift açılım — pasif kanat açılım
+770	CiftAcilimPasif	ÇİFT KANAT ÇİFT AÇILIM SETİ · MONTAJ ŞEMASI
+771	CiftAcilimPasif	PASİF KANAT
+772	CiftAcilimPasif	İçeriden görünüş · pasif kanat
+773	CiftAcilimPasif	Çift kanat pencere görünüşü · pasif kanat solda
+774	CiftAcilimPasif	Makas
+775	CiftAcilimPasif	Pencere kolu
+776	CiftAcilimPasif	Menteşe seti · parça sıralaması
+777	CiftAcilimPasif	Üst menteşe
+778	CiftAcilimPasif	Üst menteşe destek vidası (100 kg)
+779	CiftAcilimPasif	Alt menteşe
+780	CiftAcilimPasif	Uç parça (dikey)
+781	CiftAcilimPasif	Pasif kanat kilit seti · parça sıralaması
+782	CiftAcilimPasif	aktif ve pasif kanat birleşimi
+783	CiftAcilimPasif	Pasif kanat profil kesiti
+784	CiftAcilimPasif	185 mm
+785	CiftAcilimPasifVeri	Çift açılım — pasif kanat teknik veriler
+786	CiftAcilimPasifVeri	ÇİFT KANAT ÇİFT AÇILIM SETİ · TEKNİK VERİLER
+787	CiftAcilimPasifVeri	Pasif
+788	CiftAcilimPasifVeri	kanat
+789	CiftAcilimPasifVeri	Çift kanat uygulaması
+790	CiftAcilimPasifVeri	Pasif Gizli Manivela Kol seti
+791	CiftAcilimPasifVeri	Tek Açılım Makas
+792	CiftAcilimPasifVeri	Menteşe seti
+793	CiftAcilimPasifVeri	UYGULAMA NOTLARI
+794	CiftAcilimPasifVeri	Çift kanat pencere görünüşü
+795	CiftAcilimPasifVeri	Çift kanatlı pencerelerde pasif (ikinci) kanat için kullanılır.
+796	CiftAcilimPasifVeri	Kanat ağırlığı 170 kg'ı aşmamalıdır.
+797	CiftAcilimPasifVeri	Parça listesi s. 19'daki montaj şemasıyla eşleşir.
+798	CiftAcilimManivela	Gizli manivela kolu seti
+799	CiftAcilimManivela	ÇİFT AÇILIM SETİ · AKSESUAR
+800	CiftAcilimManivela	GİZLİ MANİVELA
+801	CiftAcilimManivela	KOLU SETİ
+802	CiftAcilimManivela	Gizli manivela kolu seti render görseli
+803	CiftAcilimManivela	80 – 100 kg · üst ve alt menteşe
+804	CiftAcilimManivela	Menteşe seti B render görseli
+805	CiftAcilimManivela	130 - 150 - 170 kg · üst ve alt menteşe
+806	CiftAcilimManivela	Tek açılım makası render görseli
+807	CiftAcilimManivela	Gizli baskı seti render görseli
+808	TekAcilimSecim	Tek açılım setleri — set seçimi
+809	TekAcilimSecim	TEK AÇILIM
+810	TekAcilimSecim	SETLERİ
+811	TekAcilimSecim	YALNIZCA DÖNME
+812	TekAcilimSecim	Kol 90° çevrildiğinde kanat içe açılır; devirme konumu yoktur. Kanat üstten tek açılım makasıyla taşınır.
+813	TekAcilimSecim	SETLER
+814	TekAcilimSecim	Kanat ağırlığı ve ölçüsüne göre seçiniz · kesikli: yalnızca 100 kg
+815	TekAcilimSecim	ECO SET
+816	TekAcilimSecim	s. 26
+817	TekAcilimSecim	W 400–1000
+818	TekAcilimSecim	H 550–1250
+819	TekAcilimSecim	Sınırlandırıcı
+820	TekAcilimSecim	Destek vidası · 100 kg
+821	TekAcilimSecim	s. 27
+822	TekAcilimSecim	H 550–2000
+823	TekAcilimSecim	s. 28
+824	TekAcilimSecim	W 400–1300
+825	TekAcilimSecim	H 550–2400
+826	TekAcilimSecim	ÇEVRE KİLİTLEME · AĞIR KANAT
+827	TekAcilimSecim	s. 29
+828	TekAcilimSecim	Çift açılım makası ve ağır kanat menteşesi ile
+829	TekAcilimSecim	H 550–2600
+830	TekAcilimSecim	s. 30
+831	TekAcilimSecim	H 550–2800
+832	TekAcilimSecim	Sistem setleri s. 23–24 · montaj şemaları s. 26–30 · teknik veriler s. 31–35
+833	TekAcilimBilesenler	Tek açılım seti — sistem setleri 1–7
+834	TekAcilimBilesenler	TEK AÇILIM SETİ · STANDART PARÇALAR
+835	TekAcilimBilesenler	Numaralar montaj şeması ve parça listeleriyle eşleşir. Menteşe seti, kol ve kol aktarma çift açılımla ortaktır.
+836	TekAcilimBilesenler	Menteşe seti A render görseli · üst ve alt menteşe
+837	TekAcilimBilesenler	Kutu adedi: –
+838	TekAcilimBilesenler	Kol Aktarma
+839	TekAcilimBilesenler	100 -130· 150 · 170 kg
+840	TekAcilimBilesenler	Pencere limitörü
+841	TekAcilimBilesenler	Sınırlandırıcı Limitör
+842	TekAcilimBilesenler	1.Boy&nbsp; 400-1000mm
+843	TekAcilimBilesenler	2.Boy 1001-1300mm
+844	TekAcilimBilesenler2	Tek açılım seti — kilitleme setleri
+845	TekAcilimBilesenler2	TEK AÇILIM SETİ · SETLER
+846	TekAcilimBilesenler2	KİLİTLEME SETLERİ
+847	TekAcilimBilesenler2	Çevre, standart, eco ve 150 kg çevre kilitleme setleri. Numaralar montaj şemalarıyla eşleşir.
+848	TekAcilimBilesenler2	Tırnaklı köşe aktarma render görseli
+849	TekAcilimBilesenler2	Köşe aktarma render görseli
+850	TekAcilimBilesenler2	Kilit çubuğu render görseli
+851	TekAcilimBilesenler2	Uç parça render görseli
+852	TekAcilimBilesenler2	Tij pimi render görseli
+853	TekAcilimBilesenler2	Sınırlandırıcı render görseli
+854	TekAcilimBilesenler2	Çevre Kilitleme Seti
+855	TekAcilimBilesenler2	Köşe karşılığı render görseli · alt parça
+856	TekAcilimBilesenler2	Köşe karşılığı render görseli · karşılık
+857	TekAcilimBilesenler2	Standart Kilitleme Seti
+858	TekAcilimBilesenler2	Eco Kilitleme Seti
+859	TekAcilimBilesenler2	Ek parça render görseli
+860	TekAcilimBilesenler2	· 150 kg - 170 kg
+861	TekAcilimBilesenler3	Tek açılım seti — sistem setleri 3
+862	TekAcilimBilesenler3	Ek sistem setleri. Numaralar montaj şemalarıyla eşleşir.
+863	TekAcilimBilesenler3	Çift Açılım Özel Makas
+864	TekAcilimBilesenler3	150-170 kg
+865	TekAcilimBilesenler3	Fortis 2 yaprak pencere menteşesi render görseli
+866	TekAcilimBilesenler3	Fortis 2'li Silindir Tek Açılım Menteşe
+867	TekAcilimBilesenler3	80kg
+868	TekAcilimBilesenler3	Arka Kilitleme seti
+869	TekAcilimBilesenler3	Fortis 3 yaprak pencere menteşesi render görseli
+870	TekAcilimBilesenler3	Fortis 3'lü Silindir Tek Açılım Menteşe
+871	TekAcilimBilesenler3	100kg
+872	TekAcilimCizim	Tek açılım eco set — montaj şeması
+873	TekAcilimCizim	ECO
+874	TekAcilimStandart	Tek açılım standart set — montaj şeması
+875	TekAcilimCevre	Tek açılım çevre kilitleme — montaj şeması
+876	TekAcilimCevre	Tırnaklı köşe aktarma
+877	TekAcilimCevre	Tırnaklı köşe aktarma · tırnak
+878	TekAcilimCevre	Alt kilit karşılığı ve mantar pim
+879	TekAcilimCevre	Köşe parçası 7
+880	TekAcilimCevre	Kanat parçası
+881	TekAcilimCevre	Etiket 2
+882	TekAcilimCevre	Parça 9a (alt)
+883	TekAcilimCevre	Parça 9b (alt)
+884	TekAcilimCevre	Etiket 8
+885	TekAcilimCevre	Etiket 2 (uç parça)
+886	TekAcilimCevre	Etiket 2 (alt grup)
+887	TekAcilim150Cevre	Tek açılım 150 kg çevre kilitleme — montaj şeması
+888	TekAcilim150Cevre	Etiket 5
+889	TekAcilim150Cevre	Etiket 9 (alt)
+890	TekAcilim150Cevre	Makas seti 2
+891	TekAcilim150Cevre	Üst menteşe (çift açılım)
+892	TekAcilim150Cevre	Alt menteşe (çift açılım)
+893	TekAcilim150Cevre	Parça 6 (çift açılım)
+894	TekAcilim150Cevre	Parça 5 (çift açılım)
+895	TekAcilim150Cevre	Etiket 5 (çift açılım)
+896	TekAcilim150Cevre	Parça 6 (s.11)
+897	TekAcilim170Cevre	Tek açılım 170 kg çevre kilitleme — montaj şeması
+898	TekAcilim170Cevre	gizle: burç
+899	TekAcilimVeri	Tek açılım eco set — teknik veriler
+900	TekAcilimVeri	80–130 KG
+901	TekAcilimVeri	T.A. Eco kilitleme seti
+902	TekAcilimVeri	100–130 KG EK SET
+903	TekAcilimVeri	· yalnızca 100 ve 130 kg kanatlarda
+904	TekAcilimVeri	Pencere limitörü · 1. boy · 2. boy
+905	TekAcilimVeri	Eco set
+906	TekAcilimVeri	W 400–1000 · H 550–1250
+907	TekAcilimVeri	W, H: kanat dış ölçüsü (mm). Kanat ağırlığı 130 kg'ı aşmamalıdır. Menteşe seti ve kol çift açılımla ortaktır (s. 06).
+908	TekAcilimVeri	Parça numaraları s. 26'daki montaj şemasıyla eşleşir.
+909	TekAcilimVeriStandart	Tek açılım standart set — teknik veriler
+910	TekAcilimVeriStandart	T.A. Standart kilitleme seti
+911	TekAcilimVeriStandart	2 gizli baskı (7) menteşe tarafına, menteşeler arasına eşit aralıkla takılır.
+912	TekAcilimVeriStandart	Parça numaraları s. 27'deki montaj şemasıyla eşleşir.
+913	TekAcilimVeriCevre	Tek açılım çevre kilitleme seti — teknik veriler
+914	TekAcilimVeriCevre	T.A. Çevre kilitleme seti
+915	TekAcilimVeriCevre	3 gizli baskı (7) menteşe tarafına eşit aralıkla takılır.
+916	TekAcilimVeriCevre	Parça numaraları s. 28'deki montaj şemasıyla eşleşir.
+917	TekAcilim150VeriCevre	Tek açılım 150 kg çevre kilitleme — teknik veriler
+918	TekAcilim150VeriCevre	Çift açılım özel makas
+919	TekAcilim150VeriCevre	T.A. Çevre kilitleme seti · tırnaklı köşe aktarma
+920	TekAcilim150VeriCevre	Arka çevre kilitleme seti
+921	TekAcilim150VeriCevre	W 600–1300 · H 550–2600
+922	TekAcilim150VeriCevre	Parça numaraları s. 29'daki montaj şemasıyla eşleşir.
+923	TekAcilim170VeriCevre	Tek açılım 170 kg çevre kilitleme — teknik veriler
+924	TekAcilim170VeriCevre	W 600–1300 · H 550–2800
+925	TekAcilim170VeriCevre	Parça numaraları s. 30'daki montaj şemasıyla eşleşir.
+926	EmniyetKilidi	Çift açılım emniyet kilidi seti
+927	EmniyetKilidi	ÇİFT AÇILIM · AKSESUAR
+928	EmniyetKilidi	EMNİYET KİLİDİ
+929	EmniyetKilidi	Emniyet kilidi ve anahtarı
+930	EmniyetKilidi	Emniyet kilidi + anahtar
+931	EmniyetKilidi	kol tarafı kilit çubuğuna takılır
+932	EmniyetKilidi	MONTAJ ÖLÇÜLERİ
+933	EmniyetKilidi	Emniyet kilidinin kol tarafı kilit çubuğuna montaj ölçüleri
+934	EmniyetKilidi	İŞLEV
+935	EmniyetKilidi	Emniyet kilidi kilitliyken kanat yalnızca devrilir
+936	EmniyetKilidi	dönme + devirme
+937	EmniyetKilidi	yalnızca devirme
+938	EmniyetKilidi	Anahtarla kilitlendiğinde kanadın dönerek açılması engellenir; kanat yalnızca devrilir.
+939	EmniyetKilidi	KULLANIM
+940	EmniyetKilidi	3 adım
+941	EmniyetKilidi	Kullanım adımı 1
+942	EmniyetKilidi	Konum
+943	EmniyetKilidi	Kilit, kol tarafında kolun üstüne takılır.
+944	EmniyetKilidi	Kullanım adımı 2
+945	EmniyetKilidi	Kilitle
+946	EmniyetKilidi	Anahtarı takın, kilidi çevirerek kapatın.
+947	EmniyetKilidi	Kullanım adımı 3
+948	EmniyetKilidi	Anahtarı çıkarın
+949	EmniyetKilidi	Kanat artık yalnızca devrilir.
+950	EmniyetKilidi	Çift açılım setleriyle kullanılır · ölçüler mm
+951	Aksesuar1	Yardımcı aksesuarlar A01–A02
+952	Aksesuar1	7 kare mil adaptör render görseli
+953	Aksesuar1	7 kare mil adaptör
+954	Aksesuar1	Mandallı · 7 mm kare mil bağlantısı
+955	Aksesuar1	Uyumluluk
+956	Aksesuar1	Tüm çift açılım setleri
+957	Aksesuar1	Mandalsız · 7 mm kare mil bağlantısı
+958	AksesuarManivela	Yardımcı aksesuarlar A04–A08
+959	AksesuarManivela	Kancalı pim grubu render görseli
+960	AksesuarManivela	TABANLI AYARLI KANCALI PİM&nbsp;
+961	AksesuarManivela	Mantar başlı pim · alyen ile ayarlı
+962	AksesuarManivela	Kancasız pim grubu render görseli
+963	AksesuarManivela	TABANLI AYARLI PİM&nbsp;
+964	AksesuarManivela	Düz başlı pim · alyen ile ayarlı
+965	AksesuarManivela	Allenli köşe aktarma render görseli
+966	AksesuarManivela	Alyen ayarlı köşe aktarma
+967	AksesuarManivela	Mandallı köşe aktarma render görseli
+968	AksesuarManivela	Boy seçenekleri
+969	AksesuarEk	Yardımcı aksesuarlar A09–A14
+970	AksesuarEk	Ayarlı karşılık render görseli
+971	AksesuarEk	Ayarlı karşılık
+972	AksesuarEk	Ürün kodu
+973	AksesuarEk	Eurogroove c001 (14–18)
+974	AksesuarEk	Sürgü grubu render görseli
+975	AksesuarEk	PİM GRUBU KARŞILIĞI
+976	AksesuarEk	Sürgü ve karşılık grubu
+977	AksesuarEk	tek açılım makas
+978	AksesuarEk	Kanat kilitleme noktası
+979	AksesuarEk	Ayarlı gizli kilitleme render görseli
+980	AksesuarEk	Ayarlı gizli kilitleme
+981	AksesuarEk	±1 mm ayar
+982	AksesuarEk	Güvenlikli kol karşılığı render görseli
+983	AksesuarEk	sınırlandırıcı
+984	AksesuarEk	Kol kilit karşılığı
+985	AksesuarEk	Sabit karşılık B render görseli
+986	AksesuarEk	Sabit karşılık&nbsp;
+987	AksesuarEk	M4 vidalı
+988	BolumCephe	Bölüm açılışı — Cephe Sistemleri
+989	BolumCephe	Cam giydirme cephede dışa açılım makaslarıyla açılmış pencereler
+990	BolumCephe	BÖLÜM 02
+991	BolumCephe	DIŞA AÇILIM VE PARALEL MAKASLAR
+992	BolumCephe	DIŞA AÇILIM · CEPHE
+993	BolumCephe	Alüminyum cephe ve pencereler için dışa açılım ve paralel açılım makasları, sınırlandırıcılar ve sistem donanım ekipmanları. Tüm ürünler euro kanal profillere uygundur.
+994	BolumCephe	makas boyu
+995	BolumCephe	maks. kanat
+996	BolumCephe	paslanmaz
+997	BolumCephe	Dışa açılım cephe makasları
+998	BolumCephe	Paralel cephe makasları
+999	CepheKucuk	Dışa açılım cephe makasları — küçük boy
+1000	CepheKucuk	DIŞA AÇILIM · CEPHE MAKASI
+1001	CepheKucuk	KÜÇÜK BOY
+1002	CepheKucuk	MAKASLAR
+1003	CepheKucuk	254–406 mm · 4 boy · 50–85 kg
+1004	CepheKucuk	Bossy dışa açılım cephe makası, sağ ve sol takım
+1005	CepheKucuk	Üstten askılı
+1006	CepheKucuk	dışa açılım
+1007	CepheKucuk	sağ + sol takım · 4 boy
+1008	CepheKucuk	Bossy cephe makasları, pencerenin dışa açılmasını sağlayan gizli makaslardır. Sürtünme ayarı elle yapılır; kanat istenen açıda sabit kalır. Avrupa standardı cephe profillere uygundur.
+1009	CepheKucuk	Gizli montaj, kanat kapalıyken görünmez
+1010	CepheKucuk	Elle ayarlanabilir sürtünme freni
+1011	CepheKucuk	304 paslanmaz çelik gövde
+1012	CepheKucuk	Euro kanal 23 × 16 mm cephe profillere uygun
+1013	CepheKucuk	Maks. açma açısı
+1014	CepheKucuk	Maks. kanat yüksekliği
+1015	CepheKucuk	Maks. kanat genişliği
+1016	CepheKucuk	TEKNİK PARAMETRELER
+1017	CepheKucuk	4 boy
+1018	CepheKucuk	Boy
+1019	CepheKucuk	Açma açısı
+1020	CepheKucuk	Maks. kanat yüksekliği H (mm)
+1021	CepheKucuk	Maks. kanat genişliği W (mm)
+1022	CepheKucuk	Maks. kanat ağırlığı (kg)
+1023	CepheKucuk	254 mm
+1024	CepheKucuk	305 mm
+1025	CepheKucuk	356 mm
+1026	CepheKucuk	406 mm
+1027	CepheKucuk	SEÇİM VE UYGULAMA
+1028	CepheKucuk	üstten askılı kanat
+1029	CepheKucuk	700 mm ·
+1030	CepheKucuk	50 kg
+1031	CepheKucuk	800 mm ·
+1032	CepheKucuk	60 kg
+1033	CepheKucuk	1000 mm ·
+1034	CepheKucuk	70 kg
+1035	CepheKucuk	1200 mm ·
+1036	CepheKucuk	85 kg
+1037	CepheKucuk	Makas seçimi
+1038	CepheKucuk	· maks. kanat yüksekliği ve ağırlığı
+1039	CepheKucuk	İÇ
+1040	CepheKucuk	DIŞ
+1041	CepheKucuk	Makas boyu kanat yüksekliğine göre seçilir; tablodaki ağırlık ve ölçüler aşılmamalıdır.
+1042	CepheKucuk	Her kanata sağ ve sol olmak üzere 1 takım (2 adet) uygulanır.
+1043	CepheKucuk	α: açma açısı, makas boyuna göre 25°–35°.
+1044	CepheKucuk	Ölçüler mm · makaslar sağ + sol takım olarak verilir
+1045	CepheBuyuk	Dışa açılım cephe makasları — büyük boy
+1046	CepheBuyuk	BÜYÜK BOY
+1047	CepheBuyuk	457–711 mm · 7 boy · 100–185 kg
+1048	CepheBuyuk	sağ + sol takım · 7 boy
+1049	CepheBuyuk	Büyük ve ağır kanatlar için dışa açılım cephe makası. Sürtünme ayarı elle yapılır; kanat istenen açıda sabit kalır.
+1050	CepheBuyuk	Çok kollu, güçlendirilmiş yapı
+1051	CepheBuyuk	Tamamen metal, 304 paslanmaz çelik
+1052	CepheBuyuk	7 boy
+1053	CepheBuyuk	Maks. H (mm)
+1054	CepheBuyuk	Maks. W (mm)
+1055	CepheBuyuk	Maks. ağırlık (kg)
+1056	CepheBuyuk	457 mm
+1057	CepheBuyuk	508 mm
+1058	CepheBuyuk	559 mm
+1059	CepheBuyuk	610 mm
+1060	CepheBuyuk	711 mm
+1061	CepheBuyuk	AĞIR YÜK
+1062	CepheBuyuk	1400 mm ·
+1063	CepheBuyuk	1600 mm ·
+1064	CepheBuyuk	1700 mm ·
+1065	CepheBuyuk	135 kg
+1066	CepheBuyuk	1800 mm ·
+1067	CepheBuyuk	140–155 kg
+1068	CepheBuyuk	2000 mm ·
+1069	CepheBuyuk	155–185 kg
+1070	CepheBuyuk	α: açma açısı, makas boyuna göre 20°–30°.
+1071	Kademeli	SINIRLANDIRICI · KADEMELİ
+1072	Kademeli	KADEMELİ
+1073	Kademeli	SINIRLANDIRICI
+1074	Kademeli	3 · 5 kademe
+1075	Kademeli	teleskopik makas
+1076	Kademeli	Kademeli gövde, daha fazla pencere tipine ve profile uyacak şekilde optimize edilmiştir. Yüksek mukavemetli, geri çekilebilir teleskopik yapı kanadı 3 ya da 5 kademede sabit tutar. Avrupa standartlarına uygundur.
+1077	Kademeli	Kademe
+1078	Kademeli	Gövde yüksekliği
+1079	Kademeli	3 KADEMELİ SINIRLANDIRICI
+1080	Kademeli	3 kademeli̇ sınırlandırıcı
+1081	Kademeli	Kapalı boy
+1082	Kademeli	178 mm
+1083	Kademeli	Açık boy
+1084	Kademeli	274 mm
+1085	Kademeli	Montaj ölçüleri
+1086	Kademeli	5 KADEMELİ SINIRLANDIRICI
+1087	Kademeli	5 kademeli̇ sınırlandırıcı
+1088	Kademeli	250 mm
+1089	Kademeli	360 mm
+1090	Kademeli	Ölçüler mm · Avrupa standardı profillere uygundur
+1091	Sinirlandirici	SINIRLANDIRICI · MAKAS
+1092	Sinirlandirici	MAKAS
+1093	Sinirlandirici	maks. kanat yüksekliği, mm
+1094	Sinirlandirici	Kanadın açılma açısını sınırlar. Güçlü rüzgârda kanadın aniden kapanmasını ve camın kırılmasını önler.
+1095	Sinirlandirici	Açılma açısını sınırlar
+1096	Sinirlandirici	Rüzgârda ani kapanmaya karşı koruma
+1097	Sinirlandirici	Dışa açılım cephe makaslarıyla birlikte kullanılır
+1098	Sinirlandirici	Bossy sınırlandırıcı makas
+1099	Sinirlandirici	Maks. H
+1100	Sinirlandirici	Boy, kullanılabilecek maksimum kanat yüksekliğini (mm) gösterir.
+1101	Sinirlandirici	Ölçüler mm
+1102	CepheKilit1	Cephe kilitleme seti W 1200
+1103	CepheKilit1	CEPHE SİSTEMLERİ · KİLİTLEME SETİ
+1104	CepheKilit1	CEPHE KİLİTLEME
+1105	CepheKilit1	Patlatılmış montaj şeması
+1106	CepheKilit1	Cephe gizli baskı
+1107	CepheKilit2	Cephe kilitleme seti W 1200–1400
+1108	CepheKilit3	Cephe kilitleme seti W 1500
+1109	CepheEkipman	CEPHE MAKASI · SİSTEM DONANIMI
+1110	CepheEkipman	SİSTEM DONANIM
+1111	CepheEkipman	EKİPMANLARI
+1112	CepheEkipman	Ayarlı cephe karşılığı
+1113	CepheEkipman	Vidalı ayar ile kanadın kasaya baskısı hassas olarak ayarlanır.
+1114	CepheEkipman	Pabuç
+1115	CepheEkipman	Cephe kanadı kol aktarma parçası alt yataya bağlanır.
+1116	CepheEkipman	Cephe sabit karşılık
+1117	CepheEkipman	Ayarsız sabit karşılık; kanadı kapalı konumda tutar.
+1118	CepheEkipman	Köşe aktarma
+1119	CepheEkipman	Kilitleme hareketini köşeden diğer kenara aktarır.
+1120	CepheEkipman	Cephe pim grubu karşılığı
+1121	CepheEkipman	Kilitleme pimlerinin kasa tarafı karşılık seti
+1122	CepheEkipman	Çelik cephe güvenlik halatı
+1123	CepheEkipman	Kanadı kasaya bağlayan paslanmaz çelik emniyet halatı; makas arızasında kanadın düşmesini önler.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+1124	CepheEkipman	Dış cephe gizli baskı
+1125	CepheEkipman	Üst yatayda kanadın contaya baskısını sağlayan kasa kanat arasında kullanılır.
+1126	CepheEkipman	Makas metrik ayar parçası
+1127	CepheEkipman	100kg üzeri cephe kanatlarında kullanılması tavsiye edilen 'Z' ayar parçası
+1128	CepheEkipman	Tabanlı ayarlı kancalı pim
+1129	CepheEkipman	Tabanlı ayarlı pim
+1130	CepheEkipman	Dışa açılım cephe makaslarıyla kullanılır · malzeme: 304 paslanmaz çelik
+1131	FotoCepheParalel	Paralel açılım cephe görseli
+1132	FotoCepheParalel	Gün batımında paralel açılmış cephe pencereleri
+1133	ParalelMakas	Paralel makas 14″ · 18″
+1134	ParalelMakas	PARALEL AÇILIM · CEPHE MAKASI
+1135	ParalelMakas	PARALEL
+1136	ParalelMakas	tek makas · 55–110 kg
+1137	ParalelMakas	Bossy paralel makas
+1138	ParalelMakas	Paralel
+1139	ParalelMakas	tek makas · 2 boy
+1140	ParalelMakas	Paralel açılan pencere, kanadın tüm çevresinden hava akışı sağlayarak en yüksek doğal havalandırmayı verir. Kanat cepheden paralel olarak dışarı çıkar; cephe görünümü bozulmaz.
+1141	ParalelMakas	Kanadın dört kenarından eşit hava akışı
+1142	ParalelMakas	Modern cephelerde temiz görüş hattı
+1143	ParalelMakas	Kanat ve kasa arasında 23 mm montaj yüksekliği
+1144	ParalelMakas	Açılım mesafesi
+1145	ParalelMakas	2 boy
+1146	ParalelMakas	Açılım (mm)
+1147	ParalelMakas	115 / 205&nbsp;
+1148	ParalelMakas	paralel açılır kanat
+1149	ParalelMakas	110 kg
+1150	ParalelMakas	55 kg
+1151	ParalelMakas	a
+1152	ParalelMakas	Kanat, kasaya paralel olarak dışarı itilir.
+1153	ParalelMakas2	Paralel makas 27″ · 36″
+1154	ParalelMakas2	çift makas · 225 kg
+1155	ParalelMakas2	Bossy çift paralel makas
+1156	ParalelMakas2	çift makas · 2 boy
+1157	ParalelMakas2	Çift makaslı paralel sistem büyük ve ağır kanatlar için tasarlanmıştır. Makaslar iki düz ve paralel sert yüzey arasına takılır; kanat ve kasa ayakları tablodaki maksimum ölçüler içinde kalmalıdır.
+1158	ParalelMakas2	Büyük kanatlarda 225 kg taşıma
+1159	ParalelMakas2	Tek gövdede iki makas, dengeli açılım
+1160	ParalelMakas2	Montajda tablo ölçülerine uyulmalıdır
+1161	ParalelMakas2	686 mm
+1162	ParalelMakas2	914 mm
+1163	ParalelMakas2	225 kg
+1164	ParalelSecim1	Paralel makas seçim şeması
+1165	ParalelSecim1	PARALEL AÇILIM · SEÇİM ŞEMASI
+1166	ParalelSecim1	SEÇİMİ
+1167	ParalelSecim1	Kanat
+1168	ParalelSecim1	genişliğine
+1169	ParalelSecim1	göre sütunu seçin; üst makas boyu sütun başlığındadır.
+1170	ParalelSecim1	yüksekliğine
+1171	ParalelSecim1	göre satırı seçin; yan makas ve ağırlık sınırı satır başlığındadır.
+1172	ParalelSecim1	Kesişen hücre makas yerleşimini ve önerilen
+1173	ParalelSecim1	kol
+1174	ParalelSecim1	konumunu gösterir.
+1175	ParalelSecim1	SEÇİM TABLOSU
+1176	ParalelSecim1	ölçüler kanat dış ölçüsüdür · mm
+1177	ParalelSecim1	KANAT GENİŞLİĞİ
+1178	ParalelSecim1	ÜST MAKAS
+1179	ParalelSecim1	350 mm · 14″
+1180	ParalelSecim1	450 mm · 18″
+1181	ParalelSecim1	680 mm · 27″
+1182	ParalelSecim1	925 mm · 36″
+1183	ParalelSecim1	SATIR
+1184	ParalelSecim1	YÜKSEKLİK
+1185	ParalelSecim1	KANAT YÜKSEKLİĞİ
+1186	ParalelSecim1	Paralel makas yerleşimi
+1187	ParalelSecim1	TAVSİYE EDİLEN
+1188	ParalelSecim1	Yan profillerde düşey eksene merkezlenmiş çift kol uygulaması
+1189	ParalelSecim1	220 kg
+1190	ParalelSecim1	Sınırlandırıcı stoper plakası, maksimum 150 mm açılım mesafesi sağlayacak şekilde, sistemin her iki yanındaki makas mekanizmalarına birer adet monte edilmelidir.
+1191	ParalelSecim1	Çoklu makas konfigürasyonlarında, tüm makas mekanizmaları sisteme merkezlenerek ve aralarındaki eksen mesafeleri eşit olacak şekilde monte edilmelidir.
+1192	ParalelSecim2	2 × 925 mm · 36″
+1193	ParalelSecim2	Makas mekanizmalarının kanat sızdırmazlığını sağlama fonksiyonu bulunmamaktadır. Sistemde gereken optimum conta baskısı, kilitleme mekanizmaları aracılığıyla elde edilir.
+1194	ParalelSecim2	ÖNEMLİ
+1195	ParalelSecim2	Paralel açılım makaslarının sisteme entegrasyonu ve montaj uygunluğu; ilgili alüminyum profil kesitlerine ait DWG dataları üzerinden doğrulanmalıdır.
+1196	ParalelMakas450	Paralel makas 450 mm
+1197	ParalelMakas450	ölçüler mm
+1198	ParalelMakas450	Paralel makas 450 mm teknik çizim
+1199	ParalelMakas450	450 mm
+1200	ParalelMakas450	50 mm
+1201	ParalelMakas450	23 mm
+1202	ParalelMakas450	19.6 mm
+1203	ParalelMakas450	KAPALI KONUM
+1204	ParalelMakas450	AÇIK KONUM
+1205	ParalelMakas450	KESİT
+1206	ParalelMakas450	Makas boyu · 18″
+1207	ParalelMakas450	Kapalı yükseklik (min.)
+1208	ParalelMakas450	Açılım (maks.)
+1209	ParalelMakas450	1 boy
+1210	ParalelMakas450	Kapalı (mm)
+1211	ParalelMakas450	Açık maks. (mm)
+1212	ParalelMakas450	Kesit (mm)
+1213	ParalelMakas450	mm · 18″
+1214	ParalelMakas450	Tek makaslı paralel sistem, orta boy cephe kanatlarını kasaya paralel olarak dışarı iter. Kapalıyken 50 mm yüksekliğe katlanır, açık konumda kanat ile kasa arasında 250 mm mesafe sağlar.
+1215	ParalelMakas450	Kapalı 50 mm, açık 250 mm
+1216	ParalelMakas450	19,6 × 23 mm ince profil kesiti
+1217	ParalelMakas925	Paralel makas 925 mm
+1218	ParalelMakas925	36" 925 mm
+1219	ParalelMakas925	Paralel makas 925 mm teknik çizim
+1220	ParalelMakas925	Makas boyu
+1221	ParalelMakas925	Çift makaslı paralel sistem, geniş cephe kanatlarını kasaya paralel olarak dışarı iter. Tek gövdedeki iki makas kanadı dengeli taşır; kapalıyken 50 mm yüksekliğe katlanır, açık konumda 250 mm mesafe sağlar.
+1222	ParalelMakas680	Paralel makas 680 mm
+1223	ParalelMakas680	27" 680 mm
+1224	ParalelMakas680	Paralel makas 680 mm teknik çizim
+1225	ParalelMakas680	Makas boyu · 27″
+1226	ParalelMakas680	mm · 27″
+1227	ParalelMakas350	Paralel makas 350 mm
+1228	ParalelMakas350	Paralel makas 350 mm teknik çizim
+1229	ParalelMakas350	350 mm
+1230	ParalelMakas350	Makas boyu · 14″
+1231	ParalelMakas350	mm · 14″
+1232	ParalelTamKapanan1	Tam kapanan paralel makas 14″ · 18″
+1233	ParalelTamKapanan1	PARALEL AÇILIM · TAM KAPANAN
+1234	ParalelTamKapanan1	tam kapanan
+1235	ParalelTamKapanan1	14″ · 350 MM
+1236	ParalelTamKapanan1	teknik çizim
+1237	ParalelTamKapanan1	Tam kapanan paralel makas 350 mm açık konum
+1238	ParalelTamKapanan1	Tam kapanan paralel makas 350 mm kapalı konum
+1239	ParalelTamKapanan1	Tam kapanan paralel makas kesit
+1240	ParalelTamKapanan1	18″ · 450 MM
+1241	ParalelTamKapanan1	Tam kapanan paralel makas 450 mm açık konum
+1242	ParalelTamKapanan1	Tam kapanan paralel makas 450 mm kapalı konum
+1243	ParalelTamKapanan2	Tam kapanan paralel makas 27″ · 36″
+1244	ParalelTamKapanan2	27″ · 680 MM
+1245	ParalelTamKapanan2	Tam kapanan paralel makas 680 mm açık konum
+1246	ParalelTamKapanan2	Tam kapanan paralel makas 680 mm kapalı konum
+1247	ParalelTamKapanan2	680 mm
+1248	ParalelTamKapanan2	36″ · 925 MM
+1249	ParalelTamKapanan2	Tam kapanan paralel makas 925 mm açık konum
+1250	ParalelTamKapanan2	Tam kapanan paralel makas 925 mm kapalı konum
+1251	ParalelTamKapanan2	925 mm
+1252	ParalelMontaj	Paralel makas montaj şeması
+1253	ParalelMontaj	CEPHE SİSTEMLERİ · PARALEL MAKAS SETİ
+1254	ParalelMontaj	PARALEL MAKAS KİLİTLEME&nbsp;
+1255	ParalelMontaj	Paralel makas seti patlatılmış montaj görünümü
+1256	ParalelMontaj	Kancalı pim grubu
+1257	ParalelMontaj	Köşe aktarma karşılığı (cephe pim grubu)
+1258	ParalelMontaj	Köşe karşılığı yatay (cephe pim grubu)
+1259	ParalelMontaj	Kancalı pim grubu (alt yatay)
+1260	ParalelMontaj2	Paralel makas montaj şeması (2)
+1261	ParalelMontaj2	PARALEL MAKAS ÇEVRE KİLİTLEME&nbsp;
+1262	ParalelMontaj2	Kancalı pim karşılığı (alt yatay)
+1263	BolumMentese	Bölüm açılışı — Menteşeler
+1264	BolumMentese	Bossy menteşe
+1265	BolumMentese	FORTIS · TENAX · VALIDUS
+1266	BolumMentese	BÖLÜM 03
+1267	BolumMentese	KAPI VE PENCERE MENTEŞELERİ
+1268	BolumMentese	Alüminyum kapı ve pencereler için üç yönde ayarlanabilen menteşeler. Paslanmaz çelik pim, euro kanal profillere uyumlu gövde.
+1269	BolumMentese	3D
+1270	BolumMentese	yönde ayar
+1271	BolumMentese	kapı · 3 adet
+1272	BolumMentese	paslanmaz pim
+1273	BolumMentese	Validus pencere menteşesi
+1274	MenteseFortisKapi	KAPI MENTEŞESİ
+1275	MenteseFortisKapi	FORTIS
+1276	MenteseFortisKapi	KAPI
+1277	MenteseFortisKapi	3 menteşe ile · 2 menteşe ile 120 kg
+1278	MenteseFortisKapi	ÖLÇÜLER
+1279	MenteseFortisKapi	Fortis kapı menteşesi ölçüleri
+1280	MenteseFortisKapi	AYAR YÖNLERİ
+1281	MenteseFortisKapi	Ayar yönleri
+1282	MenteseFortisKapi	PROFİL
+1283	MenteseFortisKapi	Uyumlu profil kesiti ve ölçüleri
+1284	MenteseFortisKapi	2 menteşe ile
+1285	MenteseFortisKapi	3 menteşe ile
+1286	MenteseFortisKapi	Yanal ayar
+1287	MenteseFortisKapi	Baskı ayarı
+1288	MenteseFortisKapi	Yükseklik ayarı
+1289	MenteseFortisKapi	AYAR ADIMLARI
+1290	MenteseFortisKapi	alyan anahtar ölçüleri 3 · 6 · 8
+1291	MenteseFortisKapi	Fortis kapı menteşesi ayar adımları
+1292	MenteseFortisKapi	Ölçüler mm · ayarlar kanat takılıyken yapılır
+1293	MenteseTenax	TENAX
+1294	MenteseTenax	160 kg
+1295	MenteseTenax	AYAR
+1296	MenteseTenax	T25 Torx
+1297	MenteseTenax	Tenax kapı menteşesi ayar yönleri
+1298	MenteseTenax	±5 mm
+1299	MenteseTenax	±1,75 mm
+1300	MenteseTenax	±2 mm
+1301	MenteseTenax	Ayar öncesi vidalar
+1302	MenteseTenax	gevşetilmelidir.
+1303	MenteseTenax	Ayar öncesi bağlantı vidaları gevşetilmelidir.
+1304	MenteseTenax	PROFİL VE FREZE ÖLÇÜLERİ
+1305	MenteseTenax	Tenax uyumlu profil kesiti
+1306	MenteseTenax	Tenax freze ölçüleri
+1307	MenteseTenax	M5 × 12 · T25 Torx
+1308	MenteseTenax	Tenax montaj
+1309	MenteseTenax	Ölçüler mm · bağlantı vidaları M5 × 12
+1310	MenteseValidus	AYARLI PENCERE MENTEŞESİ · 3 YAPRAK
+1311	MenteseValidus	VALIDUS
+1312	MenteseValidus	3 yaprak · 2 menteşe ile
+1313	MenteseValidus	VALIDUS · 3 YAPRAK
+1314	MenteseValidus	2 menteşe ile 80 kg
+1315	MenteseValidus	Validus 3 yaprak
+1316	MenteseValidus	Uyumlu profil kesitleri
+1317	MenteseValidus	Yaprak
+1318	MenteseValidus	Taşıma
+1319	MenteseValidus	80 kg · 2 menteşe
+1320	MenteseValidus	Yaprak boyu
+1321	MenteseValidus	47 mm
+1322	MenteseValidus	Pim
+1323	MenteseValidus	304 paslanmaz
+1324	MenteseValidus	BASKI AYARI
+1325	MenteseValidus	9,9 · 11,1 · 12,3 mm
+1326	MenteseValidus	Validus baskı ayarı
+1327	MenteseValidus	Ölçüler mm · eksantrik burç ile üç kademe baskı
+1328	MenteseValidus2	2 yaprak — Validus ayarlı pencere menteşesi
+1329	MenteseValidus2	AYARLI PENCERE MENTEŞESİ · 2 YAPRAK
+1330	MenteseValidus2	2 yaprak · 2 menteşe ile
+1331	MenteseValidus2	VALIDUS · 2 YAPRAK
+1332	MenteseValidus2	2 menteşe ile 60 kg
+1333	MenteseValidus2	Validus 2 yaprak
+1334	MenteseValidus2	60 kg · 2 menteşe
+1335	MenteseFortisPencere	PENCERE MENTEŞESİ · 3 YAPRAK
+1336	MenteseFortisPencere	FORTIS · 3 YAPRAK
+1337	MenteseFortisPencere	2 menteşe ile 100 kg
+1338	MenteseFortisPencere	Fortis pencere menteşesi 3 yaprak
+1339	MenteseFortisPencere	Uyumlu profil kesiti
+1340	MenteseFortisPencere	Toplam boy
+1341	MenteseFortisPencere	145 mm
+1342	MenteseFortisPencere	Ölçüler mm · paslanmaz çelik pim
+1343	MenteseFortisPencere2	2 yaprak — Fortis pencere menteşesi
+1344	MenteseFortisPencere2	PENCERE MENTEŞESİ · 2 YAPRAK
+1345	MenteseFortisPencere2	FORTIS · 2 YAPRAK
+1346	MenteseFortisPencere2	Fortis pencere menteşesi 2 yaprak
+1347	MenteseFortisPencere2	98 mm
+1348	AraKol	Bölüm ara sayfası — Kollar
+1349	AraKol	BÖLÜM 04
+1350	AraKol	04 · KOLLAR
+1351	AraKol	BOSSY · WINDOW AND DOOR HARDWARE SOLUTIONS
+1352	BolumKol	Bölüm açılışı — Kollar
+1353	BolumKol	Novus düz kremon kol
+1354	BolumKol	KREMON · KAPI · BEZAULT
+1355	BolumKol	PENCERE · CEPHE · KAPI
+1356	BolumKol	Pencere, cephe ve kapı uygulamaları için Bossy ve Novus kol serileri. Kremon kollar pencere ve cephe tipiyle, farklı maça boylarında üretilir.
+1357	BolumKol	kol modeli
+1358	BolumKol	seri
+1359	BolumKol	bossy / novus
+1360	BolumKol	pencere / cephe
+1361	BolumKol	Bossy mafsallı kol
+1362	BolumKol	Bossy düz kol
+1363	BolumKol	Bossy kıvrık kol
+1364	BolumKol	Novus kapı kolu
+1365	BolumKol	Bossy Bezault kolu
+1366	KolMafsal	Mafsallı cephe kolu
+1367	KolMafsal	CEPHE KOLU · KAPAKLI CEPHE
+1368	KolMafsal	BOSSY MAFSALLI
+1369	KolMafsal	604 mm
+1370	KolMafsal	KOL BOYU
+1371	KolMafsal	KAPAKLI CEPHE
+1372	KolMafsal	kapakli cephe
+1373	KolMafsal	BAĞLANTI
+1374	KolMafsal	PABUÇ
+1375	KolMafsal	Ölçüler mm · kol boyu siparişe göre
+1376	KolMafsal2	Mafsallı cephe kolu — silikon cephe
+1377	KolMafsal2	CEPHE KOLU · SİLİKON CEPHE
+1378	KolMafsal2	SİLİKON CEPHE
+1379	KolMafsal2	si̇li̇kon cephe
+1380	KolNovusDuz	KREMON KOL · PENCERE
+1381	KolNovusDuz	NOVUS DÜZ
+1382	KolNovusDuz	115,5 mm
+1383	KolNovusDuz	90 / 98 mm
+1384	KolNovusDuz	PİM BOYU
+1385	KolNovusDuz	10,5 mm
+1386	KolNovusDuz2	Novus düz kremon kol — cephe
+1387	KolNovusDuz2	KREMON KOL · CEPHE
+1388	KolDuz	Düz model kremon kol
+1389	KolDuz	BOSSY DÜZ
+1390	KolDuz	115 mm
+1391	KolDuz	TOPLAM DERİNLİK
+1392	KolDuz	60 mm
+1393	KolDuz2	Düz model kremon kol — cephe
+1394	KolKivrik	Kıvrık model kremon kol
+1395	KolKivrik	BOSSY KIVRIK
+1396	KolKivrik2	Kıvrık model kremon kol — cephe
+1397	KolKivrik2	18,5 mm
+1398	KolNovusKivrik	Novus kıvrık kremon kol
+1399	KolNovusKivrik	NOVUS KIVRIK
+1400	KolNovusKivrik2	Novus kıvrık kremon kol — cephe
+1401	KolKapi	KAPI KOLU
+1402	KolKapi	NOVUS KAPI
+1403	KolKapi	KOLU
+1404	KolKapi	DÖNÜŞ AÇISI
+1405	KolKapi	NOVUS · KARE ROZET
+1406	KolKapi	novus · kare rozet
+1407	KolKapi	ROZET
+1408	KolKapi	KARE MİL
+1409	KolKapi	Ölçüler mm · iki yönde 50° dönüş
+1410	KolBezault	Bezault kolu
+1411	KolBezault	PENCERE KOLU
+1412	KolBezault	BOSSY BEZAULT
+1413	KolBezault	48,6 mm
+1414	KolBezault	BEZAULT
+1415	KolBezault	bezault
+1416	KolBezault	TEKNİK BİLGİ
+1417	KolBezault	Mafsallı gövdeli, mil çıkışlı pencere kolu. Gövde iki vida ile kanada bağlanır; kol mil ekseni etrafında döner.
+1418	KolBezault	MİL ÇAPI
+1419	KolBezault	MİL BOYU
+1420	KolBezault	MAFSAL
+1421	AraKaldir	Bölüm ara sayfası — Kaldır sür
+1422	AraKaldir	BÖLÜM 05
+1423	AraKaldir	05 · KALDIR SÜR
+1424	BolumKaldir	Bölüm açılışı — Kaldır-sür
+1425	BolumKaldir	Bossy kaldır-sür sistemiyle geniş açıklıklı iç mekân
+1426	BolumKaldir	KALDIR SÜR
+1427	BolumKaldir	200 · 300 · 400 KG SETLER
+1428	BolumKaldir	LIFT &amp; SLIDE · 3300 MM
+1429	BolumKaldir	Kol çevrildiğinde kanat contalardan ayrılarak arabalar üzerine kalkar ve hafifçe kayar. Kol kapatıldığında kanat yerine oturur, contalara bastırarak sızdırmazlığı sağlar.
+1430	BolumKaldir	kanat yüksekliği
+1431	BolumKaldir	kanal
+1432	BolumKaldir	Sistem ve teknik veriler
+1433	BolumKaldir	Araba setleri · 30 mm kanal
+1434	BolumKaldir	Araba seti · 42 mm kanal
+1435	BolumKaldir	42 mm araba montaj şeması
+1436	BolumKaldir	Araba setleri · 16 / 18 / 22 profil
+1437	BolumKaldir	16 mm kanal montaj şeması
+1438	BolumKaldir	İspanyolet ve kilit mesafesi
+1439	BolumKaldir	Bossy sürme havuz kolu
+1440	BolumKaldir	Novus kaldır-sür kolları
+1441	KaldirSistem	Kaldır-sür sistem verileri
+1442	KaldirSistem	KALDIR-SÜR SİSTEMLERİ
+1443	KaldirSistem	SİSTEM
+1444	KaldirSistem	VERİLERİ
+1445	KaldirSistem	3300 mm
+1446	KaldirSistem	MAKS. KANAT YÜKSEKLİĞİ
+1447	KaldirSistem	30 MM KANAL
+1448	KaldirSistem	Kanal kesiti 30 mm kanal
+1449	KaldirSistem	600–3300 mm
+1450	KaldirSistem	Kanal yüksekliği
+1451	KaldirSistem	30 mm
+1452	KaldirSistem	Kanal genişliği
+1453	KaldirSistem	16-18-22 mm
+1454	KaldirSistem	42 MM KANAL
+1455	KaldirSistem	Kanal kesiti 42 mm kanal
+1456	KaldirSistem	700–3300 mm
+1457	KaldirSistem	42 mm
+1458	KaldirSistem	22 mm
+1459	KaldirSistem	Tahrik:
+1460	KaldirSistem	37,5 mm veya 27,5 mm kilit–ispanyolet mesafesi, 80 mm kol vida aralığı.
+1461	KaldirSistem	AÇILIM ŞEMALARI
+1462	KaldirSistem	F: SABİT KANAT · İÇERİDEN GÖRÜNÜŞ
+1463	KaldirSistem	Ölçüler mm · açılım tipini siparişte belirtiniz
+1464	KaldirAraba30	Araba setleri 30 mm kanal
+1465	KaldirAraba30	ARABA SETLERİ
+1466	KaldirAraba30	30 MM
+1467	KaldirAraba30	KANAL
+1468	KaldirAraba30	400 kg
+1469	KaldirAraba30	MAKS. KANAT AĞIRLIĞI
+1470	KaldirAraba30	200 KG ARABA SETİ
+1471	KaldirAraba30	KÖŞE TAHRİKLİ ÖN ARABA · ARKA ARABA
+1472	KaldirAraba30	KG · 30 MM KANAL
+1473	KaldirAraba30	200 kg araba seti
+1474	KaldirAraba30	300 KG ARABA SETİ
+1475	KaldirAraba30	300 kg araba seti
+1476	KaldirAraba30	400 KG ARABA SETİ
+1477	KaldirAraba30	400 kg araba seti
+1478	KaldirAraba30	Kanal 30 × 22 mm · kesit s. 85
+1479	KaldirAraba42	Araba seti 42 mm kanal
+1480	KaldirAraba42	ARABA SETİ
+1481	KaldirAraba42	42 MM
+1482	KaldirAraba42	PERSPEKTİF
+1483	KaldirAraba42	araba seti̇
+1484	KaldirAraba42	42 × 22 mm
+1485	KaldirAraba42	KÖŞE TAHRİKLİ ÖN ARABA + ARKA ARABA
+1486	KaldirAraba42	Araba seti
+1487	KaldirAraba42	ARKA ARABA
+1488	KaldirAraba42	TEK ARABA
+1489	KaldirAraba42	Arka araba
+1490	KaldirAraba42	Kanal 42 × 22 mm · 300–400 kg kanatlarda
+1491	KaldirMontaj42	42 MM SET
+1492	KaldirMontaj42	KANAL · İÇERİDEN GÖRÜNÜŞ
+1493	KaldirMontaj42	SÜRME KANAT
+1494	KaldirMontaj42	Kaldır-sür doğrama, içeriden görünüş
+1495	KaldirMontaj42	İspanyolet ve kilit noktaları
+1496	KaldirMontaj42	42 mm araba seti
+1497	KaldirMontaj42	Vida
+1498	KaldirMontaj42	Dolgu kapağı
+1499	KaldirMontaj42	Stoper, vida ve kapak
+1500	KaldirMontaj42	STOPER
+1501	KaldirMontaj42	MONTAJI
+1502	KaldirMontaj42	DELİK
+1503	KaldirMontaj42	ŞABLONU
+1504	KaldirMontaj42	Araba seti s. 87 · ispanyolet boyları s. 93 · montaj detayları s. 94
+1505	KaldirMontaj42	Kaldır-sür kolu
+1506	KaldirMontaj42	İspanyolet
+1507	KaldirMontaj42	Kilit noktası · 3 adet
+1508	KaldirMontaj42	Alt kilit noktası
+1509	KaldirMontaj42	Ön araba
+1510	KaldirMontaj42	Bağlantı laması
+1511	KaldirMontaj42	Stoper
+1512	KaldirMontaj42	Lama desteği
+1513	KaldirAraba16	Araba seti 16 · 18 · 22 profil
+1514	KaldirAraba16	200 kg
+1515	KaldirAraba16	16 · 18 · 22 profil köşe tahrikli ön araba
+1516	KaldirAraba16	16 · 18 · 22 profil arka araba
+1517	KaldirAraba16	16 × 18 × 22 mm kanal profilleri için · 200 kg
+1518	KaldirAraba16b	Araba seti 300 kg · 16 · 18 · 22 profil
+1519	KaldirAraba16b	ÖN ARABA
+1520	KaldirAraba16b	300 kg köşe tahrikli ön araba · 16 · 18 · 22 profil
+1521	KaldirAraba16b	300 kg arka araba · 16 · 18 · 22 profil
+1522	KaldirAraba16b	16 × 18 × 22 mm kanal profilleri için · 300 kg
+1523	KaldirAraba16c	Araba seti 400 kg · 16 · 18 · 22 profil
+1524	KaldirAraba16c	400 kg köşe tahrikli ön araba · 16 · 18 · 22 profil
+1525	KaldirAraba16c	400 kg arka araba · 16 · 18 · 22 profil
+1526	KaldirAraba16c	16 × 18 × 22 mm kanal profilleri için · 400 kg
+1527	KaldirMontaj16	16 MM SET
+1528	KaldirMontaj16	16 mm
+1529	KaldirMontaj16	PROFİL KANALI · İÇERİDEN GÖRÜNÜŞ
+1530	KaldirMontaj16	16 mm kanal araba seti
+1531	KaldirMontaj16	Araba plastiği
+1532	KaldirMontaj16	İspanyolet boyları s. 93 · montaj detayları s. 94
+1533	KaldirIspanyolet	TAHRİK
+1534	KaldirIspanyolet	İSPANYOLET
+1535	KaldirIspanyolet	VE KİLİT
+1536	KaldirIspanyolet	KOL VİDA ARALIĞI
+1537	KaldirIspanyolet	İSPANYOLET BOYLARI
+1538	KaldirIspanyolet	L · mm
+1539	KaldirIspanyolet	BOY SEÇİMİ
+1540	KaldirIspanyolet	KANAT YÜKSEKLİĞİNE GÖRE
+1541	KaldirIspanyolet	L 1800
+1542	KaldirIspanyolet	Kol yüksekliği
+1543	KaldirIspanyolet	440 mm
+1544	KaldirIspanyolet	L 2100
+1545	KaldirIspanyolet	957 mm
+1546	KaldirIspanyolet	L 2400
+1547	KaldirIspanyolet	L 2700
+1548	KaldirIspanyolet	KİLİT MESAFESİ
+1549	KaldirIspanyolet	27,5 · 37,5 mm
+1550	KaldirIspanyolet	MESAFE
+1551	KaldirIspanyolet	27,5 / 37,5 mm
+1552	KaldirIspanyolet	İspanyolet boyu kanat yüksekliğine göre seçilir.
+1553	KaldirIspanyolet	Kilit mesafesi profile göre 27,5 veya 37,5 mm olarak belirtilmelidir.
+1554	KaldirMontaj	Kaldır-sür montaj detayları
+1555	KaldirMontaj	DETAYLARI
+1556	KaldirMontaj	ARABA MONTAJI
+1557	KaldirMontaj	PATLATILMIŞ GÖRÜNÜŞ
+1558	KaldirMontaj	KANAT GÖRÜNÜŞÜ
+1559	KaldirMontaj	STOPER MONTAJI
+1560	KaldirMontaj	Ø13 / Ø5 mm
+1561	KaldirMontaj	20 mm
+1562	KaldirEkipman	Kaldır-sür sistem ekipmanları
+1563	KaldirEkipman	DONANIM
+1564	KaldirEkipman	PARÇA · LAMA
+1565	KaldirEkipman	Kanat durdurucu
+1566	KaldirEkipman	İspanyolet dolgu kapağı
+1567	KaldirEkipman	DOLGU KAPAĞI
+1568	KaldirEkipman	Alt bağlantı laması desteği
+1569	KaldirEkipman	LAMA DESTEĞİ
+1570	KaldirEkipman	Hareketli kanat
+1571	KaldirEkipman	KİLİTLEME NOKTASI
+1572	KaldirEkipman	Kilitleme noktası
+1573	KaldirEkipman	MİKRO VENTİLASYON
+1574	KaldirEkipman	BAĞLANTI LAMASI
+1575	KaldirEkipman	3 BOY
+1576	KaldirEkipman	KISA
+1577	KaldirEkipman	900 mm
+1578	KaldirEkipman	ORTA
+1579	KaldirEkipman	1400 mm
+1580	KaldirEkipman	UZUN
+1581	KaldirEkipman	1900 mm
+1582	KolGizliSurme	SÜRME KOLU
+1583	KolGizliSurme	BOSSY SÜRME HAVUZ&nbsp;
+1584	KolGizliSurme	150 mm
+1585	KolGizliSurme	SÜRME
+1586	KolGizliSurme	sürme
+1587	KolGizliSurme	BOY
+1588	KolGizliSurme	EN
+1589	KolGizliSurme	DERİNLİK
+1590	KolGizliSurme	M5 vida
+1591	KolGizliSurme	TUTAMAK ENİ
+1592	KolGizliSurme	19 mm
+1593	KolKaldirSur	KALDIR &amp; SÜR
+1594	KolKaldirSur	kaldir-sür
+1595	KolKaldirSur	PLAKA
+1596	KolKaldirSur	DELİK ŞABLONU · mm
+1597	KolKaldirSur	MİL DELİĞİ
+1598	KolKaldirSur	Ø15 mm
+1599	KolKaldirSur	VİDA DELİĞİ
+1600	KolKaldirSur	Ø8 mm
+1601	KolKaldirSur	10 mm
+1602	KolKaldirSur	BARELLİ İÇ - DIŞ KOL BİRLİKTE
+1603	KolYeni	kaldır-sür kolu
+1604	KolYeni	BARELLİ İÇ KOL- DIŞ HAVUZ KOL BİRLİKTE
+1605	KolYeni2	İÇ KOL - DIŞ HAVUZ KOL BİRLİKTE
+1606	AraKilit	Bölüm ara sayfası — Kapi Ki̇li̇tleri̇
+1607	AraKilit	BÖLÜM 06
+1608	AraKilit	06 · KAPI KİLİTLERİ
+1609	BolumKilit	Bölüm açılışı — Kapı kilitleri
+1610	BolumKilit	Çift pimli ve kancalı ek kilit
+1611	BolumKilit	KAPI KİLİTLERİ
+1612	BolumKilit	ÇOK NOKTALI · KANCALI
+1613	BolumKilit	YENİ · 2027
+1614	BolumKilit	ALÜMİNYUM KAPILAR
+1615	BolumKilit	Koldan kumandalı ana kilit ile üst ve alt ek kilitler kanadı kasaya birden fazla noktadan kilitler. Barel ile emniyete alınır; 22 mm U veya düz lama ile kullanılır.
+1616	BolumKilit	nokta
+1617	BolumKilit	kilitleme
+1618	BolumKilit	lama boyu
+1619	BolumKilit	dornmaß · aks
+1620	BolumKilit	Tij tahrikli · kapı profili
+1621	KilitCoklu	Çok noktalı kancalı kilit
+1622	KilitCoklu	KANCALI KAPI KİLİDİ · 3 NOKTA
+1623	KilitCoklu	ÇİFT PİMLİ
+1624	KilitCoklu	KANCALI KİLİT
+1625	KilitCoklu	lama boyu, mm
+1626	KilitCoklu	Koldan kumandalı 3 noktalı kapı kilidi. Ana kilit ile üst ve alt ek kilitler tek lama üzerinde birlikte çalışır; her ek kilitte bir kanca ve iki pim bulunur. Barel ile kilitlenir.
+1627	KilitCoklu	Koldan kumandalı kilitleme
+1628	KilitCoklu	Ek kilit: kanca + çift pim · üst ve alt
+1629	KilitCoklu	Barel ile kilitleme · aks 92
+1630	KilitCoklu	Lama 22 mm · U veya düz
+1631	KilitCoklu	PARÇALAR
+1632	KilitCoklu	1 kanat
+1633	KilitCoklu	Ana kilit · koldan kumandalı
+1634	KilitCoklu	Ek kilit · kanca + çift pim
+1635	KilitCoklu	Lama · 22 mm U / düz
+1636	KilitCoklu	Ana kilit karşılığı
+1637	KilitCoklu	Kanca ve pim karşılığı
+1638	KilitCoklu	Dornmaß
+1639	KilitCoklu	Aks · kol – barel
+1640	KilitCoklu	Barel
+1641	KilitCoklu	Avrupa
+1642	KilitCoklu	Lama · 22 mm
+1643	KilitCoklu	U / düz
+1644	KilitCoklu	Lama boyu
+1645	KilitCoklu	Kol · alttan
+1646	KilitCoklu	Alt kanca · alttan
+1647	KilitCoklu	Üst kanca · alttan
+1648	KilitCoklu	Kanca · pim çıkışı
+1649	KilitCoklu	Ölçüler mm · yükseklikler lama alt ucundan
+1650	KilitCoklu	Çift pimli kancalı kilit teknik çizimi
+1651	KilitCoklu	ÜST
+1652	KilitCoklu	ALT
+1653	KilitCoklu	EK KİLİT · KANCA + ÇİFT PİM
+1654	KilitCoklu	karşılık
+1655	KilitCoklu	ek kilit
+1656	KilitCoklu	pim
+1657	KilitCoklu	kanca
+1658	KilitKancali	KANCALI KAPI KİLİDİ · KOLDAN KUMANDALI
+1659	KilitKancali	KANCALI
+1660	KilitKancali	ANA KİLİT
+1661	KilitKancali	dornmaß · aks, mm
+1662	KilitKancali	Koldan kumandalı ana kilit; ana dil, kilitleme dili ve üst–alt kanca + çift pimli ek kilitler tek lama üzerinde birlikte çalışır. Barel ile kilitlenir. Lama 22 mm, U veya düz.
+1663	KilitKancali	Ana kilit: ana dil + kilitleme dili
+1664	KilitKancali	lama · U / düz
+1665	KilitKancali	Kilitleme dili çıkışı
+1666	KilitKancali	Ana dil çıkışı
+1667	KilitKancali	Ölçüler mm · kol yüksekliği lama alt ucundan
+1668	KilitKancali	Kancalı ana kilit teknik çizimi
+1669	KilitKancali	ANA KİLİT · KOLDAN KUMANDALI
+1670	KilitKancali	DM 35
+1671	KilitKancali	ana dil
+1672	KilitKancali	kilitleme dili
+1673	KilitKancali	kol mili
+1674	KilitKancali	barel
+1675	KilitMontaj	Tek nokta kilit seti — montaj şeması
+1676	KilitMontaj	KAPI ÇÖZÜMLERİ · TEK NOKTA
+1677	KilitMontaj	TEK NOKTA
+1678	KilitMontaj	KİLİT SETİ
+1679	KilitMontaj	lama genişliği, mm
+1680	KilitMontaj	Tek nokta kilit mekanizması; kilit gövdesi, karşılık, rozetli kapı kolu ve barel rozetinden oluşan set. Düz lama veya U lama seçeneğiyle, 22 mm genişlikte kullanılır.
+1681	KilitMontaj	set içeriği
+1682	KilitMontaj	PZ
+1683	KilitMontaj	barel yuvası
+1684	KilitMontaj	ölçeksiz
+1685	KilitMontaj	MONTAJ KONUMU
+1686	KilitMontaj	Tek nokta kilit seti: karşılık, kilit gövdesi, rozetli kapı kolu, barel rozeti
+1687	KilitMontaj	LAMA SEÇENEKLERİ
+1688	KilitMontaj	PARÇA LİSTESİ
+1689	KilitMontaj	Tek nokta kilit gövdesi · dil + sürgü
+1690	KilitMontaj	Kapı kolu · rozetli
+1691	KilitMontaj	1 takım
+1692	KilitMontaj	Barel rozeti · PZ
+1693	KilitMontaj	Ölçüler mm · lama genişliği 22 mm
+1694	KilitMontaj	Tek nokta kapı kilidi seti montaj şeması
+1695	KilitMontaj	KİLİT GÖVDESİ
+1696	KilitMontaj	KARŞILIK
+1697	KilitMontaj	KOL + ROZET
+1698	KilitMontaj	SİLİNDİR ROZETİ
+1699	KilitMontaj	DIN sol · içe açılım
+1700	KilitMontaj	Kilit gövdesi · kanat
+1701	KilitMontaj	Karşılık · kasa
+1702	KilitMontaj	DÜZ LAMA
+1703	KilitMontaj	U LAMA
+1704	KilitTij	Tij tahrikli tek nokta kilit — montaj şeması
+1705	KilitTij	TİJ TAHRİKLİ
+1706	KilitTij	TEK NOKTA KİLİT
+1707	KilitTij	Kilit gövdesi, tij ve köşe dönüşleri üzerinden kanat çevresindeki mantar kilitleme noktalarını çalıştırır. Kasa tarafında karşılıklar, menteşe tarafında 3 adet menteşe bulunur.
+1708	KilitTij	kilit sol · menteşe sağ
+1709	KilitTij	Kilit gövdesi · tij bağlantılı
+1710	KilitTij	Köşe dönüş
+1711	KilitTij	Mantar karşılık
+1712	KilitTij	Mantarlı kilit kolu
+1713	KilitTij	Menteşe
+1714	KilitTij	KÖŞE
+1715	KilitTij	KİLİT
+1716	KilitTij	KASA
+1717	KilitTij	KANAT
+1718	KilitTij	Kilit gövdesi tij ve köşe dönüşleri üzerinden kanat çevresindeki mantar noktalarını çalıştırır.
+1719	KilitTij	Menteşe tarafında 3 menteşe bulunur.
+1720	KilitTij	Lama 22 mm · U veya düz.
+1721	KilitTij	Tij tahrikli tek nokta kilit, köşe dönüşlü, kapı profilinde montaj konumu
+1722	KilitTij	Parça numaraları
+1723	KilitKancaPim	Kanca pimli 3 nokta kilit — montaj şeması
+1724	KilitKancaPim	KAPI ÇÖZÜMLERİ · KOLDAN KUMANDALI
+1725	KilitKancaPim	KANCA PİMLİ
+1726	KilitKancaPim	3 NOKTA KİLİT
+1727	KilitKancaPim	Koldan kumandalı çok noktalı kapı kilidi; ana kilit ile üst ve alt kanca pimli kilitleme noktaları tek lama üzerinde birlikte çalışır.
+1728	KilitKancaPim	Ana kilit gövdesi · koldan kumandalı
+1729	KilitKancaPim	Kanca pimli kilit noktası
+1730	KilitKancaPim	Kanca karşılığı
+1731	KilitKancaPim	KANCA + PİM
+1732	KilitKancaPim	KASA TARAFI
+1733	KilitKancaPim	KANAT TARAFI
+1734	KilitKancaPim	Kol indirildiğinde kanca ve pimler kasa karşılıklarına kilitlenir.
+1735	KilitKancaPim	3 kilitleme noktası: üst kanca + pim, ana kilit, alt kanca + pim.
+1736	KilitKancaPim	Kanca pimli 3 nokta kilit, kapı profilinde montaj konumu
+1737	KilitCiftPim	Çift pimli 3 nokta kilit — montaj şeması
+1738	KilitCiftPim	Koldan kumandalı çok noktalı kapı kilidi; ana kilit ile üst ve alt kanca + çift pimli kilitleme noktaları tek lama üzerinde birlikte çalışır.
+1739	KilitCiftPim	Kanca · çift pimli kilit noktası
+1740	KilitCiftPim	KANCA + 2 PİM
+1741	KilitCiftPim	3 kilitleme noktası: üst kanca + 2 pim, ana kilit, alt kanca + 2 pim.
+1742	KilitCiftPim	Çift pimli 3 nokta kilit, kapı profilinde montaj konumu
+1743	KilitTij2	Tij tahrikli tek nokta kilit — kapı profili
+1744	KilitTij2	Tij tahrikli tek nokta kilit; kilit gövdesi, tij uç parçaları ve mantar kilitleme noktalarıyla kanadı kilit ve menteşe tarafından kasaya bağlar.
+1745	KilitTij2	Tij uç parçası
+1746	KilitTij2	TİJ UCU
+1747	KilitTij2	Kilit gövdesi tijler üzerinden üst ve alt uç parçalarını çalıştırır.
+1748	KilitTij2	Menteşe tarafında 3 mantar pim ve karşılık bulunur.
+1749	KilitTij2	Tij tahrikli tek nokta kilit, kapı profilinde montaj konumu
+1750	KilitKancali3	Kancalı 3 nokta kilit — montaj şeması
+1751	KilitKancali3	KAPI ÇÖZÜMLERİ · ÇOK NOKTALI
+1752	KilitKancali3	Kancalı 3 nokta kilit mekanizması; ana kilit ile üst ve alt kancalı kilitleme noktaları tek lama üzerinde birlikte çalışır.
+1753	KilitKancali3	üst + alt
+1754	KilitKancali3	Ana kilit gövdesi
+1755	KilitKancali3	Kancalı kilit noktası
+1756	KilitKancali3	KANCA
+1757	KilitKancali3	Karşılıklar kasa iç kenarına, lama kanat kenarına monte edilir.
+1758	KilitKancali3	3 kilitleme noktası: üst kanca, ana kilit, alt kanca.
+1759	KilitKancali3	Kancalı 3 nokta kilit, kapı profilinde montaj konumu
+1760	Notlar1	Notlar
+1761	Notlar1	NOTLAR
+1762	ArkaKapak	Bossy Ürün Kataloğu — Arka kapak
+1763	ArkaKapak	SORUNLARINIZA ÖZEL
+1764	ArkaKapak	ÇÖZÜMLER ÜRETİYORUZ.
+1765	ArkaKapak	ADRES
+1766	ArkaKapak	Dudullu OSB, 2. Cadde No: 8
+1767	ArkaKapak	34775 Ümraniye / İstanbul
+1768	ArkaKapak	TELEFON
+1769	ArkaKapak	E-POSTA
+1770	ArkaKapak	info@bossy.com.tr
+1771	ArkaKapak	WEB
+1772	ArkaKapak	bossy.com.tr · ürünler ve teknik dokümanlar
+1773	ArkaKapak	Katalogdaki teknik bilgiler bilgilendirme amaçlıdır. Bossy, önceden bildirmeksizin ürün ve ölçülerde değişiklik yapma hakkını saklı tutar.
+1774	ArkaKapak	© 2026 Bossy · Birikim Kalıp A.Ş. · Baskı 01/2026

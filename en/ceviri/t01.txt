@@ -1,0 +1,452 @@
+0|Product Catalog Design
+1|p.37 · Auxiliary accessories A01–A03
+2|Auxiliary accessories A07–A12 (archive)
+3|Auxiliary accessories A13–A16 (archive)
+4|p.39 · Auxiliary accessories A09–A16
+5|p.38 · Auxiliary accessories A04–A08
+6|p.83 · Section divider — Lift & slide
+7|p.100 · Section divider — Door locks
+8|p.69 · Section divider — Handles
+9|Back cover
+10|p.03 · Section opener — Opening systems
+11|A · Light grey scene, large product
+12|B · Colour panel, product overlaps panel
+13|C · Giant coloured 01, product in front
+14|p.40 · Section opener — Facade systems
+15|p.84 · Section opener — Lift & slide
+16|p.101 · Section opener — Door locks
+17|p.70 · Section opener — Handles
+18|p.62 · Section opener — Hinges
+19|p.42 · Outward opening — Large friction stays
+20|p.48 · System hardware equipment
+21|p.45 · Facade locking set W 1200
+22|p.46 · Facade locking set W 1200–1400
+23|p.47 · Facade locking set W 1500
+24|p.41 · Outward opening — Small friction stays
+25|p.11 · 100 kg — Assembly diagram
+26|p.12 · 100 kg — Technical data
+27|p.13 · 130 kg — Assembly diagram
+28|p.14 · 130 kg — Technical data
+29|p.15 · 150 kg — Assembly diagram
+30|p.16 · 150 kg — Technical data
+31|p.17 · 170 kg — Assembly diagram
+32|p.18 · 170 kg — Technical data
+33|p.09 · 80 kg — Assembly diagram
+34|p.10 · 80 kg — Technical data
+35|p.06 · Tilt & Turn — System sets 1–5
+36|p.07 · Tilt & Turn — System sets 5–6
+37|p.08 · Tilt & Turn — Optional hardware 8–13
+38|p.21 · Tilt & Turn — Concealed lever handle set
+39|p.19 · Tilt & Turn — Passive sash opening
+40|p.20 · Tilt & Turn — Passive sash technical data
+41|p.04 · Tilt & turn system — 20,000 cycles
+42|p.05 · Tilt & Turn — Set selection
+43|p.36 · Tilt & Turn — Safety lock set
+44|p.49 · Parallel opening facade image
+45|p.02 · Meet Bossy
+46|p.01 · Contents
+47|p.43 · Stepped restrictor
+48|p.89 · Carriage set 16 mm channel
+49|p.90 · Carriage set 300 kg · 16/18/22 profile
+50|p.91 · Carriage set 400 kg · 16/18/22 profile
+51|p.86 · Carriage sets 30 mm channel
+52|p.87 · Carriage set 42 mm channel
+53|p.95 · System equipment
+54|p.93 · Espagnolette and backset
+55|p.94 · Installation details
+56|p.92 · 16 mm channel assembly diagram
+57|p.88 · 42 mm carriage assembly diagram
+58|p.85 · Lift & slide system data
+59|Old lift & slide page (archive)
+60|A · Photo + dark panel (current)
+61|B · Light background, product image
+62|C · Full-page photo
+63|D · Technical drawing + red band
+64|p.107 · Twin-pin 3-point lock — assembly diagram
+65|p.102 · Multipoint hook lock
+66|p.106 · Hook-pin 3-point lock — assembly diagram
+67|p.103 · Hook main lock
+68|p.109 · Hook 3-point lock — assembly diagram
+69|p.104 · Single-point lock set — assembly diagram
+70|p.105 · Rod-driven single-point lock — assembly diagram
+71|p.108 · Rod-driven single-point lock — door profile
+72|p.82 · Bezault handle
+73|p.75 · Straight cremone handle
+74|p.76 · Straight cremone handle — facade
+75|p.96 · Sliding handle
+76|p.97 · Novus lift & slide handle
+77|Novus lift & slide handle — installation (archive)
+78|p.81 · Door handle
+79|p.77 · Curved cremone handle
+80|p.78 · Curved cremone handle — facade
+81|p.71 · Articulated facade handle
+82|p.72 · Articulated facade handle — silicone facade
+83|p.73 · Novus straight cremone handle
+84|p.74 · Novus straight cremone handle — facade
+85|p.79 · Novus curved cremone handle
+86|p.80 · Novus curved cremone handle — facade
+87|Oval A cremone handle
+88|Oval B cremone handle
+89|Front cover
+90|p.63 · Fortis door hinge
+91|p.67 · Fortis window hinge
+92|p.68 · Fortis window hinge — 2-knuckle
+93|p.64 · Tenax door hinge
+94|p.65 · Validus adjustable window hinge
+95|p.66 · Validus window hinge — 2-knuckle
+96|p.110 · Notes
+97|p.111 · Notes
+98|p.112 · Notes
+99|p.50 · Parallel stay 14″ · 18″
+100|p.51 · Parallel stay 27″ · 36″
+101|p.57 · Parallel stay 350 mm · 14″
+102|p.54 · Parallel stay 450 mm · 110 kg
+103|p.56 · Parallel stay 680 mm · 27″
+104|p.55 · Parallel stay 925 mm · double
+105|p.60 · Parallel stay assembly diagram
+106|p.61 · Parallel stay assembly diagram (2)
+107|p.52 · Parallel stay selection chart (1)
+108|p.53 · Parallel stay selection chart (2)
+109|p.58 · Fully closing parallel stay 14″ · 18″
+110|p.59 · Fully closing parallel stay 27″ · 36″
+111|Parallel stay selection graph (archive)
+112|p.44 · Restrictor stay
+113|Turn-Only — 130 kg perimeter locking assembly diagram (archive)
+114|Turn-Only — 130 kg standard set assembly diagram (archive)
+115|Turn-Only — 130 kg perimeter locking technical data (archive)
+116|Turn-Only — 130 kg standard set technical data (archive)
+117|p.29 · Turn-Only — 150 kg perimeter locking assembly diagram
+118|Turn-Only — 150 kg standard set assembly diagram (archive)
+119|p.34 · Turn-Only — 150 kg perimeter locking technical data
+120|Turn-Only — 150 kg standard set technical data (archive)
+121|p.30 · Turn-Only — 170 kg perimeter locking assembly diagram
+122|Turn-Only — 170 kg standard set assembly diagram (archive)
+123|p.35 · Turn-Only — 170 kg perimeter locking technical data
+124|Turn-Only — 170 kg standard set technical data (archive)
+125|p.23 · Turn-Only — System sets 1–6
+126|p.24 · Turn-Only — System sets 2 · 7–8
+127|p.25 · Turn-Only — System sets 3
+128|p.28 · Turn-Only — Perimeter locking assembly diagram
+129|p.26 · Turn-Only — Eco set assembly diagram
+130|p.22 · Turn-Only — Set selection
+131|p.27 · Turn-Only — Standard set assembly diagram
+132|p.31 · Turn-Only — Eco set technical data
+133|p.33 · Turn-Only — Perimeter locking technical data
+134|p.32 · Turn-Only — Standard set technical data
+135|p.98 · Novus lift & slide handle — with sliding flush pull
+136|p.99 · Novus lift & slide handle — with sliding flush pull (2)
+137|Bossy Product Catalog — A4 · perfect binding · facing pages
+138|Cover options — A · B · C · D
+139|p.04 section opener — A · B · C
+140|Catalog
+141|Cover options
+142|p.04 options
+143|Archive
+144|Cover option A
+145|Anthracite aluminium window corner with red Bossy hinge
+146|=
+147|ALUMINIUM JOINERY AND FACADE HARDWARE
+148|PRODUCT CATALOG
+149|Maximum durability, flawless security: 304 stainless steel hardware solutions for aluminium joinery and facade systems.
+150|Tilt &amp; Turn Systems
+151|Facade Friction Stays
+152|Parallel Stays
+153|Lift &amp; Slide Systems
+154|=
+155|=
+156|=
+157|304 STAINLESS
+158|=
+159|Cover option B
+160|=
+161|Bossy tilt &amp; turn system, sash in tilt position
+162|PRODUCT
+163|CATALOG
+164|Hardware solutions for aluminium joinery and facade systems.
+165|Cover option C
+166|2026 · EDITION 01
+167|Tilt &amp; Turn
+168|Lift &amp; Slide
+169|Facade Friction Stay
+170|Parallel Stay
+171|Cover option D
+172|Tilt &amp; turn and lift &amp; slide sets, facade friction stays and parallel stays. 304 stainless steel.
+173|Opening Systems
+174|Facade Systems
+175|Sliding Systems
+176|Section opener — Opening Systems
+177|Bossy tilt &amp; turn system
+178|=
+179|TILT &amp; TURN · TILT
+180|SECTION 01
+181|OPENING
+182|SYSTEMS
+183|TILT &amp; TURN AND TURN-ONLY SETS
+184|Tilt &amp; turn and turn-only sets for aluminium profiles with Euro groove. With tilt &amp; turn, the sash tilts inward or opens fully inward; with turn-only, it simply turns on its side hinges.
+185|=
+186|capacity
+187|types
+188|opening
+189|parts
+190|set components
+191|CONTENTS
+192|Tilt &amp; turn sets 80–170 kg
+193|Tilt &amp; turn components
+194|Turn-only sets
+195|Turn-only assembly diagrams
+196|Turn-only technical data
+197|Safety lock set
+198|Auxiliary accessories
+199|=
+200|Lift &amp; slide set
+201|05 · SLIDING SYSTEMS
+202|LIFT &amp; SLIDE
+203|LIFT &amp; SLIDE SET
+204|When the handle is turned, the sash lifts off the gaskets onto its rollers and slides easily. When the handle is closed, the sash lowers into place and presses against the gaskets to seal tightly.
+205|=
+206|Max. sash weight
+207|Max. sash height, mm
+208|Sash width, mm
+209|Channel h × w, mm
+210|[Set photo
+211|carriage, handle and mechanism]
+212|OPERATING PRINCIPLE
+213|Lifting, sliding and lowering steps of the lift &amp; slide sash
+214|Fixed
+215|View from inside
+216|Handle turned 180°, sash lifts.
+217|Sash slides on rollers.
+218|Handle closed, sash lowers and locks.
+219|Description
+220|Sash w.
+221|Max. h.
+222|Max. weight
+223|Channel
+224|COMPLEMENTARY PRODUCTS
+225|Novus lift &amp; slide handle
+226|p. 56
+227|Sliding handle
+228|p. 55
+229|[photo]
+230|Technical document
+231|=
+232|Subject to technical changes · www.bossy.com.tr
+233|Auxiliary accessories A07–A12
+234|OPENING SYSTEMS
+235|OPENING SYSTEMS · ACCESSORY
+236|AUXILIARY
+237|ACCESSORIES
+238|=
+239|complementary parts compatible with all sets
+240|=
+241|=
+242|Accessory name
+243|Short description · area of use
+244|=
+245|=
+246|=
+247|=
+248|=
+249|Images are for illustration · please state the product code when ordering
+250|=
+251|Subject to technical changes · bossy.com.tr
+252|Auxiliary accessories A13–A16
+253|=
+254|=
+255|=
+256|=
+257|=
+258|HANDLES
+259|CREMONE HANDLE
+260|=
+261|HANDLE
+262|=
+263|BODY LENGTH
+264|WINDOW
+265|=
+266|window
+267|=
+268|BODY
+269|SPINDLE
+270|PIN
+271|TECHNICAL DRAWING
+272|DIMENSIONS · mm
+273|Dimensions
+274|BODY WIDTH
+275|=
+276|SCREW SPACING
+277|=
+278|FACADE
+279|=
+280|facade
+281|LUG
+282|LUG SPACING
+283|13.7 mm
+284|Dimensions in mm · please specify spindle length when ordering
+285|=
+286|=
+287|=
+288|Novus lift &amp; slide handle — installation
+289|LIFT &amp; SLIDE · INSTALLATION
+290|=
+291|=
+292|HOLE SPACING
+293|INSTALLATION
+294|INNER AND OUTER HANDLE TOGETHER
+295|Installation
+296|Dimensions in mm · 3 mm Allen key
+297|Turn-only 170 kg standard set — assembly diagram
+298|TURN-ONLY LOCKING SET · ASSEMBLY DIAGRAM
+299|STANDARD
+300|SET
+301|ASSEMBLY DIAGRAM
+302|View from inside · hinges on right
+303|Turn-only stay
+304|Handle and handle drive set
+305|Keeper and mushroom pin
+306|Concealed pressure block set
+307|Corner keeper
+308|SASH SIZE
+309|=
+310|=
+311|sash outer dimension, mm
+312|PROFILE SECTION
+313|Profile section
+314|Turn-only 170 kg standard set — technical data
+315|TURN-ONLY LOCKING SET · TECHNICAL DATA
+316|STANDARD SET
+317|=
+318|Sash width W
+319|Sash height H
+320|=
+321|Part
+322|Description
+323|Qty
+324|SET CONTENTS
+325|Hinge set B
+326|top + bottom hinge · shared with tilt &amp; turn
+327|=
+328|Top hinge support screw
+329|170 kg · for top hinge
+330|Frame hinge clamping piece
+331|bottom hinge, frame side
+332|Load transfer piece
+333|bottom hinge, sash side
+334|Handle
+335|straight spindle
+336|Handle drive set
+337|at handle height
+338|Locking set
+339|keeper + mushroom pin 2 · corner keeper 1
+340|top sash
+341|hinge side, evenly spaced between hinges
+342|APPLICATION RANGE
+343|Application range by sash width and height
+344|Standard set
+345|=
+346|W, H: sash outer dimensions (mm). Sash weight must not exceed 170 kg. Hinge set B, support screw and frame parts are shared with the tilt &amp; turn 170 kg set (p. 17).
+347|2 concealed pressure blocks (16) are fitted on the hinge side, evenly spaced between the hinges.
+348|Sash handing (DIN-L / DIN-R) must be specified when ordering.
+349|Part numbers match the assembly diagram on p. 24.
+350|Turn-only 150 kg standard set — assembly diagram
+351|Turn-only 150 kg standard set — technical data
+352|=
+353|150 kg · for top hinge
+354|W, H: sash outer dimensions (mm). Sash weight must not exceed 150 kg. Hinge set B, support screw and frame parts are shared with the tilt &amp; turn 150 kg set (p. 15).
+355|Part numbers match the assembly diagram on p. 23.
+356|Turn-only 130 kg standard set — assembly diagram
+357|Turn-only 130 kg perimeter locking — assembly diagram
+358|PERIMETER LOCKING
+359|SET
+360|Hex corner drive (top)
+361|Keeper
+362|Hex corner drive (bottom)
+363|Top keeper and mushroom pin
+364|Rear locking transmission piece
+365|Turn-only 130 kg standard set — technical data
+366|=
+367|130 kg · for top hinge
+368|W, H: sash outer dimensions (mm). Sash weight must not exceed 130 kg. Hinge set B, support screw and frame parts are shared with the tilt &amp; turn 130 kg set (p. 13).
+369|Turn-only 130 kg perimeter locking — technical data
+370|PERIMETER LOCKING SET
+371|STANDARD LOCKING SET
+372|keeper · handle side 2 · top 1
+373|hinge side, evenly spaced
+374|PERIMETER LOCKING ADD-ON SET
+375|· in addition to the standard set
+376|Hex corner drive
+377|top + bottom corner
+378|keeper · corner 2 · top 1 · bottom corner keeper 1
+379|End piece
+380|with mushroom pin · handle side bottom
+381|Perimeter locking set
+382|=
+383|Perimeter locking is built from the standard set plus add-on parts (17, 5).
+384|3 concealed pressure blocks (16) are fitted on the hinge side, evenly spaced.
+385|Parallel stay selection graph
+386|FACADE SYSTEMS
+387|SELECTION GRAPH · MANUAL OPENING
+388|PARALLEL STAY SELECTION
+389|Sash height
+391|Sash width
+393|The intersecting cell gives the side and top/bottom stay code and quantity.
+394|=
+395|=
+396|=
+397|=
+398|=
+399|=
+400|=
+401|max. 110 kg
+402|=
+403|Side stay
+404|14″ single × 2
+405|Top / bottom stay
+406|=
+407|18″ single × 2
+408|=
+409|27″ double × 2
+410|=
+411|36″ double × 2
+412|=
+413|=
+414|max. 55 kg
+415|=
+416|=
+417|=
+418|=
+419|=
+420|=
+421|max. 225 kg
+422|=
+423|=
+424|=
+425|=
+426|=
+427|=
+428|=
+429|=
+430|=
+431|=
+432|READING EXAMPLE
+435|The table is for manual opening.
+436|For motorised applications and sizes outside the table, consult our technical department.
+437|Bossy Product Catalog — Front cover
+438|=
+439|Contents and symbols
+440|PRODUCT CATALOG 2026
+441|section
+442|page
+443|OPENING SYSTEMS
+444|Tilt &amp; turn set · overview
+445|System sets 1–13
+446|FACADE SYSTEMS
+447|Small friction stays
+448|Large friction stays
+449|Stepped restrictor
+389@SecimGrafigi|Find the row (A–D) for sash height
+390|.
+391@SecimGrafigi|Find the column (1–4) for sash width
+392|.
+433|For a sash whose height is in band B and width in band 3, use the stays in cell
+434|(do not exceed the max. weight of the row).

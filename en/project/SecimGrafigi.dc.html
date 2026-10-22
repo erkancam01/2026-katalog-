@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Parallel stay selection graph</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Anton&amp;family=Montserrat:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0;background:#FFFFFF}
+a{color:#C8102E}a:hover{color:#8F0B21}
+</style>
+</helmet>
+<div style="width: 794px; height: 1123px; position: relative; overflow: hidden; background: #FFFFFF; color: #1E2024; font-family: Montserrat, sans-serif; font-variant-numeric: tabular-nums;">
+<!--bossy:wm--><div style="position: absolute; left: -142px; top: 902px; width: 340px; height: 292px; pointer-events: none;"><svg width="340.0" height="291.8" viewBox="48 101 127 109" style="display: block; flex-shrink: 0;"><path d="M 108.488281 102.976562 L 115.648438 102.976562 C 123.722656 102.976562 130.34375 109.1875 130.34375 116.800781 L 130.34375 157.101562 L 166.351562 176.660156 C 173.347656 180.457031 175.753906 188.953125 171.726562 195.550781 L 168.140625 201.382812 C 164.101562 207.960938 155.070312 210.234375 148.0625 206.449219 L 112.050781 186.878906 L 76.0625 206.449219 C 69.058594 210.234375 60.019531 207.960938 55.984375 201.382812 L 52.398438 195.550781 C 48.359375 188.953125 50.777344 180.457031 57.78125 176.660156 L 93.792969 157.101562 L 93.792969 116.800781 C 93.792969 109.1875 100.398438 102.976562 108.488281 102.976562 Z" fill="none" stroke="#ECEDF0" stroke-width="0.90"/></svg></div><!--/bossy:wm-->
+
+<!--bossy:head--><div style="position: absolute; left: 56px; top: 30px; width: 682px; height: 36px; display: flex; align-items: center; justify-content: space-between;"><div style="display: flex; align-items: center; gap: 10px;"><svg width="15.0" height="12.9" viewBox="48 101 127 109" style="display: block; flex-shrink: 0;"><path d="M 108.488281 102.976562 L 115.648438 102.976562 C 123.722656 102.976562 130.34375 109.1875 130.34375 116.800781 L 130.34375 157.101562 L 166.351562 176.660156 C 173.347656 180.457031 175.753906 188.953125 171.726562 195.550781 L 168.140625 201.382812 C 164.101562 207.960938 155.070312 210.234375 148.0625 206.449219 L 112.050781 186.878906 L 76.0625 206.449219 C 69.058594 210.234375 60.019531 207.960938 55.984375 201.382812 L 52.398438 195.550781 C 48.359375 188.953125 50.777344 180.457031 57.78125 176.660156 L 93.792969 157.101562 L 93.792969 116.800781 C 93.792969 109.1875 100.398438 102.976562 108.488281 102.976562 Z" fill="#E1252B"/></svg><span style="font-family: Anton, sans-serif; font-size: 17px; line-height: 1; color: {{accent}};">02</span><span style="width: 1px; height: 14px; background: #C9CBCF;"></span><span style="font-size: 10.5px; font-weight: 700; letter-spacing: 0.26em; color: #2E3136;">FACADE SYSTEMS</span></div><img src="/_blob/ac090beb5a1420c379a106e4e72fc82b" alt="Bossy" style="width: 124px; height: 28px;"></div><div style="position: absolute; left: 56px; top: 72px; width: 682px; height: 1px; background: #D5D6D8;"></div><!--/bossy:head-->
+
+<div style="position: absolute; left: 56px; top: 100px; width: 682px; display: flex; flex-direction: column; gap: 8px;">
+<span style="font-size: 12px; font-weight: 700; letter-spacing: 0.14em; color: #C8102E;">SELECTION GRAPH · MANUAL OPENING</span>
+<h1 style="margin: 0; font-family: Anton, sans-serif; font-weight: 400; font-size: 44px; line-height: 1;">PARALLEL STAY SELECTION</h1>
+</div>
+
+<div style="position: absolute; left: 56px; top: 190px; width: 682px; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; border-top: 2px solid #1E2024; padding-top: 14px;">
+<div style="display: flex; gap: 10px;"><span style="font-family: Anton, sans-serif; font-size: 30px; line-height: 1; color: #ED273E;">1</span><span style="font-size: 13px; line-height: 1.45;">Find the row (A–D) for sash height <b>H</b>.</span></div>
+<div style="display: flex; gap: 10px;"><span style="font-family: Anton, sans-serif; font-size: 30px; line-height: 1; color: #ED273E;">2</span><span style="font-size: 13px; line-height: 1.45;">Find the column (1–4) for sash width <b>W</b>.</span></div>
+<div style="display: flex; gap: 10px;"><span style="font-family: Anton, sans-serif; font-size: 30px; line-height: 1; color: #ED273E;">3</span><span style="font-size: 13px; line-height: 1.45;">The intersecting cell gives the side and top/bottom stay code and quantity.</span></div>
+</div>
+
+<div style="position: absolute; left: 56px; top: 290px; width: 682px; display: grid; grid-template-columns: 124px repeat(4, minmax(0, 1fr)); grid-auto-rows: auto; gap: 0;">
+<div style="display: flex; align-items: flex-end; padding: 10px 12px; font-size: 12px; font-weight: 700; color: #5F646B; line-height: 1.3;">H ↓ · W →</div>
+<div style="background: {{accent}}; color: #FFFFFF; padding: 10px 12px; display: flex; flex-direction: column; gap: 2px;">
+<span style="font-family: Anton, sans-serif; font-size: 24px; line-height: 1;">1</span>
+<span style="font-size: 11.5px; white-space: nowrap;">W 400–700 mm</span>
+</div>
+<div style="background: {{accent}}; color: #FFFFFF; padding: 10px 12px; display: flex; flex-direction: column; gap: 2px;">
+<span style="font-family: Anton, sans-serif; font-size: 24px; line-height: 1;">2</span>
+<span style="font-size: 11.5px; white-space: nowrap;">W 701–1000 mm</span>
+</div>
+<div style="background: {{accent}}; color: #FFFFFF; padding: 10px 12px; display: flex; flex-direction: column; gap: 2px;">
+<span style="font-family: Anton, sans-serif; font-size: 24px; line-height: 1;">3</span>
+<span style="font-size: 11.5px; white-space: nowrap;">W 1001–1400 mm</span>
+</div>
+<div style="background: {{accent}}; color: #FFFFFF; padding: 10px 12px; display: flex; flex-direction: column; gap: 2px;">
+<span style="font-family: Anton, sans-serif; font-size: 24px; line-height: 1;">4</span>
+<span style="font-size: 11.5px; white-space: nowrap;">W 1401–1800 mm</span>
+</div>
+<div style="background: #1E2024; color: #FFFFFF; padding: 12px; display: flex; flex-direction: column; justify-content: center; gap: 4px;">
+<span style="font-family: Anton, sans-serif; font-size: 30px; line-height: 1;">A</span>
+<span style="font-size: 11.5px; white-space: nowrap; color: #D5D6D8;">H 400–700 mm</span>
+<span style="font-size: 12px; font-weight: 700;">max. 110 kg</span>
+</div>
+<div style="background: #F5F5F3; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">A1</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">14″ single × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">14″ single × 2</span></div>
+</div>
+<div style="background: #F5F5F3; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">A2</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">14″ single × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">18″ single × 2</span></div>
+</div>
+<div style="background: #F5F5F3; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">A3</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">14″ single × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">27″ double × 2</span></div>
+</div>
+<div style="background: #F5F5F3; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">A4</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">14″ single × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">36″ double × 2</span></div>
+</div>
+<div style="background: #1E2024; color: #FFFFFF; padding: 12px; display: flex; flex-direction: column; justify-content: center; gap: 4px;">
+<span style="font-family: Anton, sans-serif; font-size: 30px; line-height: 1;">B</span>
+<span style="font-size: 11.5px; white-space: nowrap; color: #D5D6D8;">H 701–1000 mm</span>
+<span style="font-size: 12px; font-weight: 700;">max. 55 kg</span>
+</div>
+<div style="background: #FFFFFF; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">B1</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">18″ single × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">14″ single × 2</span></div>
+</div>
+<div style="background: #FFFFFF; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">B2</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">18″ single × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">18″ single × 2</span></div>
+</div>
+<div style="background: #FFFFFF; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">B3</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">18″ single × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">27″ double × 2</span></div>
+</div>
+<div style="background: #FFFFFF; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">B4</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">18″ single × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">36″ double × 2</span></div>
+</div>
+<div style="background: #1E2024; color: #FFFFFF; padding: 12px; display: flex; flex-direction: column; justify-content: center; gap: 4px;">
+<span style="font-family: Anton, sans-serif; font-size: 30px; line-height: 1;">C</span>
+<span style="font-size: 11.5px; white-space: nowrap; color: #D5D6D8;">H 1001–1400 mm</span>
+<span style="font-size: 12px; font-weight: 700;">max. 225 kg</span>
+</div>
+<div style="background: #F5F5F3; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">C1</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">27″ double × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">14″ single × 2</span></div>
+</div>
+<div style="background: #F5F5F3; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">C2</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">27″ double × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">18″ single × 2</span></div>
+</div>
+<div style="background: #F5F5F3; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">C3</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">27″ double × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">27″ double × 2</span></div>
+</div>
+<div style="background: #F5F5F3; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">C4</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">27″ double × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">36″ double × 2</span></div>
+</div>
+<div style="background: #1E2024; color: #FFFFFF; padding: 12px; display: flex; flex-direction: column; justify-content: center; gap: 4px;">
+<span style="font-family: Anton, sans-serif; font-size: 30px; line-height: 1;">D</span>
+<span style="font-size: 11.5px; white-space: nowrap; color: #D5D6D8;">H 1401–1800 mm</span>
+<span style="font-size: 12px; font-weight: 700;">max. 225 kg</span>
+</div>
+<div style="background: #FFFFFF; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">D1</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">36″ double × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">14″ single × 2</span></div>
+</div>
+<div style="background: #FFFFFF; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">D2</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">36″ double × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">18″ single × 2</span></div>
+</div>
+<div style="background: #FFFFFF; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">D3</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">36″ double × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">27″ double × 2</span></div>
+</div>
+<div style="background: #FFFFFF; border: 1px solid #D5D6D8; padding: 12px; display: flex; flex-direction: column; gap: 6px; position: relative;">
+<span style="font-size: 12px; font-weight: 800; color: {{accent}};">D4</span>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Side stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">36″ double × 2</span></div>
+<div style="display: flex; flex-direction: column; gap: 1px;"><span style="font-size: 12px; color: #5F646B;">Top / bottom stay</span><span style="font-size: 13px; font-weight: 700; color: #1E2024;">36″ double × 2</span></div>
+</div>
+</div>
+
+<div style="position: absolute; left: 56px; top: 880px; width: 682px; display: flex; gap: 28px;">
+<div style="flex-grow: 1; background: #F5F5F3; padding: 14px 16px; display: flex; flex-direction: column; gap: 6px;">
+<span style="font-size: 12px; font-weight: 700; letter-spacing: 0.14em;">READING EXAMPLE</span>
+<span style="font-size: 13px; line-height: 1.5;">For a sash whose height is in band B and width in band 3, use the stays in cell <b>B3</b> (do not exceed the max. weight of the row).</span>
+</div>
+<div style="width: 250px; display: flex; flex-direction: column; gap: 6px; font-size: 12px; line-height: 1.5; color: #5F646B; padding-top: 4px;">
+<span>The table is for manual opening.</span>
+<span>For motorised applications and sizes outside the table, consult our technical department.</span>
+</div>
+</div>
+
+<!--bossy:tab 240|02|{{accent}}|#FFFFFF--><div style="position: absolute; left: 0; top: 240px; width: 28px; height: 96px; background: {{accent}}; border-radius: 0 14px 14px 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 7px;"><svg width="11.0" height="9.4" viewBox="48 101 127 109" style="display: block; flex-shrink: 0;"><path d="M 108.488281 102.976562 L 115.648438 102.976562 C 123.722656 102.976562 130.34375 109.1875 130.34375 116.800781 L 130.34375 157.101562 L 166.351562 176.660156 C 173.347656 180.457031 175.753906 188.953125 171.726562 195.550781 L 168.140625 201.382812 C 164.101562 207.960938 155.070312 210.234375 148.0625 206.449219 L 112.050781 186.878906 L 76.0625 206.449219 C 69.058594 210.234375 60.019531 207.960938 55.984375 201.382812 L 52.398438 195.550781 C 48.359375 188.953125 50.777344 180.457031 57.78125 176.660156 L 93.792969 157.101562 L 93.792969 116.800781 C 93.792969 109.1875 100.398438 102.976562 108.488281 102.976562 Z" fill="#FFFFFF"/></svg><span style="color: #FFFFFF; font-size: 11px; font-weight: 800; letter-spacing: 0.04em;">02</span></div><!--/bossy:tab-->
+
+<!--bossy:foot--><div style="position: absolute; left: 56px; top: 1046px; width: 682px; height: 1px; background: #D5D6D8;"></div><div style="position: absolute; left: 56px; top: 1058px; width: 682px; display: flex; justify-content: space-between; align-items: center; flex-direction: row-reverse;"><div style="display: flex; align-items: center; gap: 8px;"><svg width="10.0" height="8.6" viewBox="48 101 127 109" style="display: block; flex-shrink: 0;"><path d="M 108.488281 102.976562 L 115.648438 102.976562 C 123.722656 102.976562 130.34375 109.1875 130.34375 116.800781 L 130.34375 157.101562 L 166.351562 176.660156 C 173.347656 180.457031 175.753906 188.953125 171.726562 195.550781 L 168.140625 201.382812 C 164.101562 207.960938 155.070312 210.234375 148.0625 206.449219 L 112.050781 186.878906 L 76.0625 206.449219 C 69.058594 210.234375 60.019531 207.960938 55.984375 201.382812 L 52.398438 195.550781 C 48.359375 188.953125 50.777344 180.457031 57.78125 176.660156 L 93.792969 157.101562 L 93.792969 116.800781 C 93.792969 109.1875 100.398438 102.976562 108.488281 102.976562 Z" fill="#9A9EA5"/></svg><span style="font-size: 9.5px; font-weight: 700; letter-spacing: 0.22em; color: #2E3136;">BOSSY</span><span style="font-size: 10.5px; color: #6B7078;">Subject to technical changes · bossy.com.tr</span></div><div style="display: flex; align-items: center; gap: 8px; flex-direction: row-reverse;"><span style="width: 18px; height: 2px; background: {{accent}};"></span><span style="font-family: Anton, sans-serif; font-size: 24px; line-height: 1; color: #1E2024;">45</span></div></div><!--/bossy:foot-->
+
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"accent":{"editor":"color","default":"#7A4E2D","options":["#2F5D7C","#7A4E2D","#3D6B4F","#2E3136"]},"$preview":{"width":794,"height":1123}}'>
+class Component extends DCLogic {
+renderVals() {
+return { accent: this.props.accent ?? '#7A4E2D' };
+}
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,450 @@
+450|Restrictor stay
+451|Facade locking set
+452|System hardware equipment
+453|Parallel stay
+454|HINGES
+455|Fortis door hinge
+456|Tenax door hinge
+457|Validus adjustable window hinge
+458|Fortis window hinge
+459|Articulated handle
+460|Novus straight handle
+461|Straight and curved handles
+462|Novus curved handle
+463|Door handle
+464|Bezault handle
+465|LIFT &amp; SLIDE SYSTEMS
+466|System data
+467|Carriage sets · 30 · 42 · 16/18/22
+468|Installation sets · 42 and 16 mm
+469|Espagnolette and lock
+470|Installation details
+471|System equipment
+472|Sliding and lift &amp; slide handles
+473|DOOR LOCKS
+474|Twin-pin hook lock
+475|Hook main lock
+476|Single-point lock set
+477|Rod-driven single-point lock
+478|Hook-pin 3-point lock
+479|Twin-pin 3-point lock
+480|Hook 3-point lock
+481|SYMBOLS IN THIS CATALOG
+482|Sash width (W)
+483|Sash height (H)
+484|Material
+485|304 stainless, aluminium
+486|Endurance test
+487|opening-closing cycles
+488|Optional part
+489|not included in the set
+490|Box quantity
+491|parts per box
+492|All dimensions are in mm. W: sash width, H: sash height (sash outer dimensions).
+493|Numbered circles indicate the part numbers in the assembly diagram.
+494|About Bossy
+495|MEET BOSSY
+496|WE PRODUCE
+497|CUSTOM SOLUTIONS
+498|FOR YOUR NEEDS.
+499|SINCE 2003 · ISTANBUL
+500|WHO WE ARE
+501|Since 2003 we have been supplying innovative, technological products to the construction sector and the facade accessories market. As Birikim Kalıp Yapı Ürünleri, we manufacture for hundreds of customers in Türkiye and in many countries around the world.
+502|WHAT WE MAKE
+503|Facade friction stays, parallel stays, window and door handles, tilt &amp; turn systems, hinges and lift &amp; slide sets. We are a domestic manufacturer of the stays used on aluminium window profiles.
+504|HOW WE WORK
+505|With our expert engineering team and our own tool shop, we design, mass-produce and test our products. Our R&amp;D investment continues at full pace.
+506|founded
+507|m² production area
+508|stainless steel
+509|customer satisfaction target
+510|OUR VISION
+511|To become a world brand that promises the highest level of trust and quality through sustainable growth.
+512|OUR MISSION
+513|To deliver innovative, technological products in Türkiye and worldwide with a focus on 100% customer satisfaction, and to rank among the leading brands in the sector.
+514|Tilt &amp; turn window with anthracite profile in tilt position, interior with city view
+515|Tilt &amp; turn system
+516|Tilt &amp; turn system sets
+517|Turn-only system sets
+518|=
+519|TILT &amp; TURN SYSTEM
+520|TURN + TILT
+521|WITH ONE HANDLE
+522|Tilt &amp; turn window with anthracite profile in tilt position, Bossy handle
+523|Bossy straight-spindle handle
+524|BOSSY HANDLE
+525|Straight spindle · p. 06
+526|ANTHRACITE PROFILE · TILT POSITION
+527|DURABILITY GUARANTEE
+528|opening-closing cycles
+529|The hinge, stay and handle mechanism is guaranteed for up to 20,000 opening-closing cycles.
+530|SASH WEIGHT
+531|SASH WIDTH
+532|SASH HEIGHT
+533|sets
+534|WEIGHT CLASS
+535|HANDLE POSITIONS
+536|FROM INSIDE
+537|Closed
+538|handle down
+539|Turn
+540|handle horizontal 90°
+541|Tilt
+542|handle up 180°
+543|FEATURES
+544|SET SELECTION P. 06
+545|Two movements, one handle
+546|Depending on the handle position, the sash opens inward on its side or tilts from the top.
+547|Euro groove compatible
+548|Fits directly onto aluminium profiles with Euro groove.
+549|Concealed stainless stay
+550|The tilt stay sits between sash and frame; stainless steel body.
+551|Stainless pin
+552|Hinge pin in 304 stainless steel; corrosion-resistant outdoors.
+553|Left and right sash
+554|Available as DIN-L and DIN-R; sash handing is specified when ordering.
+555|Optional parts
+556|Additional stay, additional locking and sash lifter for large sashes.
+557|The guarantee applies when installed and used in accordance with the installation instructions.
+558|Tilt &amp; Turn Set — Technical data
+559|OVERVIEW AND SET SELECTION
+560|TILT &amp; TURN SET
+561|=
+562|Standard sash
+563|=
+564|Tall sash
+565|=
+566|Support screw
+567|part 11
+568|=
+569|p. 09
+570|=
+571|p. 11
+572|=
+573|p. 13
+574|=
+575|p. 15
+576|=
+577|p. 17
+578|Application range chart by sash width and height
+579|W, H: sash outer dimensions, mm · do not exceed set weight
+580|OPENING TYPE
+581|Tilt &amp; turn sash view with turn and tilt symbols
+582|Solid: turn · Dashed: tilt
+583|SASH WEIGHT CALCULATION
+584|Glass weight (kg) =
+585|glass area (m²) × total glass thickness (mm) × 2.5
+586|Sash weight ≈ glass weight + sash profile and accessory weight
+587|EXAMPLE
+588|1000 × 1500 mm sash, 4 + 16 + 4 insulating glass (8 mm glass in total)
+589|1.5 m² × 8 mm × 2.5 =
+590|=
+591|glass
+592|Sash weight = 30 kg + profile and accessory weight
+593|SET SELECTION
+594|Check sash W and H against the application range.
+595|Calculate the sash weight.
+596|Choose the smallest set that carries the weight; the parts list is on the relevant page.
+597|Tilt &amp; turn set — system sets 1–5
+598|TILT &amp; TURN SET · STANDARD SET
+599|SYSTEM SETS
+600|Numbers match the assembly diagram and parts lists. There are two hinge set types: A and B.
+601|Hinge set A render image
+602|Hinge set A
+603|80 · 100 kg · top and bottom hinge
+604|Box qty: 10
+605|pcs / box
+606|Hinge set B render image · frame
+607|Hinge set B render image · sash
+608|130 · 150 · 170 kg · top and bottom hinge
+609|Stay set render image
+610|Stay set
+611|size 1 · size 2
+612|Handle render image
+613|Handle drive set render image · keeper
+614|Handle drive set render image · transmission piece
+615|Handle drive set 1
+616|Handle drive set 2 render image
+617|ALTERNATIVE
+618|Handle drive set 2
+619|Box qty: 20
+620|Locking set render image · corner drive with tab
+621|Locking set render image
+622|Locking set render image · keeper
+623|Locking set 1
+624|corner drive with tab
+625|Locking set render image · corner drive with latch
+626|Locking set 2
+627|corner drive with latch
+628|Tilt &amp; turn set — system sets 5–6
+629|TILT &amp; TURN SET · SETS
+630|Sets made up of several parts. A dashed circle marks an optional set; optional hardware is on the next page.
+631|Horizontal tilt locking set 1 render image · 2 keepers, corner drive, corner drive with tab, extension, locking keeper, lifting block, horizontal tilt support
+632|Horizontal tilt locking set 1
+633|150 · 170 kg · corner drive with tab
+634|PCS / BOX
+635|Horizontal tilt locking set 2 render image · 2 keepers, corner drive, corner drive with latch, extension, locking keeper, lifting block, horizontal tilt support
+636|Horizontal tilt locking set 2
+637|150 · 170 kg · corner drive with latch
+638|Corner turn render image
+639|Locking point render image
+640|Keeper render image
+641|Rear locking set
+642|Tilt &amp; turn set — optional hardware 8–14
+643|TILT &amp; TURN SET · OPTIONS AND ADD-ON PARTS
+644|OPTIONAL HARDWARE
+645|Dashed circle: option, ordered separately. Solid circle: included in the set. Numbers match the assembly diagram and technical data tables.
+646|Additional stay render image
+647|Additional stay keeper render image
+648|ADDITIONAL STAY
+649|Application range
+650|=
+651|Sets
+652|=
+653|Roller sash lifter · frame part render image
+654|Roller sash lifter · roller part render image
+655|ROLLER SASH LIFTER
+656|Additional locking pin render image
+657|ADDITIONAL LOCKING PIN
+658|Top hinge support screw render image
+659|TOP HINGE SUPPORT SCREW
+660|All sash sizes
+661|=
+662|Load transfer piece render image
+663|LOAD TRANSFER PIECE
+664|=
+665|Window restrictor render image
+666|OPENING RESTRICTOR
+667|Size 1 400-1000 mm
+668|Size 2 1001-1300 mm
+669|80 kg tilt &amp; turn set — assembly diagram
+670|TILT &amp; TURN SET · ASSEMBLY DIAGRAM
+671|80 KG STANDARD SET
+672|=
+673|80 kg tilt &amp; turn set assembly diagram, numbered parts and profile section
+674|=
+675|=
+676|Corner drive with latch
+677|Handle connector piece (alternative)
+678|Mushroom pin
+679|hide: old 7
+680|6 end piece (horizontal)
+681|Keeper
+682|Guide lines
+683|Part 6 (option)
+684|Window restrictor
+685|Label 14 (window restrictor)
+686|80 kg tilt &amp; turn set — technical data
+687|TILT &amp; TURN SET · TECHNICAL DATA
+688|Application range, mm
+689|Hinge set A&nbsp;
+690|=
+691|Stay — size 1
+692|=
+693|Stay — size 2
+694|=
+695|· alternative
+696|· corner drive with tab
+697|· corner drive with latch, alternative
+698|OPTIONS
+699|· not included in the set, ordered separately
+700|=
+701|=
+702|Additional stay
+703|Roller sash lifter
+704|Additional locking pin
+705|Opening restrictor
+706|· size 1 · size 2
+707|=
+708|W, H: sash outer dimensions (mm). Sash weight must not exceed 80 kg.
+709|Part numbers match the assembly diagram on p. 09.
+710|100 kg tilt &amp; turn set — assembly diagram
+711|100 KG STANDARD SET
+712|100 kg tilt &amp; turn set assembly diagram, numbered parts and profile section
+713|Part 5
+714|100 kg tilt &amp; turn set — technical data
+715|· 10 pcs/box
+716|Top hinge support screw — 100 kg
+717|W, H: sash outer dimensions (mm). Sash weight must not exceed 100 kg.
+718|Part numbers match the assembly diagram on p. 11.
+719|130 kg tilt &amp; turn set — assembly diagram
+720|130 KG STANDARD SET
+721|130 kg tilt &amp; turn set assembly diagram, numbered parts and profile section
+722|130 kg tilt &amp; turn set — technical data
+723|· corner drive with latch, alternative
+724|Top hinge support screw — 130 kg
+725|W, H: sash outer dimensions (mm). Sash weight must not exceed 130 kg.
+726|Part numbers match the assembly diagram on p. 13.
+727|150 kg tilt &amp; turn set — assembly diagram
+728|150 KG STANDARD SET
+729|=
+730|150 kg tilt &amp; turn set assembly diagram, numbered parts and profile section
+731|=
+732|150 kg corner drive
+733|Plastic lifting block
+734|Horizontal tilt support piece
+735|Part 10
+736|Part 9
+737|Pin guide lines
+738|Part 7 · keeper
+739|Part 10 · pin
+740|hide: old guide
+741|150 kg tilt &amp; turn set — technical data
+742|=
+743|Horizontal Tilt Locking set 1
+744|Horizontal Tilt Locking set 2
+745|· corner drive with latch – alternative
+746|Top hinge support screw — 150 kg
+747|=
+748|=
+749|=
+750|W, H: sash outer dimensions (mm). Sash weight must not exceed 150 kg.
+751|Part numbers match the assembly diagram on p. 15.
+752|170 kg tilt &amp; turn set — assembly diagram
+753|170 KG STANDARD SET
+754|=
+755|170 kg tilt &amp; turn set assembly diagram, numbered parts and profile section
+756|=
+757|170 kg tilt &amp; turn set — technical data
+758|Hinge set B&nbsp;
+759|=
+760|· corner drive with latch · alternative
+761|=
+762|Top hinge support screw — 170 kg
+763|Horizontal locking set
+764|· end piece + keeper
+765|=
+766|=
+767|W, H: sash outer dimensions (mm). Sash weight must not exceed 170 kg.
+768|Part numbers match the assembly diagram on p. 17.
+769|Tilt &amp; turn — passive sash opening
+770|DOUBLE-SASH TILT &amp; TURN SET · ASSEMBLY DIAGRAM
+771|PASSIVE SASH
+772|View from inside · passive sash
+773|Double-sash window view · passive sash on the left
+774|Stay
+775|Window handle
+776|Hinge set · part sequence
+777|Top hinge
+778|Top hinge support screw (100 kg)
+779|Bottom hinge
+780|End piece (vertical)
+781|Passive sash lock set · part sequence
+782|active and passive sash joint
+783|Passive sash profile section
+784|=
+785|Tilt &amp; turn — passive sash technical data
+786|DOUBLE-SASH TILT &amp; TURN SET · TECHNICAL DATA
+787|Passive
+788|sash
+789|Double-sash application
+790|Passive Concealed Lever Handle set
+791|Turn-Only Stay
+792|Hinge set
+793|APPLICATION NOTES
+794|Double-sash window view
+795|Used for the passive (second) sash of double-sash windows.
+796|Sash weight must not exceed 170 kg.
+797|The parts list matches the assembly diagram on p. 19.
+798|Concealed lever handle set
+799|TILT &amp; TURN SET · ACCESSORY
+800|CONCEALED LEVER
+801|HANDLE SET
+802|Concealed lever handle set render image
+803|80 – 100 kg · top and bottom hinge
+804|Hinge set B render image
+805|130 - 150 - 170 kg · top and bottom hinge
+806|Turn-only stay render image
+807|Concealed pressure block set render image
+808|Turn-only sets — set selection
+809|TURN-ONLY
+810|SETS
+811|TURN ONLY
+812|When the handle is turned 90°, the sash opens inward; there is no tilt position. The sash is carried at the top by the turn-only stay.
+813|SETS
+814|Select by sash weight and size · dashed: 100 kg only
+815|=
+816|p. 26
+817|=
+818|=
+819|Restrictor
+820|Support screw · 100 kg
+821|p. 27
+822|=
+823|p. 28
+824|=
+825|=
+826|PERIMETER LOCKING · HEAVY SASH
+827|p. 29
+828|With tilt &amp; turn stay and heavy-sash hinge
+829|=
+830|p. 30
+831|=
+832|System sets p. 23–24 · assembly diagrams p. 26–30 · technical data p. 31–35
+833|Turn-only set — system sets 1–7
+834|TURN-ONLY SET · STANDARD PARTS
+835|Numbers match the assembly diagram and parts lists. Hinge set, handle and handle drive are shared with tilt &amp; turn.
+836|Hinge set A render image · top and bottom hinge
+837|Box qty: –
+838|Handle Drive
+839|=
+840|Window limiter
+841|Opening Restrictor
+842|Size 1&nbsp; 400-1000mm
+843|Size 2 1001-1300mm
+844|Turn-only set — locking sets
+845|TURN-ONLY SET · SETS
+846|LOCKING SETS
+847|Perimeter, standard, eco and 150 kg perimeter locking sets. Numbers match the assembly diagrams.
+848|Corner drive with tab render image
+849|Corner drive render image
+850|Locking bar render image
+851|End piece render image
+852|Rod pin render image
+853|Restrictor render image
+854|Perimeter Locking Set
+855|Corner keeper render image · bottom part
+856|Corner keeper render image · keeper
+857|Standard Locking Set
+858|Eco Locking Set
+859|Add-on part render image
+860|=
+861|Turn-only set — system sets 3
+862|Additional system sets. Numbers match the assembly diagrams.
+863|Tilt &amp; Turn Special Stay
+864|=
+865|Fortis 2-knuckle window hinge render image
+866|Fortis 2-Knuckle Turn-Only Hinge
+867|=
+868|Rear Locking set
+869|Fortis 3-knuckle window hinge render image
+870|Fortis 3-Knuckle Turn-Only Hinge
+871|=
+872|Turn-only eco set — assembly diagram
+873|=
+874|Turn-only standard set — assembly diagram
+875|Turn-only perimeter locking — assembly diagram
+876|Corner drive with tab
+877|Corner drive with tab · tab
+878|Bottom keeper and mushroom pin
+879|Corner piece 7
+880|Sash part
+881|Label 2
+882|Part 9a (bottom)
+883|Part 9b (bottom)
+884|Label 8
+885|Label 2 (end piece)
+886|Label 2 (bottom group)
+887|Turn-only 150 kg perimeter locking — assembly diagram
+888|Label 5
+889|Label 9 (bottom)
+890|Stay set 2
+891|Top hinge (tilt &amp; turn)
+892|Bottom hinge (tilt &amp; turn)
+893|Part 6 (tilt &amp; turn)
+894|Part 5 (tilt &amp; turn)
+895|Label 5 (tilt &amp; turn)
+896|Part 6 (p.11)
+897|Turn-only 170 kg perimeter locking — assembly diagram
+898|hide: bushing
+899|Turn-only eco set — technical data

@@ -1,0 +1,436 @@
+533@KilitMontaj|set
+1340|Overall length
+1341|=
+1342|Dimensions in mm · stainless steel pin
+1343|2-knuckle — Fortis window hinge
+1344|WINDOW HINGE · 2-KNUCKLE
+1345|FORTIS · 2-KNUCKLE
+1346|Fortis window hinge 2-knuckle
+1347|=
+1348|Section divider — Handles
+1349|SECTION 04
+1350|04 · HANDLES
+1351|=
+1352|Section opener — Handles
+1353|Novus straight cremone handle
+1354|CREMONE · DOOR · BEZAULT
+1355|WINDOW · FACADE · DOOR
+1356|Bossy and Novus handle series for window, facade and door applications. Cremone handles are made in window and facade types, with different spindle lengths.
+1357|handle models
+1358|series
+1359|=
+1360|window / facade
+1361|Bossy articulated handle
+1362|Bossy straight handle
+1363|Bossy curved handle
+1364|Novus door handle
+1365|Bossy Bezault handle
+1366|Articulated facade handle
+1367|FACADE HANDLE · CAPPED FACADE
+1368|BOSSY ARTICULATED
+1369|=
+1370|HANDLE LENGTH
+1371|CAPPED FACADE
+1372|capped facade
+1373|CONNECTION
+1374|SHOE
+1375|Dimensions in mm · handle length to order
+1376|Articulated facade handle — silicone facade
+1377|FACADE HANDLE · SILICONE FACADE
+1378|SILICONE FACADE
+1379|silicone facade
+1380|CREMONE HANDLE · WINDOW
+1381|NOVUS STRAIGHT
+1382|115.5 mm
+1383|=
+1384|PIN LENGTH
+1385|10.5 mm
+1386|Novus straight cremone handle — facade
+1387|CREMONE HANDLE · FACADE
+1388|Straight cremone handle
+1389|BOSSY STRAIGHT
+1390|=
+1391|TOTAL DEPTH
+1392|=
+1393|Straight cremone handle — facade
+1394|Curved cremone handle
+1395|BOSSY CURVED
+1396|Curved cremone handle — facade
+1397|18.5 mm
+1398|Novus curved cremone handle
+1399|NOVUS CURVED
+1400|Novus curved cremone handle — facade
+1401|DOOR HANDLE
+1402|NOVUS DOOR
+1403|HANDLE
+1404|ROTATION ANGLE
+1405|NOVUS · SQUARE ROSE
+1406|novus · square rose
+1407|ROSE
+1408|SQUARE SPINDLE
+1409|Dimensions in mm · 50° rotation in both directions
+1410|Bezault handle
+1411|WINDOW HANDLE
+1412|=
+1413|48.6 mm
+1414|=
+1415|=
+1416|TECHNICAL INFORMATION
+1417|Window handle with an articulated body and spindle output. The body is fixed to the sash with two screws; the handle rotates around the spindle axis.
+1418|SPINDLE DIAMETER
+1419|SPINDLE LENGTH
+1420|JOINT
+1421|Section divider — Lift &amp; slide
+1422|SECTION 05
+1423|05 · LIFT &amp; SLIDE
+1424|Section opener — Lift &amp; slide
+1425|Interior with a wide opening and the Bossy lift &amp; slide system
+1426|LIFT &amp; SLIDE
+1427|200 · 300 · 400 KG SETS
+1428|=
+1429|When the handle is turned, the sash lifts off the gaskets onto its carriages and slides easily. When the handle is closed, the sash lowers into place and presses against the gaskets to seal tightly.
+1430|sash height
+1431|channel
+1432|System and technical data
+1433|Carriage sets · 30 mm channel
+1434|Carriage set · 42 mm channel
+1435|42 mm carriage assembly diagram
+1436|Carriage sets · 16 / 18 / 22 profile
+1437|16 mm channel assembly diagram
+1438|Espagnolette and backset
+1439|Bossy sliding flush pull
+1440|Novus lift &amp; slide handles
+1441|Lift &amp; slide system data
+1442|LIFT &amp; SLIDE SYSTEMS
+1443|SYSTEM
+1444|DATA
+1445|=
+1446|MAX. SASH HEIGHT
+1447|30 MM CHANNEL
+1448|Channel section, 30 mm channel
+1449|=
+1450|Channel height
+1451|=
+1452|Channel width
+1453|=
+1454|42 MM CHANNEL
+1455|Channel section, 42 mm channel
+1456|=
+1457|=
+1458|=
+1459|Drive:
+1460|37.5 mm or 27.5 mm lock–espagnolette backset, 80 mm handle screw spacing.
+1461|OPENING SCHEMES
+1462|F: FIXED SASH · VIEW FROM INSIDE
+1463|Dimensions in mm · please state the opening scheme when ordering
+1464|Carriage sets 30 mm channel
+1465|CARRIAGE SETS
+1466|=
+1467|CHANNEL
+1468|=
+1469|MAX. SASH WEIGHT
+1470|200 KG CARRIAGE SET
+1471|CORNER-DRIVEN FRONT CARRIAGE · REAR CARRIAGE
+1472|KG · 30 MM CHANNEL
+1473|200 kg carriage set
+1474|300 KG CARRIAGE SET
+1475|300 kg carriage set
+1476|400 KG CARRIAGE SET
+1477|400 kg carriage set
+1478|Channel 30 × 22 mm · section on p. 85
+1479|Carriage set 42 mm channel
+1480|CARRIAGE SET
+1481|=
+1482|PERSPECTIVE
+1483|carriage set
+1484|=
+1485|CORNER-DRIVEN FRONT CARRIAGE + REAR CARRIAGE
+1486|Carriage set
+1487|REAR CARRIAGE
+1488|SINGLE CARRIAGE
+1489|Rear carriage
+1490|Channel 42 × 22 mm · for 300–400 kg sashes
+1491|=
+1492|CHANNEL · VIEW FROM INSIDE
+1493|SLIDING SASH
+1494|Lift &amp; slide window, view from inside
+1495|Espagnolette and locking points
+1496|42 mm carriage set
+1497|Screw
+1498|Filler cap
+1499|Stopper, screw and cap
+1500|STOPPER
+1501|INSTALLATION
+1502|DRILLING
+1503|TEMPLATE
+1504|Carriage set p. 87 · espagnolette lengths p. 93 · installation details p. 94
+1505|Lift &amp; slide handle
+1506|Espagnolette
+1507|Locking point · 3 pcs
+1508|Bottom locking point
+1509|Front carriage
+1510|Connecting bar
+1511|Stopper
+1512|Bar support
+1513|Carriage set 16 · 18 · 22 profile
+1514|=
+1515|16 · 18 · 22 profile corner-driven front carriage
+1516|16 · 18 · 22 profile rear carriage
+1517|For 16 × 18 × 22 mm channel profiles · 200 kg
+1518|Carriage set 300 kg · 16 · 18 · 22 profile
+1519|FRONT CARRIAGE
+1520|300 kg corner-driven front carriage · 16 · 18 · 22 profile
+1521|300 kg rear carriage · 16 · 18 · 22 profile
+1522|For 16 × 18 × 22 mm channel profiles · 300 kg
+1523|Carriage set 400 kg · 16 · 18 · 22 profile
+1524|400 kg corner-driven front carriage · 16 · 18 · 22 profile
+1525|400 kg rear carriage · 16 · 18 · 22 profile
+1526|For 16 × 18 × 22 mm channel profiles · 400 kg
+1527|=
+1528|=
+1529|PROFILE CHANNEL · VIEW FROM INSIDE
+1530|16 mm channel carriage set
+1531|Carriage plastic
+1532|Espagnolette lengths p. 93 · installation details p. 94
+1533|DRIVE
+1534|ESPAGNOLETTE
+1535|AND LOCK
+1536|HANDLE SCREW SPACING
+1537|ESPAGNOLETTE LENGTHS
+1538|=
+1539|LENGTH SELECTION
+1540|BY SASH HEIGHT
+1541|=
+1542|Handle height
+1543|=
+1544|=
+1545|=
+1546|=
+1547|=
+1548|BACKSET
+1549|27.5 · 37.5 mm
+1550|BACKSET
+1551|27.5 / 37.5 mm
+1552|The espagnolette length is selected according to sash height.
+1553|The backset must be specified as 27.5 or 37.5 mm, depending on the profile.
+1554|Lift &amp; slide installation details
+1555|DETAILS
+1556|CARRIAGE INSTALLATION
+1557|EXPLODED VIEW
+1558|SASH VIEW
+1559|STOPPER INSTALLATION
+1560|=
+1561|=
+1562|Lift &amp; slide system equipment
+1563|HARDWARE
+1564|PARTS · BARS
+1565|Sash stop
+1566|Espagnolette filler cap
+1567|FILLER CAP
+1568|Bottom connecting bar support
+1569|BAR SUPPORT
+1570|Sliding sash
+1571|LOCKING POINT
+1572|Locking point
+1573|MICRO-VENTILATION
+1574|CONNECTING BAR
+1575|3 LENGTHS
+1576|SHORT
+1577|=
+1578|MEDIUM
+1579|=
+1580|LONG
+1581|=
+1582|SLIDING HANDLE
+1583|BOSSY SLIDING FLUSH PULL&nbsp;
+1584|=
+1585|SLIDING
+1586|sliding
+1587|LENGTH
+1588|WIDTH
+1589|DEPTH
+1590|M5 screw
+1591|GRIP WIDTH
+1592|=
+1593|LIFT &amp; SLIDE
+1594|lift &amp; slide
+1595|PLATE
+1596|DRILLING TEMPLATE · mm
+1597|SPINDLE HOLE
+1598|=
+1599|SCREW HOLE
+1600|=
+1601|=
+1602|INNER + OUTER HANDLE WITH CYLINDER
+1603|lift &amp; slide handle
+1604|INNER HANDLE WITH CYLINDER + OUTER FLUSH PULL
+1605|INNER HANDLE + OUTER FLUSH PULL
+1606|Section divider — Door Locks
+1607|SECTION 06
+1608|06 · DOOR LOCKS
+1609|Section opener — Door locks
+1610|Twin-pin and hook auxiliary lock
+1611|DOOR LOCKS
+1612|MULTIPOINT · HOOK
+1613|NEW · 2027
+1614|ALUMINIUM DOORS
+1615|A handle-operated main lock with top and bottom auxiliary locks secures the leaf to the frame at several points. Secured with a cylinder; used with a 22 mm U or flat faceplate.
+1616|points
+1617|locking
+1618|faceplate length
+1619|backset · centres
+1620|Rod-driven · door profile
+1621|Multipoint hook lock
+1622|HOOK DOOR LOCK · 3-POINT
+1623|TWIN-PIN
+1624|HOOK LOCK
+1625|faceplate length, mm
+1626|Handle-operated 3-point door lock. The main lock and the top and bottom auxiliary locks work together on a single faceplate; each auxiliary lock has one hook and two pins. Locked with a cylinder.
+1627|Handle-operated locking
+1628|Auxiliary lock: hook + twin pins · top and bottom
+1629|Cylinder locking · 92 centres
+1630|Faceplate 22 mm · U or flat
+1631|PARTS
+1632|1 leaf
+1633|Main lock · handle-operated
+1634|Auxiliary lock · hook + twin pins
+1635|Faceplate · 22 mm U / flat
+1636|Main lock keeper
+1637|Hook and pin keeper
+1638|Backset
+1639|Centres · handle – cylinder
+1640|Cylinder
+1641|Euro
+1642|Faceplate · 22 mm
+1643|U / flat
+1644|Faceplate length
+1645|Handle · from bottom
+1646|Bottom hook · from bottom
+1647|Top hook · from bottom
+1648|Hook · pin projection
+1649|Dimensions in mm · heights from the bottom end of the faceplate
+1650|Twin-pin hook lock technical drawing
+1651|TOP
+1652|BOTTOM
+1653|AUXILIARY LOCK · HOOK + TWIN PINS
+1654|keeper
+1655|auxiliary lock
+1656|pin
+1657|hook
+1658|HOOK DOOR LOCK · HANDLE-OPERATED
+1659|HOOK
+1660|MAIN LOCK
+1661|backset · centres, mm
+1662|Handle-operated main lock; the latch, deadbolt and top–bottom hook + twin-pin auxiliary locks work together on a single faceplate. Locked with a cylinder. Faceplate 22 mm, U or flat.
+1663|Main lock: latch + deadbolt
+1664|faceplate · U / flat
+1665|Deadbolt projection
+1666|Latch projection
+1667|Dimensions in mm · handle height from the bottom end of the faceplate
+1668|Hook main lock technical drawing
+1669|MAIN LOCK · HANDLE-OPERATED
+1670|BS 35
+1671|latch
+1672|deadbolt
+1673|handle spindle
+1674|cylinder
+1675|Single-point lock set — assembly diagram
+1676|DOOR SOLUTIONS · SINGLE-POINT
+1677|SINGLE-POINT
+1678|LOCK SET
+1679|faceplate width, mm
+1680|Single-point lock mechanism; a set made up of lock body, keeper, door handle on rose and cylinder escutcheon. Used with a flat or U faceplate, 22 mm wide.
+1681|set contents
+1682|=
+1683|cylinder housing
+1684|not to scale
+1685|INSTALLATION POSITION
+1686|Single-point lock set: keeper, lock body, door handle on rose, cylinder escutcheon
+1687|FACEPLATE OPTIONS
+1688|PARTS LIST
+1689|Single-point lock body · latch + bolt
+1690|Door handle · on rose
+1691|1 set
+1692|Cylinder escutcheon · PZ
+1693|Dimensions in mm · faceplate width 22 mm
+1694|Single-point door lock set assembly diagram
+1695|LOCK BODY
+1696|KEEPER
+1697|HANDLE + ROSE
+1698|CYLINDER ESCUTCHEON
+1699|DIN left · inward opening
+1700|Lock body · leaf
+1701|Keeper · frame
+1702|FLAT FACEPLATE
+1703|U FACEPLATE
+1704|Rod-driven single-point lock — assembly diagram
+1705|ROD-DRIVEN
+1706|SINGLE-POINT LOCK
+1707|Via the rods and corner drives, the lock body operates the mushroom locking points around the leaf. Keepers are on the frame side and 3 hinges on the hinge side.
+1708|lock left · hinges right
+1709|Lock body · rod connection
+1710|Corner drive
+1711|Mushroom keeper
+1712|Mushroom locking bar
+1713|Hinge
+1714|CORNER
+1715|LOCK
+1716|FRAME
+1717|LEAF
+1718|Via the rods and corner drives, the lock body operates the mushroom points around the leaf.
+1719|There are 3 hinges on the hinge side.
+1720|Faceplate 22 mm · U or flat.
+1721|Rod-driven single-point lock with corner drives, installation position in the door profile
+1722|Part numbers
+1723|Hook-pin 3-point lock — assembly diagram
+1724|DOOR SOLUTIONS · HANDLE-OPERATED
+1725|HOOK-PIN
+1726|3-POINT LOCK
+1727|Handle-operated multipoint door lock; the main lock and the top and bottom hook-pin locking points work together on a single faceplate.
+1728|Main lock body · handle-operated
+1729|Hook-pin locking point
+1730|Hook keeper
+1731|HOOK + PIN
+1732|FRAME SIDE
+1733|LEAF SIDE
+1734|When the handle is lowered, the hooks and pins lock into the frame keepers.
+1735|3 locking points: top hook + pin, main lock, bottom hook + pin.
+1736|Hook-pin 3-point lock, installation position in the door profile
+1737|Twin-pin 3-point lock — assembly diagram
+1738|Handle-operated multipoint door lock; the main lock and the top and bottom hook + twin-pin locking points work together on a single faceplate.
+1739|Hook · twin-pin locking point
+1740|HOOK + 2 PINS
+1741|3 locking points: top hook + 2 pins, main lock, bottom hook + 2 pins.
+1742|Twin-pin 3-point lock, installation position in the door profile
+1743|Rod-driven single-point lock — door profile
+1744|Rod-driven single-point lock; with the lock body, rod end pieces and mushroom locking points, it secures the leaf to the frame on both the lock and hinge sides.
+1745|Rod end piece
+1746|ROD END
+1747|The lock body operates the top and bottom end pieces via the rods.
+1748|There are 3 mushroom pins and keepers on the hinge side.
+1749|Rod-driven single-point lock, installation position in the door profile
+1750|Hook 3-point lock — assembly diagram
+1751|DOOR SOLUTIONS · MULTIPOINT
+1752|Hook 3-point lock mechanism; the main lock and the top and bottom hook locking points work together on a single faceplate.
+1753|top + bottom
+1754|Main lock body
+1755|Hook locking point
+1756|HOOK
+1757|Keepers are fitted to the inner edge of the frame, the faceplate to the leaf edge.
+1758|3 locking points: top hook, main lock, bottom hook.
+1759|Hook 3-point lock, installation position in the door profile
+1760|Notes
+1761|NOTES
+1762|Bossy Product Catalog — Back cover
+1763|WE PRODUCE CUSTOM
+1764|SOLUTIONS FOR YOUR NEEDS.
+1765|ADDRESS
+1766|=
+1767|34775 Ümraniye / Istanbul
+1768|PHONE
+1769|E-MAIL
+1770|=
+1771|=
+1772|bossy.com.tr · products and technical documents
+1773|The technical information in this catalog is for information purposes. Bossy reserves the right to change products and dimensions without prior notice.
+1774|© 2026 Bossy · Birikim Kalıp A.Ş. · Edition 01/2026

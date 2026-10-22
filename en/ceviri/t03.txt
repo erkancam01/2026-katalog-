@@ -1,0 +1,440 @@
+900|=
+901|T.O. Eco locking set
+902|100–130 KG ADD-ON SET
+903|· only for 100 and 130 kg sashes
+904|Window limiter · size 1 · size 2
+905|Eco set
+906|=
+907|W, H: sash outer dimensions (mm). Sash weight must not exceed 130 kg. Hinge set and handle are shared with tilt &amp; turn (p. 06).
+908|Part numbers match the assembly diagram on p. 26.
+909|Turn-only standard set — technical data
+910|T.O. Standard locking set
+911|2 concealed pressure blocks (7) are fitted on the hinge side, evenly spaced between the hinges.
+912|Part numbers match the assembly diagram on p. 27.
+913|Turn-only perimeter locking set — technical data
+914|T.O. Perimeter locking set
+915|3 concealed pressure blocks (7) are fitted on the hinge side, evenly spaced.
+916|Part numbers match the assembly diagram on p. 28.
+917|Turn-only 150 kg perimeter locking — technical data
+918|Tilt &amp; turn special stay
+919|T.O. Perimeter locking set · corner drive with tab
+920|Rear perimeter locking set
+921|=
+922|Part numbers match the assembly diagram on p. 29.
+923|Turn-only 170 kg perimeter locking — technical data
+924|=
+925|Part numbers match the assembly diagram on p. 30.
+926|Tilt &amp; turn safety lock set
+927|TILT &amp; TURN · ACCESSORY
+928|SAFETY LOCK
+929|Safety lock and key
+930|Safety lock + key
+931|fitted to the locking bar on the handle side
+932|INSTALLATION DIMENSIONS
+933|Installation dimensions of the safety lock on the handle-side locking bar
+934|FUNCTION
+935|With the safety lock locked, the sash can only tilt
+936|turn + tilt
+937|tilt only
+938|When locked with the key, the sash cannot be turned open; it can only tilt.
+939|USE
+940|3 steps
+941|Use step 1
+942|Position
+943|The lock is fitted on the handle side, above the handle.
+944|Use step 2
+945|Lock
+946|Insert the key and turn the lock closed.
+947|Use step 3
+948|Remove the key
+949|The sash can now only tilt.
+950|For use with tilt &amp; turn sets · dimensions in mm
+951|Auxiliary accessories A01–A02
+952|7 mm square spindle adapter render image
+953|7 mm square spindle adapter
+954|With latch · 7 mm square spindle connection
+955|Compatibility
+956|All tilt &amp; turn sets
+957|Without latch · 7 mm square spindle connection
+958|Auxiliary accessories A04–A08
+959|Hook pin group render image
+960|BASE-MOUNTED ADJUSTABLE HOOK PIN&nbsp;
+961|Mushroom-head pin · Allen-adjustable
+962|Pin group without hook render image
+963|BASE-MOUNTED ADJUSTABLE PIN&nbsp;
+964|Flat-head pin · Allen-adjustable
+965|Hex corner drive render image
+966|Allen-adjustable corner drive
+967|Corner drive with latch render image
+968|Length options
+969|Auxiliary accessories A09–A14
+970|Adjustable keeper render image
+971|Adjustable keeper
+972|Product code
+973|=
+974|Slide bolt group render image
+975|PIN GROUP KEEPER
+976|Slide bolt and keeper group
+977|turn-only stay
+978|Sash locking point
+979|Adjustable concealed locking render image
+980|Adjustable concealed locking
+981|±1 mm adjustment
+982|Security handle keeper render image
+983|restrictor
+984|Handle lock keeper
+985|Fixed keeper B render image
+986|Fixed keeper&nbsp;
+987|with M4 screw
+988|Section opener — Facade Systems
+989|Windows on a curtain-wall facade opened with outward-opening friction stays
+990|SECTION 02
+991|OUTWARD-OPENING AND PARALLEL STAYS
+992|OUTWARD OPENING · FACADE
+993|Outward-opening and parallel-opening stays, restrictors and system hardware for aluminium facades and windows. All products suit Euro-groove profiles.
+994|stay length
+995|max. sash
+996|stainless
+997|Outward-opening facade friction stays
+998|Parallel facade stays
+999|Outward-opening facade friction stays — small
+1000|OUTWARD OPENING · FACADE FRICTION STAY
+1001|SMALL
+1002|STAYS
+1003|254–406 mm · 4 sizes · 50–85 kg
+1004|Bossy outward-opening facade friction stay, right and left pair
+1005|Top-hung
+1006|outward opening
+1007|right + left pair · 4 sizes
+1008|Bossy facade friction stays are concealed stays that let the window open outward. Friction is adjusted by hand, so the sash holds at any chosen angle. Suitable for European-standard facade profiles.
+1009|Concealed fitting, invisible when the sash is closed
+1010|Manually adjustable friction brake
+1011|304 stainless steel body
+1012|Suits facade profiles with 23 × 16 mm Euro groove
+1013|Max. opening angle
+1014|Max. sash height
+1015|Max. sash width
+1016|TECHNICAL PARAMETERS
+1017|4 sizes
+1018|Size
+1019|Opening angle
+1020|Max. sash height H (mm)
+1021|Max. sash width W (mm)
+1022|Max. sash weight (kg)
+1023|=
+1024|=
+1025|=
+1026|=
+1027|SELECTION AND APPLICATION
+1028|top-hung sash
+1029|=
+1030|=
+1031|=
+1032|=
+1033|=
+1034|=
+1035|=
+1036|=
+1037|Stay selection
+1038|· max. sash height and weight
+1039|IN
+1040|OUT
+1041|Choose the stay length by sash height; the weights and dimensions in the table must not be exceeded.
+1042|Each sash takes 1 pair (2 pcs): one right and one left.
+1043|α: opening angle, 25°–35° depending on stay length.
+1044|Dimensions in mm · stays are supplied as right + left pairs
+1045|Outward-opening facade friction stays — large
+1046|LARGE
+1047|457–711 mm · 7 sizes · 100–185 kg
+1048|right + left pair · 7 sizes
+1049|Outward-opening facade friction stay for large, heavy sashes. Friction is adjusted by hand, so the sash holds at any chosen angle.
+1050|Multi-arm, reinforced construction
+1051|All-metal, 304 stainless steel
+1052|7 sizes
+1053|=
+1054|=
+1055|Max. weight (kg)
+1056|=
+1057|=
+1058|=
+1059|=
+1060|=
+1061|HEAVY DUTY
+1062|=
+1063|=
+1064|=
+1065|=
+1066|=
+1067|=
+1068|=
+1069|=
+1070|α: opening angle, 20°–30° depending on stay length.
+1071|RESTRICTOR · STEPPED
+1072|STEPPED
+1073|RESTRICTOR
+1074|3 · 5 steps
+1075|telescopic stay
+1076|The stepped body is optimised to fit more window types and profiles. The high-strength, retractable telescopic design holds the sash in 3 or 5 positions. Complies with European standards.
+1077|Steps
+1078|Body height
+1079|3-STEP RESTRICTOR
+1080|3-step restrictor
+1081|Closed length
+1082|=
+1083|Open length
+1084|=
+1085|Installation dimensions
+1086|5-STEP RESTRICTOR
+1087|5-step restrictor
+1088|=
+1089|=
+1090|Dimensions in mm · suits European-standard profiles
+1091|RESTRICTOR · STAY
+1092|STAY
+1093|max. sash height, mm
+1094|Limits the opening angle of the sash. Prevents the sash from slamming shut and the glass from breaking in strong wind.
+1095|Limits the opening angle
+1096|Protection against slamming in wind
+1097|Used together with outward-opening facade friction stays
+1098|Bossy restrictor stay
+1099|=
+1100|The size indicates the maximum sash height (mm) it can be used for.
+1101|Dimensions in mm
+1102|Facade locking set W 1200
+1103|FACADE SYSTEMS · LOCKING SET
+1104|FACADE LOCKING
+1105|Exploded assembly diagram
+1106|Facade concealed pressure block
+1107|Facade locking set W 1200–1400
+1108|Facade locking set W 1500
+1109|FACADE FRICTION STAY · SYSTEM HARDWARE
+1110|SYSTEM HARDWARE
+1111|EQUIPMENT
+1112|Adjustable facade keeper
+1113|A screw adjustment sets the sash-to-frame compression precisely.
+1114|Shoe
+1115|Connects the facade sash handle drive piece to the bottom rail.
+1116|Facade fixed keeper
+1117|Non-adjustable fixed keeper; holds the sash in the closed position.
+1118|Corner drive
+1119|Transfers the locking movement around the corner to the next edge.
+1120|Facade pin group keeper
+1121|Frame-side keeper set for the locking pins
+1122|Steel facade safety cable
+1123|Stainless steel safety cable connecting sash to frame; prevents the sash from falling if a stay fails.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+1124|Facade concealed pressure block
+1125|Used between frame and sash on the top rail to press the sash against the gasket.
+1126|Stay metric adjustment piece
+1127|'Z' adjustment piece recommended for facade sashes over 100 kg
+1128|Base-mounted adjustable hook pin
+1129|Base-mounted adjustable pin
+1130|For use with outward-opening facade friction stays · material: 304 stainless steel
+1131|Parallel opening facade image
+1132|Facade windows in parallel-open position at sunset
+1133|Parallel stay 14″ · 18″
+1134|PARALLEL OPENING · FACADE STAY
+1135|PARALLEL
+1136|single stay · 55–110 kg
+1137|Bossy parallel stay
+1138|Parallel
+1139|single stay · 2 sizes
+1140|A parallel-opening window lets air flow around the entire sash perimeter for maximum natural ventilation. The sash moves out parallel to the facade, keeping the facade appearance intact.
+1141|Even airflow on all four sides of the sash
+1142|Clean sight lines on modern facades
+1143|23 mm installation height between sash and frame
+1144|Opening distance
+1145|2 sizes
+1146|Opening (mm)
+1147|=
+1148|parallel-opening sash
+1149|=
+1150|=
+1151|=
+1152|The sash is pushed outward parallel to the frame.
+1153|Parallel stay 27″ · 36″
+1154|double stay · 225 kg
+1155|Bossy double parallel stay
+1156|double stay · 2 sizes
+1157|The double-stay parallel system is designed for large, heavy sashes. The stays are fitted between two flat, parallel rigid surfaces; sash and frame legs must stay within the maximum dimensions in the table.
+1158|225 kg capacity on large sashes
+1159|Two stays in one body, balanced opening
+1160|Follow the table dimensions during installation
+1161|=
+1162|=
+1163|=
+1164|Parallel stay selection chart
+1165|PARALLEL OPENING · SELECTION CHART
+1166|SELECTION
+1167|Sash
+1168|width
+1169|— choose the column; the top stay length is in the column header.
+1170|height
+1171|— choose the row; the side stay and weight limit are in the row header.
+1172|The intersecting cell shows the stay layout and the recommended
+1173|handle
+1174|position.
+1175|SELECTION TABLE
+1176|dimensions are sash outer dimensions · mm
+1177|SASH WIDTH
+1178|TOP STAY
+1179|=
+1180|=
+1181|=
+1182|=
+1183|ROW
+1184|HEIGHT
+1185|SASH HEIGHT
+1186|Parallel stay layout
+1187|RECOMMENDED
+1188|Twin handles on the side profiles, centred on the vertical axis
+1189|=
+1190|A restrictor stop plate must be fitted to the stay mechanisms on each side of the system, one per side, to give a maximum opening distance of 150 mm.
+1191|In multi-stay configurations, all stay mechanisms must be centred in the system and fitted with equal axis spacing between them.
+1192|=
+1193|The stay mechanisms do not seal the sash. The optimum gasket compression required in the system is achieved by the locking mechanisms.
+1194|IMPORTANT
+1195|Integration of parallel-opening stays into the system and their installation suitability must be verified against the DWG data of the relevant aluminium profile sections.
+1196|Parallel stay 450 mm
+1197|dimensions in mm
+1198|Parallel stay 450 mm technical drawing
+1199|=
+1200|=
+1201|=
+1202|=
+1203|CLOSED POSITION
+1204|OPEN POSITION
+1205|SECTION
+1206|Stay length · 18″
+1207|Closed height (min.)
+1208|Opening (max.)
+1209|1 size
+1210|Closed (mm)
+1211|Open max. (mm)
+1212|Section (mm)
+1213|=
+1214|The single-stay parallel system pushes medium-sized facade sashes outward parallel to the frame. Closed, it folds to 50 mm high; open, it gives 250 mm between sash and frame.
+1215|Closed 50 mm, open 250 mm
+1216|Slim 19.6 × 23 mm profile section
+1217|Parallel stay 925 mm
+1218|=
+1219|Parallel stay 925 mm technical drawing
+1220|Stay length
+1221|The double-stay parallel system pushes wide facade sashes outward parallel to the frame. Two stays in one body carry the sash evenly; closed, it folds to 50 mm high; open, it gives 250 mm clearance.
+1222|Parallel stay 680 mm
+1223|=
+1224|Parallel stay 680 mm technical drawing
+1225|Stay length · 27″
+1226|=
+1227|Parallel stay 350 mm
+1228|Parallel stay 350 mm technical drawing
+1229|=
+1230|Stay length · 14″
+1231|=
+1232|Fully closing parallel stay 14″ · 18″
+1233|PARALLEL OPENING · FULLY CLOSING
+1234|fully closing
+1235|=
+1236|technical drawing
+1237|Fully closing parallel stay 350 mm, open position
+1238|Fully closing parallel stay 350 mm, closed position
+1239|Fully closing parallel stay section
+1240|=
+1241|Fully closing parallel stay 450 mm, open position
+1242|Fully closing parallel stay 450 mm, closed position
+1243|Fully closing parallel stay 27″ · 36″
+1244|=
+1245|Fully closing parallel stay 680 mm, open position
+1246|Fully closing parallel stay 680 mm, closed position
+1247|=
+1248|=
+1249|Fully closing parallel stay 925 mm, open position
+1250|Fully closing parallel stay 925 mm, closed position
+1251|=
+1252|Parallel stay assembly diagram
+1253|FACADE SYSTEMS · PARALLEL STAY SET
+1254|PARALLEL STAY LOCKING&nbsp;
+1255|Parallel stay set, exploded assembly view
+1256|Hook pin group
+1257|Corner drive keeper (facade pin group)
+1258|Horizontal corner keeper (facade pin group)
+1259|Hook pin group (bottom rail)
+1260|Parallel stay assembly diagram (2)
+1261|PARALLEL STAY PERIMETER LOCKING&nbsp;
+1262|Hook pin keeper (bottom rail)
+1263|Section opener — Hinges
+1264|Bossy hinge
+1265|=
+1266|SECTION 03
+1267|DOOR AND WINDOW HINGES
+1268|3-way adjustable hinges for aluminium doors and windows. Stainless steel pin, body compatible with Euro-groove profiles.
+1269|=
+1270|adjustment
+1271|door · 3 pcs
+1272|stainless pin
+1273|Validus window hinge
+1274|DOOR HINGE
+1275|=
+1276|DOOR
+1277|with 3 hinges · 120 kg with 2 hinges
+1278|DIMENSIONS
+1279|Fortis door hinge dimensions
+1280|ADJUSTMENT DIRECTIONS
+1281|Adjustment directions
+1282|PROFILE
+1283|Compatible profile section and dimensions
+1284|with 2 hinges
+1285|with 3 hinges
+1286|Lateral adjustment
+1287|Compression adjustment
+1288|Height adjustment
+1289|ADJUSTMENT STEPS
+1290|Allen key sizes 3 · 6 · 8
+1291|Fortis door hinge adjustment steps
+1292|Dimensions in mm · adjust with the leaf hung
+1293|=
+1294|=
+1295|ADJUSTMENT
+1296|=
+1297|Tenax door hinge adjustment directions
+1298|=
+1299|±1.75 mm
+1300|=
+1301|Loosen the screws
+1302|before adjusting.
+1303|Loosen the fixing screws before adjusting.
+1304|PROFILE AND MILLING DIMENSIONS
+1305|Tenax-compatible profile section
+1306|Tenax milling dimensions
+1307|=
+1308|Tenax installation
+1309|Dimensions in mm · fixing screws M5 × 12
+1310|ADJUSTABLE WINDOW HINGE · 3-KNUCKLE
+1311|=
+1312|3-knuckle · with 2 hinges
+1313|VALIDUS · 3-KNUCKLE
+1314|80 kg with 2 hinges
+1315|Validus 3-knuckle
+1316|Compatible profile sections
+1317|Knuckles
+1318|Load
+1319|80 kg · 2 hinges
+1320|Knuckle length
+1321|=
+1322|Pin
+1323|304 stainless
+1324|COMPRESSION ADJUSTMENT
+1325|9.9 · 11.1 · 12.3 mm
+1326|Validus compression adjustment
+1327|Dimensions in mm · three-step compression via eccentric bushing
+1328|2-knuckle — Validus adjustable window hinge
+1329|ADJUSTABLE WINDOW HINGE · 2-KNUCKLE
+1330|2-knuckle · with 2 hinges
+1331|VALIDUS · 2-KNUCKLE
+1332|60 kg with 2 hinges
+1333|Validus 2-knuckle
+1334|60 kg · 2 hinges
+1335|WINDOW HINGE · 3-KNUCKLE
+1336|FORTIS · 3-KNUCKLE
+1337|100 kg with 2 hinges
+1338|Fortis window hinge 3-knuckle
+1339|Compatible profile section
