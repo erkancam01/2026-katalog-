@@ -1,0 +1,290 @@
+2120|p.109 · Section divider — Door locks
+2121|p.110 · Section opener — Door locks
+2122|p.93 · Carriage set 16 mm channel
+2123|p.94 · Carriage set 300 kg · 16/18/22 profile
+2124|p.95 · Carriage set 400 kg · 16/18/22 profile
+2125|p.90 · Carriage sets 30 mm channel
+2126|p.91 · Carriage set 42 mm channel
+2127|p.107 · Lift & slide — use and maintenance
+2128|p.101 · System equipment
+2129|p.106 · Lift & slide — machining dimensions
+2130|p.97 · Espagnolette and backset
+2131|p.100 · Installation details
+2132|p.96 · 16 mm channel assembly diagram
+2133|p.92 · 42 mm carriage assembly diagram
+2134|p.108 · Lift & slide — order list
+2135|p.118 · Twin-pin 3-point lock — assembly diagram
+2136|p.113 · Multipoint hook lock
+2137|p.117 · Hook-pin 3-point lock — assembly diagram
+2138|p.114 · Hook main lock
+2139|p.120 · Hook 3-point lock — assembly diagram
+2140|p.121 · Door locks — keepers and accessories
+2141|p.115 · Single-point lock set — assembly diagram
+2142|p.112 · Door locks — selection table
+2143|p.122 · Door locks — ordering information
+2144|p.111 · Door locks — system overview
+2145|p.116 · Rod-driven single-point lock — assembly diagram
+2146|p.119 · Rod-driven single-point lock — door profile
+2147|p.102 · Sliding handle
+2148|p.103 · Novus lift & slide handle
+2149|p.104 · Novus lift & slide handle — with sliding flush pull
+2150|p.105 · Novus lift & slide handle — with sliding flush pull (2)
+2151|p.123 · Notes
+2152|p.124 · Notes
+2153|p.125 · Notes
+2154|p.88 · Lift & slide — connecting bar selection
+2155|p.89 · Lift & slide — connecting bar 30 × 16
+2156|p.98 · Lift & slide — pin espagnolette and lock
+2157|p.99 · System equipment 2
+2158|Schemes · quick selection · connecting bar
+2159|Pin espagnolette and lock
+2160|ACCESSORIES
+2161|sash width
+2162|Connecting bar · 30 × 16
+2163|MAX. SASH WEIGHT · CARRIAGE SET
+2164|See p. 86 for opening schemes and hardware quantities per scheme.
+2165|VIEW FROM INSIDE · TRACK PLAN
+2166|Lift &amp; slide opening schemes, view from inside and track plan
+2167|2 SASHES
+2168|1 sliding
+2169|1 fixed
+2170|DIN LEFT
+2171|DIN RIGHT
+2172|4 SASHES
+2173|2 sliding
+2174|2 fixed
+2175|0 fixed
+2176|=
+2177|4 sliding
+2178|3 SASHES
+2179|3 sliding
+2180|=
+2181|Sliding sash · arrow: lift and slide direction
+2182|The number of locking points and connecting bars depends on sash size; see the tables on pp. 87–89 for selection.
+2183|Schemes are viewed from inside · state DIN left / right when ordering
+2184|MIN – MAX
+2185|=
+2186|=
+2187|=
+2188|=
+2189|=
+2190|=
+2191|=
+2192|=
+2193|=
+2194|Minimum sash width is 680 mm with the 30 mm channel and 750 mm with the 42 mm channel.
+2195|See pp. 88–89 for connecting bar selection.
+2196|GLASS WEIGHT CALCULATION
+2197|=
+2198|FORMULA
+2199|Glass weight (kg/m²) = total glass thickness (mm) × 2.5
+2200|Glass density 2500 kg/m³; 1 mm of glass = 2.5 kg/m². The cavity (air / argon) is not included.
+2201|Sash weight = sash area (m²) × glass weight (kg/m²) + profile and hardware weight.
+2202|GLASS BUILD-UP
+2203|TOTAL GLASS
+2204|WEIGHT
+2205|=
+2206|=
+2207|=
+2208|=
+2209|=
+2210|=
+2211|=
+2212|Lift &amp; slide connecting bar selection
+2213|BAR
+2214|42 × 22 mm CHANNEL
+2215|ALL CARRIAGE SETS
+2216|=
+2217|SASH W. MIN
+2218|SASH W. MAX
+2219|SIZE 1
+2220|=
+2221|=
+2222|SIZE 2
+2223|=
+2224|=
+2225|SIZE 3
+2226|=
+2227|=
+2228|SIZE 4
+2229|=
+2230|=
+2231|HOW TO SELECT
+2232|Select the bar from the table for your channel type according to sash width.
+2233|In the 30 × 22 mm channel, selection depends on the load capacity of the carriage set used (200 / 300 / 400 kg).
+2234|For sizes at the range limits, consult our technical support team.
+2235|30 × 22 mm CHANNEL
+2236|BY CARRIAGE SET
+2237|CARRIAGE SET · 200 KG
+2238|=
+2239|=
+2240|=
+2241|=
+2242|=
+2243|=
+2244|CARRIAGE SET · 300 KG
+2245|=
+2246|=
+2247|=
+2248|=
+2249|=
+2250|=
+2251|CARRIAGE SET · 400 KG
+2252|=
+2253|=
+2254|=
+2255|=
+2256|=
+2257|=
+2258|BAR LENGTHS
+2259|=
+2260|RANGE CHART
+2261|SASH WIDTH · mm
+2262|Bar length – sash width ranges
+2263|=
+2264|=
+2265|=
+2266|Bar length is selected by sash width · dimensions in mm
+2267|Lift &amp; slide connecting bar 30 × 16
+2268|MM CHANNEL
+2269|30 × 16 mm CHANNEL
+2270|=
+2271|=
+2272|=
+2273|=
+2274|=
+2275|=
+2276|=
+2277|=
+2278|=
+2279|=
+2280|=
+2281|=
+2282|Selection depends on the load capacity of the carriage set used (200 / 300 / 400 kg).
+2283|30 × 16 bar ranges
+2284|=
+2285|=
+2286|=
+2287|Carriage set p. 91 · espagnolette lengths p. 97 · installation details p. 100
+2288|Espagnolette lengths p. 97 · installation details p. 100
+2289|ESPAGNOLETTE&nbsp;
+2290|Pin espagnolette
+2291|PIN ESPAGNOLETTE
+2292|PIN ESPAGNOLETTE LENGTHS
+2293|Pin espagnolette lengths L 1800–3000 mm
+2294|=
+2295|=
+2296|=
+2297|=
+2298|=
+2299|=
+2300|The pin espagnolette length is selected according to sash height.
+2301|Keeper · lock keeper
+2302|Keeper · flat lock keeper
+2303|Flat keeper
+2304|Locking pin · single-stage
+2305|LOCKING PIN
+2306|Single-stage
+2307|Locking pin · two-stage
+2308|Two-stage
+2309|ACCESSORIES
+2310|PARTS
+2311|Locking keeper
+2312|LOCKING KEEPER
+2313|Locking keeper, two-stage
+2314|Plastic stopper
+2315|CARRIAGE SPACER
+2316|backset · centres
+2317|products · pp. 113–120
+2318|Bossy multipoint door locks consist of a main lock, additional locking points and frame keepers. All points work together on a single faceplate; they are operated by the handle and locked with the cylinder.
+2319|Handle-operated · cylinder locking
+2320|Hook, pin, mushroom and latch locking elements
+2321|handle height
+2322|Part numbers and heights
+2323|Element
+2324|latch · cylinder
+2325|hook / pin
+2326|frame
+2327|Locking point keeper
+2328|5 · 6 · keepers
+2329|1 · 2 · 3 · 4 · faceplate
+2330|drawings not to scale
+2331|Pins clamp into the keeper
+2332|MAIN LOCK · LATCH
+2333|Handle-operated · cylinder
+2334|Operates the mushroom points
+2335|products
+2336|PRODUCT SELECTION
+2337|3-point · hook + 2 pins
+2338|3-point · latch + hook + 2 pins
+2339|1-point · latch + bolt
+2340|1-point + mushroom · rod
+2341|3-point · hook + pin
+2342|3-point · hook
+2343|COMPARISON
+2344|D: backset · faceplate 22 mm U / flat on all products
+2345|Product
+2346|Points
+2347|Locking element
+2348|Drive
+2349|D · centres
+2350|Page
+2351|3-point locks · from bottom end of faceplate, mm
+2352|bottom hook
+2353|handle · main lock
+2354|top hook
+2355|Backset (D)
+2356|backset · centres, mm
+2357|Main lock + top and bottom hook locking points
+2358|Main lock and hook keepers on the frame side
+2359|DETAILS
+2360|4 · 5 · keepers
+2361|1 · 2 · 3 · faceplate
+2362|keeper types
+2363|KEEPER TYPES
+2364|frame side · drawings not to scale
+2365|3-point locks
+2366|hook 3-point
+2367|twin-pin locks
+2368|single-point lock set
+2369|qty / leaf
+2370|Used with
+2371|not in set / compatible parts
+2372|door handle with rose · p. 81
+2373|3 per rod-driven set
+2374|rod-driven · 6 – 8 pcs
+2375|Rod · corner drive
+2376|rod-driven sets
+2377|COMPATIBILITY
+2378|The keeper type is selected according to the locking element (hook, pin, mushroom) and the frame profile section; the cylinder length is selected according to door thickness.
+2379|Keepers can be ordered with the set or separately as spare parts.
+2380|SET CONTENTS
+2381|product code and packaging
+2382|Set contents
+2383|Packaging
+2384|Backset · centres
+2385|=
+2386|ORDER EXAMPLE
+2387|SAMPLE LINE
+2388|Hook 3-point lock · D 35 · centres 92 · U faceplate 22 · 2170 · DIN left · 10 sets
+2389|Specify the frame profile and colour / finish separately.
+2390|Standard
+2391|Class / result
+1373@KaldirLama|CONNECTING
+1373@KaldirLama16|CONNECTING
+1868@KaldirLama|BAR
+1868@KaldirLama16|BAR
+1717@KaldirSemalar|SASHES
+361@KaldirEkipman2|Standard keeper
+361@KilitKarsilik|Lock keeper
+2041@KilitSecim|1+mushroom
+348|State sash handing (DIN-L / DIN-R) when ordering.
+368|W, H: sash outer dimensions (mm). Max. sash weight 130 kg. Hinge set B, support screw and frame parts as in the 130 kg tilt &amp; turn set (p. 13).
+354|W, H: sash outer dimensions (mm). Max. sash weight 150 kg. Hinge set B, support screw and frame parts as in the 150 kg tilt &amp; turn set (p. 15).
+346|W, H: sash outer dimensions (mm). Max. sash weight 170 kg. Hinge set B, support screw and frame parts as in the 170 kg tilt &amp; turn set (p. 17).
+383|Perimeter locking: standard set plus add-on parts (17, 5).
+384|3 concealed pressure blocks (16) on the hinge side, evenly spaced.
+915|3 concealed pressure blocks (7) on the hinge side, evenly spaced.
+347|2 concealed pressure blocks (16) on the hinge side, evenly spaced between the hinges.
+911|2 concealed pressure blocks (7) on the hinge side, evenly spaced between the hinges.
+378|keepers: corner 2 · top 1 · bottom corner 1

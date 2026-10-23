@@ -6,14 +6,14 @@ Claude Design ile hazırlanan Bossy 2026 ürün kataloğunun yedeği.
 - `assets/` — sayfalarda kullanılan tüm görseller, orijinal çözünürlükte. Dosya adı, sayfalardaki `/_blob/<id>` referansıyla aynıdır.
 
 Sayfa sırası `project/canvas.json` içindeki `order` alanındadır.
-- `pdf/Bossy_Urun_Katalogu_2026.pdf` — tam katalog (123 sayfa: ön kapak, s.01–s.121, arka kapak), vektörel: yazılar, logolar ve teknik çizimler sınırsız büyütülebilir; fotoğraflar orijinal çözünürlükte.
+- `pdf/Bossy_Urun_Katalogu_2026.pdf` — tam katalog (127 sayfa: ön kapak, s.01–s.125, arka kapak), vektörel: yazılar, logolar ve teknik çizimler sınırsız büyütülebilir; fotoğraflar orijinal çözünürlükte.
 
 ## İngilizce katalog (`en/`)
 
 Türkçe kataloğun birebir kopyası; tasarım, yerleşim ve görseller aynı, sadece metinler teknik İngilizceye çevrildi.
 
 - `en/project/` — İngilizce sayfa kaynakları (`*.dc.html`) ve `canvas.json`. Görseller kök dizindeki `assets/` klasörünü kullanır (aynı `/_blob/<id>` adları).
-- `en/pdf/Bossy_Product_Catalog_2026_EN.pdf` — tam İngilizce katalog (123 sayfa: ön kapak, s.01–s.121, arka kapak), A4, vektörel; kontur yazılar vektör yola çevrildi (Type 3 font yok).
+- `en/pdf/Bossy_Product_Catalog_2026_EN.pdf` — tam İngilizce katalog (127 sayfa: ön kapak, s.01–s.125, arka kapak), A4, vektörel; kontur yazılar vektör yola çevrildi (Type 3 font yok).
 - `en/SOZLUK.md` — kullanılan teknik terim karşılıkları.
 - `en/ceviri/` — çeviri tabloları (`ordered.tsv` kaynak metinler, `t0*.txt` çeviriler, `numbers.json` sayı biçimi) ve `en_gorsel_degisiklikleri.json` (İngilizceye özel görseller: kapakta mor menteşe).
 

@@ -69,6 +69,14 @@
 | Kilit mesafesi | Backset |
 | Bağlantı laması / lama desteği | Connecting bar / bar support |
 | Stoper / dolgu kapağı | Stopper / filler cap |
+| Bağlantı laması 1.–4. boy | Connecting bar size 1–4 |
+| Pimli ispanyolet | Pin espagnolette |
+| Kilitleme pimi (tek / çift kademeli) | Locking pin (single-stage / two-stage) |
+| Kilitleme karşılığı | Locking keeper |
+| Araba besleme parçası | Carriage spacer |
+| Hareketli / sabit kanat | Sliding / fixed sash |
+| Ray planı | Track plan |
+| Cam kombinasyonu | Glass build-up |
 
 ## Kapı kilitleri
 
@@ -83,6 +91,8 @@
 | Tij / tij tahrikli | Rod / rod-driven |
 | Koldan kumandalı | Handle-operated |
 | Dornmaß · aks | Backset · centres |
+| Kol mesafesi (D) · aks | Backset (D) · centres |
+| Karşılık tipi | Keeper type |
 
 ## Teknik dokümantasyon
 

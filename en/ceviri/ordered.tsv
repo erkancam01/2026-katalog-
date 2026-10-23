@@ -2118,3 +2118,275 @@
 2117	KilitSiparis	EN 1627 · RC sınıfı
 2118	KilitSiparis	Ürünler CE ve TSE işaretlidir.
 2119	KilitSiparis	Test ve sertifika ayrıntıları için teknik destek birimimize danışınız.
+2120	canvas	s.109 · Bölüm ara sayfası — Kapı kilitleri
+2121	canvas	s.110 · Bölüm açılışı — Kapı kilitleri
+2122	canvas	s.93 · Araba seti 16 mm kanal
+2123	canvas	s.94 · Araba seti 300 kg · 16/18/22 profil
+2124	canvas	s.95 · Araba seti 400 kg · 16/18/22 profil
+2125	canvas	s.90 · Araba setleri 30 mm kanal
+2126	canvas	s.91 · Araba seti 42 mm kanal
+2127	canvas	s.107 · Kaldır-sür — kullanım ve bakım
+2128	canvas	s.101 · Sistem ekipmanları
+2129	canvas	s.106 · Kaldır-sür — i̇şleme ölçüleri
+2130	canvas	s.97 · İspanyolet ve kilit mesafesi
+2131	canvas	s.100 · Montaj detayları
+2132	canvas	s.96 · 16 mm kanal montaj şeması
+2133	canvas	s.92 · 42 mm araba montaj şeması
+2134	canvas	s.108 · Kaldır-sür — sipariş listesi
+2135	canvas	s.118 · Çift pimli 3 nokta kilit — montaj şeması
+2136	canvas	s.113 · Çok noktalı kancalı kilit
+2137	canvas	s.117 · Kanca pimli 3 nokta kilit — montaj şeması
+2138	canvas	s.114 · Kancalı ana kilit
+2139	canvas	s.120 · Kancalı 3 nokta kilit — montaj şeması
+2140	canvas	s.121 · Kapı kilitleri — karşılıklar ve aksesuar
+2141	canvas	s.115 · Tek nokta kilit seti — montaj şeması
+2142	canvas	s.112 · Kapı kilitleri — seçim tablosu
+2143	canvas	s.122 · Kapı kilitleri — sipariş bilgisi
+2144	canvas	s.111 · Kapı kilitleri — sistem tanıtımı
+2145	canvas	s.116 · Tij tahrikli tek nokta kilit — montaj şeması
+2146	canvas	s.119 · Tij tahrikli tek nokta kilit — kapı profili
+2147	canvas	s.102 · Sürme kolu
+2148	canvas	s.103 · Novus kaldır-sür kolu
+2149	canvas	s.104 · Novus kaldır-sür kolu — sürme havuz kolu ile
+2150	canvas	s.105 · Novus kaldır-sür kolu — sürme havuz kolu ile (2)
+2151	canvas	s.123 · Notlar
+2152	canvas	s.124 · Notlar
+2153	canvas	s.125 · Notlar
+2154	canvas	s.88 · Kaldır-sür — bağlantı laması seçimi
+2155	canvas	s.89 · Kaldır-sür — bağlantı laması 30 × 16
+2156	canvas	s.98 · Kaldır-sür — pimli ispanyolet ve kilit
+2157	canvas	s.99 · Sistem ekipmanları 2
+2158	Icindekiler	Şemalar · hızlı seçim · bağlantı laması
+2159	Icindekiler	Pimli ispanyolet ve kilit
+2160	CepheEkipman	AKSESUARLARI
+2161	BolumKaldir	kanat genişliği
+2162	BolumKaldir	Bağlantı laması · 30 × 16
+2163	KaldirSistem	MAKS. KANAT AĞIRLIĞI · ARABA SETİ
+2164	KaldirSistem	Açılım şemaları ve şemaya göre donanım adetleri için s. 86'ya bakınız.
+2165	KaldirSemalar	İÇERİDEN GÖRÜNÜŞ · RAY PLANI
+2166	KaldirSemalar	Kaldır-sür açılım şemaları, içeriden görünüş ve ray planı
+2167	KaldirSemalar	2 KANAT
+2168	KaldirSemalar	1 hareketli
+2169	KaldirSemalar	1 sabit
+2170	KaldirSemalar	DIN SOL
+2171	KaldirSemalar	DIN SAĞ
+2172	KaldirSemalar	4 KANAT
+2173	KaldirSemalar	2 hareketli
+2174	KaldirSemalar	2 sabit
+2175	KaldirSemalar	0 sabit
+2176	KaldirSemalar	F
+2177	KaldirSemalar	4 hareketli
+2178	KaldirSemalar	3 KANAT
+2179	KaldirSemalar	3 hareketli
+2180	KaldirSemalar	K
+2181	KaldirSemalar	Hareketli kanat · ok: kaldır ve sür yönü
+2182	KaldirSemalar	Kilitleme noktası ve bağlantı laması adetleri kanat ölçüsüne göre belirlenir; seçim için s. 87–89'daki tablolara bakınız.
+2183	KaldirSemalar	Şemalar içeriden görünüştür · DIN sol / sağ siparişte belirtilir
+2184	KaldirSecim	MİN – MAX
+2185	KaldirSecim	510 mm
+2186	KaldirSecim	880-1860 mm
+2187	KaldirSecim	1018 mm
+2188	KaldirSecim	1580-2160 mm
+2189	KaldirSecim	1880-2460 mm
+2190	KaldirSecim	2180-2760 mm
+2191	KaldirSecim	3000 mm
+2192	KaldirSecim	2780-3060 mm
+2193	KaldirSecim	680 / 750 – 3300 mm
+2194	KaldirSecim	Kanat genişliği alt sınırı 30 mm kanalda 680 mm, 42 mm kanalda 750 mm'dir.
+2195	KaldirSecim	Bağlantı laması seçimi için s. 88–89'a bakınız.
+2196	KaldirSecim	CAM AĞIRLIĞI HESABI
+2197	KaldirSecim	kg/m²
+2198	KaldirSecim	FORMÜL
+2199	KaldirSecim	Cam ağırlığı (kg/m²) = toplam cam kalınlığı (mm) × 2,5
+2200	KaldirSecim	Cam yoğunluğu 2500 kg/m³; 1 mm cam = 2,5 kg/m². Ara boşluk (hava / argon) hesaba katılmaz.
+2201	KaldirSecim	Kanat ağırlığı = kanat alanı (m²) × cam ağırlığı (kg/m²) + profil ve donanım ağırlığı.
+2202	KaldirSecim	CAM KOMBİNASYONU
+2203	KaldirSecim	TOPLAM CAM
+2204	KaldirSecim	AĞIRLIK
+2205	KaldirSecim	8 mm
+2206	KaldirSecim	20 kg/m²
+2207	KaldirSecim	12 mm
+2208	KaldirSecim	30 kg/m²
+2209	KaldirSecim	40 kg/m²
+2210	KaldirSecim	18 mm
+2211	KaldirSecim	45 kg/m²
+2212	KaldirLama	Kaldır-sür bağlantı laması seçimi
+2213	KaldirLama	LAMASI
+2214	KaldirLama	42 × 22 mm KANAL
+2215	KaldirLama	TÜM ARABA SETLERİ
+2216	KaldirLama	300 · 400 KG
+2217	KaldirLama	KANAT GEN. MİN
+2218	KaldirLama	KANAT GEN. MAX
+2219	KaldirLama	1.BOY
+2220	KaldirLama	750 mm
+2221	KaldirLama	1500 mm
+2222	KaldirLama	2.BOY
+2223	KaldirLama	1501 mm
+2224	KaldirLama	1930 mm
+2225	KaldirLama	3.BOY
+2226	KaldirLama	1931 mm
+2227	KaldirLama	2430 mm
+2228	KaldirLama	4.BOY
+2229	KaldirLama	2650 mm
+2230	KaldirLama	2431 mm
+2231	KaldirLama	NASIL SEÇİLİR
+2232	KaldirLama	Kanal tipine ait tabloda kanat genişliğine göre uygun lamayı seçiniz.
+2233	KaldirLama	30 × 22 mm kanalda seçim, kullanılan araba setinin taşıma kapasitesine (200 / 300 / 400 kg) göre yapılır.
+2234	KaldirLama	Aralık sınırındaki ölçülerde teknik destek birimimize danışınız.
+2235	KaldirLama	30 × 22 mm KANAL
+2236	KaldirLama	ARABA SETİNE GÖRE
+2237	KaldirLama	ARABA SETİ · 200 KG
+2238	KaldirLama	700 mm
+2239	KaldirLama	1390 mm
+2240	KaldirLama	1391 mm
+2241	KaldirLama	1890 mm
+2242	KaldirLama	1891 mm
+2243	KaldirLama	2390 mm
+2244	KaldirLama	ARABA SETİ · 300 KG
+2245	KaldirLama	730 mm
+2246	KaldirLama	1550 mm
+2247	KaldirLama	1551 mm
+2248	KaldirLama	2040 mm
+2249	KaldirLama	2041 mm
+2250	KaldirLama	2550 mm
+2251	KaldirLama	ARABA SETİ · 400 KG
+2252	KaldirLama	800 mm
+2253	KaldirLama	1620 mm
+2254	KaldirLama	1621 mm
+2255	KaldirLama	2120 mm
+2256	KaldirLama	2121 mm
+2257	KaldirLama	2620 mm
+2258	KaldirLama	LAMA BOYLARI
+2259	KaldirLama	2650 mm · 42 × 22
+2260	KaldirLama	ARALIK GRAFİĞİ
+2261	KaldirLama	KANAT GENİŞLİĞİ · mm
+2262	KaldirLama	Lama boyu – kanat genişliği aralıkları
+2263	KaldirLama	30 × 22 · 200 kg
+2264	KaldirLama	30 × 22 · 300 kg
+2265	KaldirLama	30 × 22 · 400 kg
+2266	KaldirLama	Lama boyu kanat genişliğine göre seçilir · ölçüler mm
+2267	KaldirLama16	Kaldır-sür bağlantı laması 30 × 16
+2268	KaldirLama16	MM KANAL
+2269	KaldirLama16	30 × 16 mm KANAL
+2270	KaldirLama16	1330 mm
+2271	KaldirLama16	1310 mm
+2272	KaldirLama16	1830 mm
+2273	KaldirLama16	1810 mm
+2274	KaldirLama16	2330 mm
+2275	KaldirLama16	1380 mm
+2276	KaldirLama16	1880 mm
+2277	KaldirLama16	1040 mm
+2278	KaldirLama16	1700 mm
+2279	KaldirLama16	1680 mm
+2280	KaldirLama16	2200 mm
+2281	KaldirLama16	2180 mm
+2282	KaldirLama16	Seçim, kullanılan araba setinin taşıma kapasitesine (200 / 300 / 400 kg) göre yapılır.
+2283	KaldirLama16	30 × 16 lama aralıkları
+2284	KaldirLama16	30 × 16 · 200 kg
+2285	KaldirLama16	30 × 16 · 300 kg
+2286	KaldirLama16	30 × 16 · 400 kg
+2287	KaldirMontaj42	Araba seti s. 91 · ispanyolet boyları s. 97 · montaj detayları s. 100
+2288	KaldirMontaj16	İspanyolet boyları s. 97 · montaj detayları s. 100
+2289	KaldirIspanyolet	İSPANYOLET&nbsp;
+2290	KaldirPimli	Pimli ispanyolet
+2291	KaldirPimli	PİMLİ İSPANYOLET
+2292	KaldirPimli	PİMLİ İSPANYOLET BOYLARI
+2293	KaldirPimli	Pimli ispanyolet boyları L 1800–3000 mm
+2294	KaldirPimli	L= 1800 mm
+2295	KaldirPimli	L= 2100 mm
+2296	KaldirPimli	L= 2400 mm
+2297	KaldirPimli	L= 2700 mm
+2298	KaldirPimli	L= 3000 mm
+2299	KaldirPimli	L 3000
+2300	KaldirPimli	Pimli ispanyolet boyu kanat yüksekliğine göre seçilir.
+2301	KaldirEkipman2	Karşilik · kilit karşılığı
+2302	KaldirEkipman2	Karşilik · düz kilit karşılığı
+2303	KaldirEkipman2	Düz kilit karşılığı
+2304	KaldirEkipman2	Ki̇li̇tleme pi̇mi̇ · tek kademeli
+2305	KaldirEkipman2	KİLİTLEME PİMİ
+2306	KaldirEkipman2	Tek kademeli
+2307	KaldirEkipman2	Ki̇li̇tleme pi̇mi̇ · çift kademeli
+2308	KaldirEkipman2	Çift kademeli
+2309	KaldirEkipman	AKSESUARLRI
+2310	KaldirEkipman	PARÇA
+2311	KaldirEkipman	Kilitleme karşılığı
+2312	KaldirEkipman	KİLİTLEME KARŞILIĞI
+2313	KaldirEkipman	Kilitleme karşılığı çift kademeli
+2314	KaldirEkipman	Plastik stoper
+2315	KaldirEkipman	ARABA BESLEME PARÇASI
+2316	BolumKilit	kol mesafesi · aks
+2317	KilitSistem	ürün · s. 113–120
+2318	KilitSistem	Bossy çok noktalı kapı kilitleri ana kilit, ek kilitleme noktaları ve kasa karşılıklarından oluşur. Tüm noktalar tek lama üzerinde birlikte çalışır; koldan kumanda edilir, barel ile kilitlenir.
+2319	KilitSistem	Koldan kumandalı · barel ile kilitleme
+2320	KilitSistem	Kanca, pim, mantar ve dil kilitleme elemanları
+2321	KilitSistem	kol yüksekliği
+2322	KilitSistem	Parça numaraları ve yükseklikler
+2323	KilitSistem	Eleman
+2324	KilitSistem	dil · barel
+2325	KilitSistem	kanca / pim
+2326	KilitSistem	kasa
+2327	KilitSistem	Kilitleme noktası karşılığı
+2328	KilitSistem	5 · 6 · karşılıklar
+2329	KilitSistem	1 · 2 · 3 · 4 · lama
+2330	KilitSistem	çizimler ölçeksizdir
+2331	KilitSistem	Pimler karşılıkta sıkıştırır
+2332	KilitSistem	ANA KİLİT · DİL
+2333	KilitSistem	Koldan kumandalı · barel
+2334	KilitSistem	Mantar noktaları çalıştırır
+2335	KilitSecim	ürün
+2336	KilitSecim	ÜRÜN SEÇİMİ
+2337	KilitSecim	3 nokta · kanca + 2 pim
+2338	KilitSecim	3 nokta · dil + kanca + 2 pim
+2339	KilitSecim	1 nokta · dil + sürgü
+2340	KilitSecim	1 nokta + mantar · tij
+2341	KilitSecim	3 nokta · kanca + pim
+2342	KilitSecim	3 nokta · kanca
+2343	KilitSecim	KARŞILAŞTIRMA
+2344	KilitSecim	D: kol mesafesi · lama tüm ürünlerde 22 mm U / düz
+2345	KilitSecim	Ürün
+2346	KilitSecim	Nokta
+2347	KilitSecim	Kilitleme elemanı
+2348	KilitSecim	Tahrik
+2349	KilitSecim	D · aks
+2350	KilitSecim	Sayfa
+2351	KilitSecim	3 noktalı kilitler · lama alt ucundan, mm
+2352	KilitSecim	alt kanca
+2353	KilitSecim	kol · ana kilit
+2354	KilitSecim	üst kanca
+2355	KilitCoklu	Kol mesafesi (D)
+2356	KilitKancali	kol mesafesi · aks, mm
+2357	KilitKancali3	Ana kilit + üst ve alt kancalı kilitleme noktası
+2358	KilitKancali3	Kasa tarafında ana kilit ve kanca karşılıkları
+2359	KilitKancali3	DETAYLAR
+2360	KilitKancali3	4 · 5 · karşılıklar
+2361	KilitKancali3	1 · 2 · 3 · lama
+2362	KilitKarsilik	karşılık tipi
+2363	KilitKarsilik	KARŞILIK TİPLERİ
+2364	KilitKarsilik	kasa tarafı · çizimler ölçeksizdir
+2365	KilitKarsilik	3 nokta kilitler
+2366	KilitKarsilik	kancalı 3 nokta
+2367	KilitKarsilik	çift pimli kilitler
+2368	KilitKarsilik	tek nokta kilit seti
+2369	KilitKarsilik	adet / kanat
+2370	KilitKarsilik	Kullanıldığı kilit
+2371	KilitKarsilik	set dışı / uyumlu parçalar
+2372	KilitKarsilik	rozetli kapı kolu · s. 81
+2373	KilitKarsilik	tij tahrikli setlerde 3 adet
+2374	KilitKarsilik	tij tahrikli · 6 – 8 adet
+2375	KilitKarsilik	Tij · köşe dönüş
+2376	KilitKarsilik	tij tahrikli setler
+2377	KilitKarsilik	UYUMLULUK
+2378	KilitKarsilik	Karşılık tipi kilitleme elemanına (kanca, pim, mantar) ve kasa profil kesitine göre seçilir; barel boyu kapı kalınlığına göre seçilir.
+2379	KilitKarsilik	Karşılıklar setle birlikte ya da ayrı yedek parça olarak sipariş edilebilir.
+2380	KilitSiparis	SET İÇERİKLERİ
+2381	KilitSiparis	ürün kodu ve ambalaj
+2382	KilitSiparis	Set içeriği
+2383	KilitSiparis	Ambalaj
+2384	KilitSiparis	Kol mesafesi · aks
+2385	KilitSiparis	35 · 92 mm
+2386	KilitSiparis	SİPARİŞ ÖRNEĞİ
+2387	KilitSiparis	ÖRNEK SATIR
+2388	KilitSiparis	Kancalı 3 nokta kilit · D 35 · aks 92 · U lama 22 · 2170 · DIN sol · 10 set
+2389	KilitSiparis	Kasa profilini ve renk / yüzeyi ayrıca belirtiniz.
+2390	KilitSiparis	Standart
+2391	KilitSiparis	Sınıf / sonuç
