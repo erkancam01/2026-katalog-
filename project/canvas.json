@@ -50,8 +50,8 @@
       "h": 1123,
       "title": "s.109 · Bölüm ara sayfası — Kapı kilitleri",
       "w": 794,
-      "x": 10642,
-      "y": 21168
+      "x": 0,
+      "y": 23814
     },
     "AraKol.dc.html": {
       "h": 1123,
@@ -64,8 +64,8 @@
       "h": 1123,
       "title": "Arka kapak",
       "w": 794,
-      "x": 24140,
-      "y": 21168
+      "x": 3496,
+      "y": 26460
     },
     "BolumAcilim.dc.html": {
       "h": 1123,
@@ -116,8 +116,8 @@
       "h": 1123,
       "title": "s.110 · Bölüm açılışı — Kapı kilitleri",
       "w": 794,
-      "x": 11436,
-      "y": 21168
+      "x": 2542,
+      "y": 23814
     },
     "BolumKol.dc.html": {
       "h": 1123,
@@ -177,72 +177,72 @@
     },
     "CiftAcilim100Cizim.dc.html": {
       "h": 1123,
-      "title": "s.11 · 100 kg — Montaj şeması",
-      "w": 794,
-      "x": 3496,
-      "y": 1323
-    },
-    "CiftAcilim100Veri.dc.html": {
-      "h": 1123,
-      "title": "s.12 · 100 kg — Teknik veriler",
+      "title": "s.12 · 100 kg — Montaj şeması",
       "w": 794,
       "x": 794,
       "y": 2646
     },
-    "CiftAcilim130Cizim.dc.html": {
+    "CiftAcilim100Veri.dc.html": {
       "h": 1123,
-      "title": "s.13 · 130 kg — Montaj şeması",
+      "title": "s.13 · 100 kg — Teknik veriler",
       "w": 794,
       "x": 0,
       "y": 2646
     },
-    "CiftAcilim130Veri.dc.html": {
+    "CiftAcilim130Cizim.dc.html": {
       "h": 1123,
-      "title": "s.14 · 130 kg — Teknik veriler",
+      "title": "s.14 · 130 kg — Montaj şeması",
       "w": 794,
       "x": 2542,
       "y": 2646
     },
-    "CiftAcilim150Cizim.dc.html": {
+    "CiftAcilim130Veri.dc.html": {
       "h": 1123,
-      "title": "s.15 · 150 kg — Montaj şeması",
+      "title": "s.15 · 130 kg — Teknik veriler",
       "w": 794,
       "x": 1748,
+      "y": 2646
+    },
+    "CiftAcilim150Cizim.dc.html": {
+      "h": 1123,
+      "title": "s.16 · 150 kg — Montaj şeması",
+      "w": 794,
+      "x": 4290,
       "y": 2646
     },
     "CiftAcilim150Veri.dc.html": {
       "h": 1123,
-      "title": "s.16 · 150 kg — Teknik veriler",
-      "w": 794,
-      "x": 4290,
-      "y": 2646
-    },
-    "CiftAcilim170Cizim.dc.html": {
-      "h": 1123,
-      "title": "s.17 · 170 kg — Montaj şeması",
+      "title": "s.17 · 150 kg — Teknik veriler",
       "w": 794,
       "x": 3496,
       "y": 2646
     },
-    "CiftAcilim170Veri.dc.html": {
+    "CiftAcilim170Cizim.dc.html": {
       "h": 1123,
-      "title": "s.18 · 170 kg — Teknik veriler",
+      "title": "s.18 · 170 kg — Montaj şeması",
       "w": 794,
       "x": 794,
       "y": 3969
     },
+    "CiftAcilim170Veri.dc.html": {
+      "h": 1123,
+      "title": "s.19 · 170 kg — Teknik veriler",
+      "w": 794,
+      "x": 0,
+      "y": 3969
+    },
     "CiftAcilim80Cizim.dc.html": {
       "h": 1123,
-      "title": "s.09 · 80 kg — Montaj şeması",
+      "title": "s.10 · 80 kg — Montaj şeması",
       "w": 794,
-      "x": 1748,
+      "x": 4290,
       "y": 1323
     },
     "CiftAcilim80Veri.dc.html": {
       "h": 1123,
-      "title": "s.10 · 80 kg — Teknik veriler",
+      "title": "s.11 · 80 kg — Teknik veriler",
       "w": 794,
-      "x": 4290,
+      "x": 3496,
       "y": 1323
     },
     "CiftAcilimBilesenler.dc.html": {
@@ -268,23 +268,23 @@
     },
     "CiftAcilimManivela.dc.html": {
       "h": 1123,
-      "title": "s.21 · Çift Açılım — Gizli manivela kolu seti",
+      "title": "s.09 · Çift Açılım — Gizli manivela kolu seti",
       "w": 794,
       "x": 1748,
-      "y": 3969
+      "y": 1323
     },
     "CiftAcilimPasif.dc.html": {
       "h": 1123,
-      "title": "s.19 · Çift Açılım — Pasif kanat açılım",
+      "title": "s.20 · Çift Açılım — Pasif kanat açılım",
       "w": 794,
-      "x": 20,
-      "y": 3983
+      "x": 2542,
+      "y": 3969
     },
     "CiftAcilimPasifVeri.dc.html": {
       "h": 1123,
-      "title": "s.20 · Çift Açılım — Pasif kanat teknik veriler",
+      "title": "s.21 · Çift Açılım — Pasif kanat teknik veriler",
       "w": 794,
-      "x": 2542,
+      "x": 1748,
       "y": 3969
     },
     "CiftAcilimTanitim.dc.html": {
@@ -338,24 +338,24 @@
     },
     "KaldirAraba16.dc.html": {
       "h": 1123,
-      "title": "s.93 · Araba seti 16 mm kanal",
-      "w": 794,
-      "x": 1748,
-      "y": 19845
-    },
-    "KaldirAraba16b.dc.html": {
-      "h": 1123,
-      "title": "s.94 · Araba seti 300 kg · 16/18/22 profil",
+      "title": "s.94 · Araba seti 16 mm kanal",
       "w": 794,
       "x": 4290,
       "y": 19845
     },
-    "KaldirAraba16c.dc.html": {
+    "KaldirAraba16b.dc.html": {
       "h": 1123,
-      "title": "s.95 · Araba seti 400 kg · 16/18/22 profil",
+      "title": "s.95 · Araba seti 300 kg · 16/18/22 profil",
       "w": 794,
       "x": 3496,
       "y": 19845
+    },
+    "KaldirAraba16c.dc.html": {
+      "h": 1123,
+      "title": "s.96 · Araba seti 400 kg · 16/18/22 profil",
+      "w": 794,
+      "x": 794,
+      "y": 21168
     },
     "KaldirAraba30.dc.html": {
       "h": 1123,
@@ -366,59 +366,87 @@
     },
     "KaldirAraba42.dc.html": {
       "h": 1123,
-      "title": "s.91 · Araba seti 42 mm kanal",
+      "title": "s.92 · Araba seti 42 mm kanal",
       "w": 794,
-      "x": 0,
+      "x": 2542,
       "y": 19845
     },
     "KaldirBakim.dc.html": {
       "h": 1123,
-      "title": "s.107 · Kaldır-sür — kullanım ve bakım",
+      "title": "s.108 · Kaldır-sür — kullanım ve bakım",
       "w": 794,
-      "x": 9054,
-      "y": 21168
+      "x": 794,
+      "y": 23814
     },
     "KaldirEkipman.dc.html": {
       "h": 1123,
-      "title": "s.101 · Sistem ekipmanları",
+      "title": "s.102 · Sistem ekipmanları",
+      "w": 794,
+      "x": 794,
+      "y": 22491
+    },
+    "KaldirEkipman2.dc.html": {
+      "h": 1123,
+      "title": "s.100 · Sistem ekipmanları 2",
       "w": 794,
       "x": 4290,
       "y": 21168
     },
     "KaldirIsleme.dc.html": {
       "h": 1123,
-      "title": "s.106 · Kaldır-sür — i̇şleme ölçüleri",
+      "title": "s.107 · Kaldır-sür — i̇şleme ölçüleri",
       "w": 794,
-      "x": 8260,
-      "y": 21168
+      "x": 3496,
+      "y": 22491
     },
     "KaldirIspanyolet.dc.html": {
       "h": 1123,
-      "title": "s.97 · İspanyolet ve kilit mesafesi",
+      "title": "s.98 · İspanyolet ve kilit mesafesi",
       "w": 794,
-      "x": 0,
+      "x": 2542,
       "y": 21168
+    },
+    "KaldirLama.dc.html": {
+      "h": 1123,
+      "title": "s.88 · Kaldır-sür — bağlantı laması seçimi",
+      "w": 794,
+      "x": 4290,
+      "y": 18522
+    },
+    "KaldirLama16.dc.html": {
+      "h": 1123,
+      "title": "s.89 · Kaldır-sür — bağlantı laması 30 × 16",
+      "w": 794,
+      "x": 3496,
+      "y": 18522
     },
     "KaldirMontaj.dc.html": {
       "h": 1123,
-      "title": "s.100 · Montaj detayları",
+      "title": "s.101 · Montaj detayları",
       "w": 794,
       "x": 3496,
       "y": 21168
     },
     "KaldirMontaj16.dc.html": {
       "h": 1123,
-      "title": "s.96 · 16 mm kanal montaj şeması",
+      "title": "s.97 · 16 mm kanal montaj şeması",
       "w": 794,
-      "x": 794,
+      "x": 0,
       "y": 21168
     },
     "KaldirMontaj42.dc.html": {
       "h": 1123,
-      "title": "s.92 · 42 mm araba montaj şeması",
+      "title": "s.93 · 42 mm araba montaj şeması",
       "w": 794,
-      "x": 2542,
+      "x": 1748,
       "y": 19845
+    },
+    "KaldirPimli.dc.html": {
+      "h": 1123,
+      "title": "s.99 · Kaldır-sür — pimli ispanyolet ve kilit",
+      "w": 794,
+      "x": 1748,
+      "y": 21168
     },
     "KaldirSecim.dc.html": {
       "h": 1123,
@@ -436,10 +464,11 @@
     },
     "KaldirSiparis.dc.html": {
       "h": 1123,
-      "title": "s.108 · Kaldır-sür — sipariş listesi",
+      "page": "arsiv",
+      "title": "Kaldır-sür — sipariş listesi (arşiv)",
       "w": 794,
-      "x": 9848,
-      "y": 21168
+      "x": 9614,
+      "y": 0
     },
     "KaldirSistem.dc.html": {
       "h": 1123,
@@ -488,89 +517,83 @@
       "x": 2622,
       "y": 0
     },
-    "KilitCiftPim.dc.html": {
+    "KilitCiftKanat.dc.html": {
       "h": 1123,
-      "title": "s.118 · Çift pimli 3 nokta kilit — montaj şeması",
+      "title": "s.118 · Kapı kilitleri — çift kanat kapı çözümü",
       "w": 794,
-      "x": 17788,
-      "y": 21168
+      "x": 4290,
+      "y": 25137
     },
     "KilitCoklu.dc.html": {
       "h": 1123,
-      "title": "s.113 · Çok noktalı kancalı kilit",
+      "title": "s.114 · Çok noktalı kancalı kilit",
       "w": 794,
-      "x": 13818,
-      "y": 21168
+      "x": 794,
+      "y": 25137
     },
     "KilitKancaPim.dc.html": {
       "h": 1123,
-      "title": "s.117 · Kanca pimli 3 nokta kilit — montaj şeması",
+      "title": "s.113 · Kanca pimli 3 nokta kilit — montaj şeması",
       "w": 794,
-      "x": 16994,
-      "y": 21168
+      "x": 3496,
+      "y": 23814
     },
     "KilitKancali.dc.html": {
       "h": 1123,
-      "title": "s.114 · Kancalı ana kilit",
+      "title": "s.112 · Kancalı ana kilit",
       "w": 794,
-      "x": 14612,
-      "y": 21168
-    },
-    "KilitKancali3.dc.html": {
-      "h": 1123,
-      "title": "s.120 · Kancalı 3 nokta kilit — montaj şeması",
-      "w": 794,
-      "x": 19376,
-      "y": 21168
+      "x": 4290,
+      "y": 23814
     },
     "KilitKarsilik.dc.html": {
       "h": 1123,
-      "title": "s.121 · Kapı kilitleri — karşılıklar ve aksesuar",
+      "title": "s.120 · Kapı kilitleri — karşılıklar ve aksesuar",
       "w": 794,
-      "x": 20170,
-      "y": 21168
+      "x": 794,
+      "y": 26460
     },
     "KilitMontaj.dc.html": {
       "h": 1123,
-      "title": "s.115 · Tek nokta kilit seti — montaj şeması",
+      "title": "s.117 · Tek nokta kilit seti — montaj şeması",
       "w": 794,
-      "x": 15406,
-      "y": 21168
+      "x": 1748,
+      "y": 25137
+    },
+    "KilitRender.dc.html": {
+      "h": 1123,
+      "title": "s.119 · Kapı kilitleri — render",
+      "w": 794,
+      "x": 3496,
+      "y": 25137
     },
     "KilitSecim.dc.html": {
       "h": 1123,
-      "title": "s.112 · Kapı kilitleri — seçim tablosu",
+      "page": "arsiv",
+      "title": "Kapı kilitleri — seçim tablosu (arşiv)",
       "w": 794,
-      "x": 13024,
-      "y": 21168
-    },
-    "KilitSiparis.dc.html": {
-      "h": 1123,
-      "title": "s.122 · Kapı kilitleri — sipariş bilgisi",
-      "w": 794,
-      "x": 20964,
-      "y": 21168
+      "x": 10488,
+      "y": 0
     },
     "KilitSistem.dc.html": {
       "h": 1123,
       "title": "s.111 · Kapı kilitleri — sistem tanıtımı",
       "w": 794,
-      "x": 12230,
-      "y": 21168
+      "x": 1748,
+      "y": 23814
     },
     "KilitTij.dc.html": {
       "h": 1123,
-      "title": "s.116 · Tij tahrikli tek nokta kilit — montaj şeması",
+      "title": "s.116 · Tij tahrikli çevre kilitleme — montaj şeması",
       "w": 794,
-      "x": 16200,
-      "y": 21168
+      "x": 2542,
+      "y": 25137
     },
     "KilitTij2.dc.html": {
       "h": 1123,
-      "title": "s.119 · Tij tahrikli tek nokta kilit — kapı profili",
+      "title": "s.115 · Tij tahrikli tek nokta kilit — kapı profili",
       "w": 794,
-      "x": 18582,
-      "y": 21168
+      "x": 0,
+      "y": 25137
     },
     "KolBezault.dc.html": {
       "h": 1123,
@@ -595,17 +618,17 @@
     },
     "KolGizliSurme.dc.html": {
       "h": 1123,
-      "title": "s.102 · Sürme kolu",
+      "title": "s.103 · Sürme kolu",
       "w": 794,
-      "x": 5084,
-      "y": 21168
+      "x": 0,
+      "y": 22491
     },
     "KolKaldirSur.dc.html": {
       "h": 1123,
-      "title": "s.103 · Novus kaldır-sür kolu",
+      "title": "s.104 · Novus kaldır-sür kolu",
       "w": 794,
-      "x": 5878,
-      "y": 21168
+      "x": 2542,
+      "y": 22491
     },
     "KolKaldirSur2.dc.html": {
       "h": 1123,
@@ -696,17 +719,17 @@
     },
     "KolYeni.dc.html": {
       "h": 1123,
-      "title": "s.104 · Novus kaldır-sür kolu — sürme havuz kolu ile",
+      "title": "s.105 · Novus kaldır-sür kolu — sürme havuz kolu ile",
       "w": 794,
-      "x": 6672,
-      "y": 21168
+      "x": 1748,
+      "y": 22491
     },
     "KolYeni2.dc.html": {
       "h": 1123,
-      "title": "s.105 · Novus kaldır-sür kolu — sürme havuz kolu ile (2)",
+      "title": "s.106 · Novus kaldır-sür kolu — sürme havuz kolu ile (2)",
       "w": 794,
-      "x": 7466,
-      "y": 21168
+      "x": 4290,
+      "y": 22491
     },
     "Main.dc.html": {
       "h": 1123,
@@ -759,24 +782,31 @@
     },
     "Notlar1.dc.html": {
       "h": 1123,
-      "title": "s.123 · Notlar",
+      "title": "s.121 · Notlar",
       "w": 794,
-      "x": 21758,
-      "y": 21168
+      "x": 0,
+      "y": 26460
     },
     "Notlar2.dc.html": {
       "h": 1123,
-      "title": "s.124 · Notlar",
+      "title": "s.122 · Notlar",
       "w": 794,
-      "x": 22552,
-      "y": 21168
+      "x": 2542,
+      "y": 26460
     },
     "Notlar3.dc.html": {
       "h": 1123,
-      "title": "s.125 · Notlar",
+      "title": "s.123 · Notlar",
       "w": 794,
-      "x": 23346,
-      "y": 21168
+      "x": 1748,
+      "y": 26460
+    },
+    "Notlar4.dc.html": {
+      "h": 1123,
+      "title": "s.124 · Notlar",
+      "w": 794,
+      "x": 4290,
+      "y": 26460
     },
     "ParalelMakas.dc.html": {
       "h": 1123,
@@ -911,10 +941,10 @@
     },
     "TekAcilim150Cevre.dc.html": {
       "h": 1123,
-      "title": "s.29 · Tek Açılım — 150 kg çevre kilitleme montaj şeması",
+      "title": "s.32 · Tek Açılım — 150 kg çevre kilitleme montaj şeması",
       "w": 794,
-      "x": 3496,
-      "y": 5292
+      "x": 2542,
+      "y": 6615
     },
     "TekAcilim150Standart.dc.html": {
       "h": 1123,
@@ -926,9 +956,9 @@
     },
     "TekAcilim150VeriCevre.dc.html": {
       "h": 1123,
-      "title": "s.34 · Tek Açılım — 150 kg çevre kilitleme teknik veriler",
+      "title": "s.33 · Tek Açılım — 150 kg çevre kilitleme teknik veriler",
       "w": 794,
-      "x": 4290,
+      "x": 1748,
       "y": 6615
     },
     "TekAcilim150VeriStandart.dc.html": {
@@ -941,9 +971,9 @@
     },
     "TekAcilim170Cevre.dc.html": {
       "h": 1123,
-      "title": "s.30 · Tek Açılım — 170 kg çevre kilitleme montaj şeması",
+      "title": "s.34 · Tek Açılım — 170 kg çevre kilitleme montaj şeması",
       "w": 794,
-      "x": 794,
+      "x": 4290,
       "y": 6615
     },
     "TekAcilim170Standart.dc.html": {
@@ -992,10 +1022,10 @@
     },
     "TekAcilimCevre.dc.html": {
       "h": 1123,
-      "title": "s.28 · Tek Açılım — Çevre kilitleme montaj şeması",
+      "title": "s.30 · Tek Açılım — Çevre kilitleme montaj şeması",
       "w": 794,
-      "x": 4290,
-      "y": 5292
+      "x": 794,
+      "y": 6615
     },
     "TekAcilimCizim.dc.html": {
       "h": 1123,
@@ -1013,59 +1043,38 @@
     },
     "TekAcilimStandart.dc.html": {
       "h": 1123,
-      "title": "s.27 · Tek Açılım — Standart set montaj şeması",
+      "title": "s.28 · Tek Açılım — Standart set montaj şeması",
       "w": 794,
-      "x": 1748,
+      "x": 4290,
       "y": 5292
     },
     "TekAcilimVeri.dc.html": {
       "h": 1123,
-      "title": "s.31 · Tek Açılım — Eco set teknik veriler",
+      "title": "s.27 · Tek Açılım — Eco set teknik veriler",
+      "w": 794,
+      "x": 1748,
+      "y": 5292
+    },
+    "TekAcilimVeriCevre.dc.html": {
+      "h": 1123,
+      "title": "s.31 · Tek Açılım — Çevre kilitleme teknik veriler",
       "w": 794,
       "x": 0,
       "y": 6615
     },
-    "TekAcilimVeriCevre.dc.html": {
-      "h": 1123,
-      "title": "s.33 · Tek Açılım — Çevre kilitleme teknik veriler",
-      "w": 794,
-      "x": 1748,
-      "y": 6615
-    },
     "TekAcilimVeriStandart.dc.html": {
       "h": 1123,
-      "title": "s.32 · Tek Açılım — Standart set teknik veriler",
-      "w": 794,
-      "x": 2542,
-      "y": 6615
-    },
-    "KaldirLama.dc.html": {
-      "h": 1123,
-      "title": "s.88 · Kaldır-sür — bağlantı laması seçimi",
-      "w": 794,
-      "x": 4290,
-      "y": 18522
-    },
-    "KaldirLama16.dc.html": {
-      "h": 1123,
-      "title": "s.89 · Kaldır-sür — bağlantı laması 30 × 16",
+      "title": "s.29 · Tek Açılım — Standart set teknik veriler",
       "w": 794,
       "x": 3496,
-      "y": 18522
+      "y": 5292
     },
-    "KaldirPimli.dc.html": {
+    "KaldirArkaAraba30.dc.html": {
       "h": 1123,
-      "title": "s.98 · Kaldır-sür — pimli ispanyolet ve kilit",
+      "title": "s.91 · Arka arabalar 30 mm kanal",
       "w": 794,
-      "x": 2542,
-      "y": 21168
-    },
-    "KaldirEkipman2.dc.html": {
-      "h": 1123,
-      "title": "s.99 · Sistem ekipmanları 2",
-      "w": 794,
-      "x": 1748,
-      "y": 21168
+      "x": 0,
+      "y": 19845
     }
   },
   "createdOnFiles": {
@@ -1128,6 +1137,8 @@
     "TekAcilim130VeriStandart.dc.html",
     "TekAcilim130VeriCevre.dc.html",
     "SecimGrafigi.dc.html",
+    "KaldirSiparis.dc.html",
+    "KilitSecim.dc.html",
     "Main.dc.html",
     "Icindekiler.dc.html",
     "Hakkinda.dc.html",
@@ -1137,6 +1148,7 @@
     "CiftAcilimBilesenler.dc.html",
     "CiftAcilimBilesenler2.dc.html",
     "CiftAcilimBilesenler3.dc.html",
+    "CiftAcilimManivela.dc.html",
     "CiftAcilim80Cizim.dc.html",
     "CiftAcilim80Veri.dc.html",
     "CiftAcilim100Cizim.dc.html",
@@ -1149,20 +1161,19 @@
     "CiftAcilim170Veri.dc.html",
     "CiftAcilimPasif.dc.html",
     "CiftAcilimPasifVeri.dc.html",
-    "CiftAcilimManivela.dc.html",
     "TekAcilimSecim.dc.html",
     "TekAcilimBilesenler.dc.html",
     "TekAcilimBilesenler2.dc.html",
     "TekAcilimBilesenler3.dc.html",
     "TekAcilimCizim.dc.html",
-    "TekAcilimStandart.dc.html",
-    "TekAcilimCevre.dc.html",
-    "TekAcilim150Cevre.dc.html",
-    "TekAcilim170Cevre.dc.html",
     "TekAcilimVeri.dc.html",
+    "TekAcilimStandart.dc.html",
     "TekAcilimVeriStandart.dc.html",
+    "TekAcilimCevre.dc.html",
     "TekAcilimVeriCevre.dc.html",
+    "TekAcilim150Cevre.dc.html",
     "TekAcilim150VeriCevre.dc.html",
+    "TekAcilim170Cevre.dc.html",
     "TekAcilim170VeriCevre.dc.html",
     "EmniyetKilidi.dc.html",
     "Aksesuar1.dc.html",
@@ -1219,6 +1230,7 @@
     "KaldirLama.dc.html",
     "KaldirLama16.dc.html",
     "KaldirAraba30.dc.html",
+    "KaldirArkaAraba30.dc.html",
     "KaldirAraba42.dc.html",
     "KaldirMontaj42.dc.html",
     "KaldirAraba16.dc.html",
@@ -1236,24 +1248,22 @@
     "KolYeni2.dc.html",
     "KaldirIsleme.dc.html",
     "KaldirBakim.dc.html",
-    "KaldirSiparis.dc.html",
     "AraKilit.dc.html",
     "BolumKilit.dc.html",
     "KilitSistem.dc.html",
-    "KilitSecim.dc.html",
-    "KilitCoklu.dc.html",
     "KilitKancali.dc.html",
-    "KilitMontaj.dc.html",
-    "KilitTij.dc.html",
     "KilitKancaPim.dc.html",
-    "KilitCiftPim.dc.html",
+    "KilitCoklu.dc.html",
     "KilitTij2.dc.html",
-    "KilitKancali3.dc.html",
+    "KilitTij.dc.html",
+    "KilitMontaj.dc.html",
+    "KilitCiftKanat.dc.html",
+    "KilitRender.dc.html",
     "KilitKarsilik.dc.html",
-    "KilitSiparis.dc.html",
     "Notlar1.dc.html",
     "Notlar2.dc.html",
     "Notlar3.dc.html",
+    "Notlar4.dc.html",
     "ArkaKapak.dc.html"
   ],
   "pages": [

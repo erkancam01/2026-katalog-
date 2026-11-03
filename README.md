@@ -1,31 +1,36 @@
 # Bossy Ürün Kataloğu 2026
 
-Claude Design ile hazırlanan Bossy 2026 ürün kataloğunun yedeği.
+Claude Design ile hazırlanan Bossy ürün kataloğunun (kapakta 2027) yedeği. Son güncelleme: **3 Kasım 2026**.
+
+Katalog **126 sayfa**: ön kapak, s.01–s.124, arka kapak (A4, 794 × 1123 px). Sayfa sırası `canvas.json` içindeki `order` alanındadır (sayfa grubu `katalog`, arka kapağa kadar); diğer gruplar (`kapak`, `bolum04`, `arsiv`) seçenek/arşiv sayfalarıdır.
+
+## Türkçe katalog
 
 - `project/` — her sayfanın kaynak dosyası (`*.dc.html`) ve sayfa düzeni (`canvas.json`)
-- `assets/` — sayfalarda kullanılan tüm görseller, orijinal çözünürlükte. Dosya adı, sayfalardaki `/_blob/<id>` referansıyla aynıdır.
-
-Sayfa sırası `project/canvas.json` içindeki `order` alanındadır.
-- `pdf/Bossy_Urun_Katalogu_2026.pdf` — tam katalog (127 sayfa: ön kapak, s.01–s.125, arka kapak), vektörel: yazılar, logolar ve teknik çizimler sınırsız büyütülebilir; fotoğraflar orijinal çözünürlükte.
+- `assets/` — sayfalarda kullanılan tüm görseller, orijinal çözünürlükte. Dosya adı, sayfalardaki `/_blob/<id>` referansıyla aynıdır (TR ve EN görselleri aynı klasörde).
+- `pdf/Bossy_Urun_Katalogu_2026.pdf` — tam katalog (126 sayfa), vektörel: yazılar, logolar ve teknik çizimler sınırsız büyütülebilir; fotoğraflar orijinal çözünürlükte; kontur yazılar vektör yola çevrildi.
+- `dijital/index.html` — **dijital katalog** (sayfa çevirmeli flipbook). İnternet gerektirmez: klasörü indirip `index.html` dosyasını tarayıcıda açmanız yeterli. Sayfalar vektördür (HTML/SVG), yazı tipleri `dijital/fonts/` altındadır.
 
 ## İngilizce katalog (`en/`)
 
-Türkçe kataloğun birebir kopyası; tasarım, yerleşim ve görseller aynı, sadece metinler teknik İngilizceye çevrildi.
+Türkçe kataloğun İngilizce sürümü; tasarım, yerleşim ve görseller aynı, metinler teknik İngilizce.
 
-- `en/project/` — İngilizce sayfa kaynakları (`*.dc.html`) ve `canvas.json`. Görseller kök dizindeki `assets/` klasörünü kullanır (aynı `/_blob/<id>` adları).
-- `en/pdf/Bossy_Product_Catalog_2026_EN.pdf` — tam İngilizce katalog (127 sayfa: ön kapak, s.01–s.125, arka kapak), A4, vektörel; kontur yazılar vektör yola çevrildi (Type 3 font yok).
-- `en/SOZLUK.md` — kullanılan teknik terim karşılıkları.
-- `en/ceviri/` — çeviri tabloları (`ordered.tsv` kaynak metinler, `t0*.txt` çeviriler, `numbers.json` sayı biçimi) ve `en_gorsel_degisiklikleri.json` (İngilizceye özel görseller: kapakta mor menteşe).
+- `en/project/` — İngilizce sayfa kaynakları (`*.dc.html`) ve `canvas.json`. İngilizce katalog kendi görsel kimliklerini (`/_blob/<id>`) kullanır; dosyalar yine kökteki `assets/` klasöründedir.
+- `en/pdf/Bossy_Product_Catalog_2026_EN.pdf` — tam İngilizce katalog (126 sayfa), A4, vektörel.
+- `en/dijital/index.html` — İngilizce dijital katalog (internetsiz çalışır). Sağ üstteki düğmeyle TR ⇄ EN geçilir.
+- `en/SOZLUK.md`, `en/ceviri/` — terim sözlüğü ve eski çeviri tabloları.
 
-### Türkçe katalog değişince İngilizceyi güncellemek
+## Yeniden üretmek
 
 ```bash
-# Çeviri + İngilizceye özel görseller (yeni metin varsa listeler, çevirip tNN.txt'ye ekleyin)
-python3 tools/sync_en.py project en/ceviri en/project
+# PDF (TR+EN) ve dijital kataloglar; Python 3 + Playwright (Chromium) + Pillow gerekir
+python3 tools/build_catalog.py
 
-# Türkçe kalan metin var mı
-python3 tools/catalog_i18n.py check en/project
-
-# PDF (sayfa başına; Playwright + opentype.js gerekir)
-node tools/render.js en/project assets cikti --pdf --outline
+# yalnızca bir dil / bir çıktı
+python3 tools/build_catalog.py tr pdf
+python3 tools/build_catalog.py en flip
 ```
+
+- `tools/build_catalog.py` — sayfaları `canvas.json` sırasıyla birleştirir, görselleri `assets/`, yazı tiplerini `tools/fonts/` klasöründen yerel olarak bağlar; PDF'i Chromium ile vektörel basar, dijital kataloğu `tools/flipbook_template.html` görüntüleyicisiyle oluşturur.
+- `tools/render.js` — tek tek sayfaları PNG/PDF olarak çizmek için (Node + Playwright + opentype.js).
+- `tools/sync_en.py`, `tools/catalog_i18n.py` — eski çeviri araçları.

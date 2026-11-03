@@ -1,0 +1,709 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Bossy Catalogue 2027</title>
+<meta name="description" content="Bossy product catalogue — digital catalogue">
+<style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style>
+<link rel="stylesheet" href="../../dijital/fonts/fonts.css">
+<style>
+/* Layout: dark workshop table; the open book (two live vector pages) centered on a stage that pans and zooms; toolbar below; thumbnail rail at the bottom */
+:root{
+  --bg:#16171a; --bg2:#1f2125; --line:#33363c; --fg:#e8e9eb; --mute:#9a9ea5;
+  --accent:#e1252b; --paper:#ffffff; --inside:#1b1c1f;
+  --display:Anton,"Arial Narrow",Impact,sans-serif;
+  --body:Montserrat,"Segoe UI",Helvetica,Arial,sans-serif;
+  color-scheme:dark;
+}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);display:flex;flex-direction:column;overflow:hidden;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:10px 6px}
+.brand{display:flex;align-items:baseline;gap:12px;min-width:0}
+.brand h1{margin:0;font-family:var(--display);font-weight:400;font-size:22px;letter-spacing:.02em;white-space:nowrap}
+.brand h1 b{color:var(--accent);font-weight:400}
+.brand span{font-size:11px;font-weight:600;letter-spacing:.2em;color:var(--mute);text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tools{display:flex;align-items:center;gap:6px;flex-wrap:wrap;justify-content:flex-end}
+.zoomgrp{display:flex;align-items:center;border:1px solid var(--line);border-radius:4px;overflow:hidden}
+.zoomgrp .btn{border:0;border-radius:0;min-width:36px}
+.zoomgrp .btn+.btn{border-left:1px solid var(--line)}
+#zlabel{min-width:52px;text-align:center;font:600 12px var(--body);font-variant-numeric:tabular-nums}
+
+.stage{flex:1;min-height:0;position:relative;overflow:hidden;background:var(--bg);border-radius:6px}
+.stage.grab{cursor:grab}.stage.grabbing{cursor:grabbing}.stage.zin{cursor:zoom-in}
+#book{position:absolute;left:0;top:0;width:1588px;height:1123px;transform-origin:0 0;will-change:transform}
+#book.anim{transition:transform .18s ease-out}
+.pg{position:absolute;top:0;left:0;width:794px;height:1123px;background:var(--paper);visibility:hidden;overflow:hidden;transform-origin:0 0;box-shadow:0 0 0 .5px rgba(0,0,0,.15)}
+.pg.on{visibility:visible}
+.pg.blank{background:var(--inside)}
+.pg.paper{background:#f3f2ee}
+.pg iframe{position:absolute;inset:0;width:794px;height:1123px;border:0;display:block;background:#fff;pointer-events:none}
+.pg .ld{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);font:600 14px var(--body);letter-spacing:.2em;color:#b8bbc0}
+.pg.has .ld{display:none}
+.pg .sh{position:absolute;inset:0;pointer-events:none;opacity:0;background:linear-gradient(90deg,rgba(0,0,0,.28),rgba(0,0,0,0) 22%)}
+.pg.R .sh{background:linear-gradient(270deg,rgba(0,0,0,0) 78%,rgba(0,0,0,0) 78%),linear-gradient(90deg,rgba(0,0,0,.28),rgba(0,0,0,0) 22%)}
+.pg.L .sh{background:linear-gradient(270deg,rgba(0,0,0,.28),rgba(0,0,0,0) 22%)}
+.pg.on .sh{opacity:1}
+.pg .fold{position:absolute;left:0;top:0;display:none;transform-origin:0 0;pointer-events:none}
+.pg .edge{position:absolute;inset:0;display:none;pointer-events:none;box-shadow:inset 0 0 16px rgba(0,0,0,.2),inset 0 0 2px rgba(0,0,0,.25)}
+.stage.grabzone{cursor:grab}
+.stage.flipping{cursor:grabbing}
+#spine{position:absolute;left:794px;top:0;width:1px;height:1123px;background:rgba(0,0,0,.25);visibility:hidden;z-index:5;pointer-events:none}
+#spine.on{visibility:visible}
+#hit{position:absolute;inset:0;touch-action:none;z-index:9}
+.nav{position:absolute;top:50%;transform:translateY(-50%);width:44px;height:72px;border:1px solid var(--line);background:rgba(31,33,37,.85);color:var(--fg);
+  font-size:22px;cursor:pointer;z-index:10;border-radius:4px;display:grid;place-items:center}
+.nav:hover{border-color:var(--accent)}
+.nav.prev{left:0}.nav.next{right:0}
+.nav:disabled{opacity:.3;cursor:default}
+.bar{display:flex;align-items:center;justify-content:center;gap:8px;padding-block:8px;flex-wrap:wrap}
+.btn{background:var(--bg2);border:1px solid var(--line);color:var(--fg);font:600 12px var(--body);letter-spacing:.06em;padding:8px 12px;border-radius:4px;cursor:pointer;line-height:1}
+.btn:hover{border-color:var(--accent)}
+.btn:disabled{opacity:.4;cursor:default}
+.btn:focus-visible,.nav:focus-visible,.thumb:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.count{font:400 18px var(--display);letter-spacing:.04em;min-width:120px;text-align:center;font-variant-numeric:tabular-nums}
+.count small{font:600 11px var(--body);color:var(--mute);letter-spacing:.1em}
+.jump{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--mute);letter-spacing:.1em;font-weight:600}
+.jump input{width:56px;background:var(--bg2);border:1px solid var(--line);color:var(--fg);font:600 13px var(--body);padding:7px 6px;border-radius:4px;text-align:center}
+.rail{display:flex;gap:8px;overflow-x:auto;padding-block:6px 12px;scrollbar-width:thin}
+.thumb{flex:0 0 auto;width:52px;border:2px solid transparent;background:none;padding:0;cursor:pointer;position:relative;border-radius:2px}
+.thumb img{width:100%;display:block;aspect-ratio:160/226;object-fit:cover;background:#2a2b2f}
+.thumb i{position:absolute;left:0;right:0;bottom:0;font:700 9px var(--body);font-style:normal;background:rgba(0,0,0,.7);color:#fff;text-align:center;padding:1px 0}
+.thumb.on{border-color:var(--accent)}
+.hint{font-size:11px;color:var(--mute);text-align:center}
+#toast{position:absolute;left:50%;bottom:12px;transform:translateX(-50%);z-index:11;font:600 11px var(--body);letter-spacing:.12em;color:var(--fg);background:rgba(31,33,37,.92);border:1px solid var(--line);padding:6px 10px;border-radius:4px;pointer-events:none;opacity:0;transition:opacity .25s}
+#toast.on{opacity:1}
+@media (max-width:700px){header{flex-wrap:wrap}.brand h1{font-size:18px}.nav{display:none}.brand span{display:none}.hint{display:none}.thumb{width:40px}#zlabel{min-width:44px}}
+@media (prefers-reduced-motion:reduce){#book.anim{transition:none}}
+</style>
+
+</head>
+<body>
+<header>
+  <div class="brand"><h1>BOSSY <b>CATALOGUE</b> 2027</h1><span>Digital catalogue · vector pages</span></div>
+  <div class="tools">
+    <div class="zoomgrp" role="group" aria-label="Zoom">
+      <button class="btn" id="zout" type="button" aria-label="Zoom out">−</button>
+      <button class="btn" id="z100" type="button" aria-label="100 percent"><span id="zlabel">100%</span></button>
+      <button class="btn" id="zin" type="button" aria-label="Zoom in">+</button>
+    </div>
+    <a class="btn" href="../../dijital/index.html" style="text-decoration:none">TÜRKÇE</a>
+    <button class="btn" id="fs" type="button">Full screen</button>
+  </div>
+</header>
+<div class="stage" id="stage">
+  <button class="nav prev" id="prev" type="button" aria-label="Previous page">‹</button>
+  <div id="book"><div id="spine"></div></div>
+  <div id="hit"></div>
+  <button class="nav next" id="next" type="button" aria-label="Next page">›</button>
+  <div id="toast"></div>
+</div>
+<div class="bar">
+  <button class="btn" id="first" type="button">Cover</button>
+  <button class="btn" id="prev2" type="button">‹ Back</button>
+  <div class="count" id="count">Cover</div>
+  <button class="btn" id="next2" type="button">Next ›</button>
+  <button class="btn" id="last" type="button">End</button>
+  <label class="jump" for="goto">PAGE <input id="goto" type="number" min="1" max="124" inputmode="numeric"></label>
+</div>
+<div class="hint">← → keys, scroll, or grab a page corner and curl it to turn · click a page to zoom 2× · Ctrl + wheel / pinch to zoom · drag to pan when zoomed · + − 0 keys</div>
+<div class="rail" id="rail"></div>
+
+<script>
+(function(){
+  'use strict';
+  const N = 126;                 // p000 ön kapak, p001..p124 = s.01..s.124, p125 arka kapak
+  const LAST = N - 1;
+  const PW = 794, PH = 1123, W = PW, H = PH;
+  const pad = n => String(n).padStart(3,'0');
+  const labelOf = i => i===0 ? 'Front cover' : i===LAST ? 'Back cover' : 's.' + String(i).padStart(2,'0');
+  const wait = ms => new Promise(r => setTimeout(r, ms));
+  const RM = !!(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches);
+
+  // ---- book model: spreads (two-page views) and singles (portrait) ----
+  // spread 0: [null, cover]; 1: [blank, s01]; sonra [s(2k), s(2k+1)] çiftleri; tek kalan son sayfa boş sayfayla; en sonda [arka kapak, null]
+  const spreads = [[null, 0], ['b', 1]];
+  for (let p = 2; p <= LAST - 1; p += 2) spreads.push(p + 1 <= LAST - 1 ? [p, p + 1] : [p, 'b']);
+  spreads.push([LAST, null]);
+  const spreadOfPage = {}; spreads.forEach((s,k)=>{ s.forEach(p=>{ if (typeof p === 'number') spreadOfPage[p] = k; }); });
+
+  const stage = document.getElementById('stage'), book = document.getElementById('book'), hit = document.getElementById('hit');
+  const spine = document.getElementById('spine');
+  let portrait = false;          // single-page mode
+  let view = 0;                  // current spread index (landscape) or page index (portrait)
+  const maxView = () => portrait ? LAST : spreads.length - 1;
+
+  // ---- page elements: one wrapper per page; iframes are created for nearby pages only ----
+  function mkPage(cls){
+    const d = document.createElement('div'); d.className = 'pg' + (cls ? ' ' + cls : '');
+    d.innerHTML = (cls ? '' : '<div class="ld">LOADING</div>') + '<div class="sh"></div><div class="edge"></div><div class="fold"></div>';
+    d._fold = d.lastChild; d._edge = d._fold.previousSibling; book.appendChild(d); return d;
+  }
+  const els = [];
+  for (let i = 0; i < N; i++) els.push(mkPage(''));
+  const blankL = mkPage('blank'), blankR = mkPage('blank'), paper = mkPage('paper');
+  const ALL = els.concat([blankL, blankR, paper]);
+
+  // load(i) resolves once the page document, its fonts and its images are ready to paint
+  function load(i){
+    const d = els[i];
+    if (d._fr) return d._ready;
+    const fr = document.createElement('iframe');
+    fr.setAttribute('title', labelOf(i)); fr.setAttribute('aria-hidden', 'true'); fr.setAttribute('tabindex', '-1');
+    d._fr = fr;
+    d._ready = new Promise(res => {
+      fr.addEventListener('load', async () => {
+        if (d._fr !== fr) return;
+        let doc = null; try { doc = fr.contentDocument; } catch (_) {}
+        if (doc && doc.URL === 'about:blank') return;           // the initial empty document, not the page
+        try { if (doc && doc.fonts) await doc.fonts.ready; } catch (_) {}
+        try { if (doc) await Promise.all([...doc.images].map(im => im.decode ? im.decode().catch(()=>{}) : 0)); } catch (_) {}
+        if (d._fr !== fr) return;
+        d.classList.add('has'); res();
+      });
+    });
+    d.insertBefore(fr, d.firstChild);
+    fr.src = 'pages/p' + pad(i) + '.html';   // göreli adres: internetsiz (file://) da çalışır
+    return d._ready;
+  }
+  function unload(i){ const d = els[i]; if (d._fr){ d._fr.remove(); d._fr = null; d._ready = null; d.classList.remove('has'); } }
+  function pagesOfView(v){ return portrait ? [v] : spreads[v].filter(p => typeof p === 'number'); }
+  function loadAround(v, keep){
+    const max = maxView(), near = new Set(), far = new Set(keep || []);
+    for (let j = Math.max(0, v-2); j <= Math.min(max, v+2); j++) pagesOfView(j).forEach(p => near.add(p));
+    for (let j = Math.max(0, v-6); j <= Math.min(max, v+6); j++) pagesOfView(j).forEach(p => far.add(p));
+    pagesOfView(v).forEach(load); near.forEach(load);
+    for (let i = 0; i < N; i++) if (!far.has(i) && !near.has(i)) unload(i);
+  }
+
+  // ---- placing pages ----
+  function clip(d, v){ d.style.clipPath = v; d.style.webkitClipPath = v; }   // -webkit- for older Safari
+  function resetEl(d){
+    d.classList.remove('on','L','R','leaf');
+    d.style.left = ''; d.style.transform = ''; d.style.zIndex = ''; clip(d, ''); d.style.visibility = '';
+    d._fold.style.display = 'none'; d._edge.style.display = 'none';
+  }
+  function clearPlacement(){ ALL.forEach(resetEl); }
+  function put(d, side, x, z){ d.classList.add('on', side); d.style.left = x + 'px'; d.style.zIndex = z; }
+  function slotEl(p, side){ if (p === null || p === undefined) return null; if (p === 'b') return side === 'L' ? blankL : blankR; return els[p]; }
+  function place(v){
+    clearPlacement();
+    if (portrait){
+      put(els[v], 'R', 397, 2); spine.classList.remove('on');
+      // neighbours stay rendered underneath the current page, so a turn never reveals an unpainted page
+      [v-1, v+1].forEach(j => { if (j >= 0 && j <= LAST && els[j]._fr) put(els[j], 'R', 397, 0); });
+      return;
+    }
+    const [l, r] = spreads[v];
+    const L = slotEl(l,'L'), R = slotEl(r,'R');
+    if (L) put(L, 'L', 0, 2);
+    if (R) put(R, 'R', PW, 2);
+    spine.classList.toggle('on', !!(L && R));
+    [v-1, v+1].forEach(j => {
+      if (j < 0 || j >= spreads.length) return;
+      const [a, b] = spreads[j];
+      if (L && typeof a === 'number' && els[a]._fr) put(els[a], 'L', 0, 0);
+      if (R && typeof b === 'number' && els[b]._fr) put(els[b], 'R', PW, 0);
+    });
+  }
+
+  // ---- geometry: fit, zoom, pan ----
+  let fit = 1, zoom = 1, tx = 0, ty = 0;   // book transform = translate(tx,ty) scale(fit*zoom)
+  const ZMIN = .5, ZMAX = 4;
+  function bookW(){ return portrait ? PW : 2*PW; }
+  function bookX0(){ return portrait ? 397 : 0; }   // left edge of visible book content inside #book
+  function stageSize(){ return { w: stage.clientWidth, h: stage.clientHeight }; }
+  function computeFit(){
+    const { w, h } = stageSize();
+    const side = window.innerWidth > 700 ? 56 : 8;
+    portrait = (w - 2*side) / h < 0.95;
+    fit = Math.min((w - 2*side) / bookW(), (h - 16) / PH);
+  }
+  function clampPan(){
+    const { w, h } = stageSize();
+    const S = fit * zoom, cw = bookW() * S, ch = PH * S;
+    const minX = cw > w ? w - cw : (w - cw)/2, maxX = cw > w ? 0 : (w - cw)/2;
+    const minY = ch > h ? h - ch : (h - ch)/2, maxY = ch > h ? 0 : (h - ch)/2;
+    tx = Math.min(maxX, Math.max(minX, tx)); ty = Math.min(maxY, Math.max(minY, ty));
+  }
+  function apply(animate){
+    clampPan();
+    book.classList.toggle('anim', !!animate);
+    const S = fit * zoom;
+    book.style.transform = 'translate(' + (tx - bookX0()*S) + 'px,' + ty + 'px) scale(' + S + ')';
+    document.getElementById('zlabel').textContent = Math.round(zoom*100) + '%';
+    stage.classList.toggle('grab', zoom > 1.001 && !panning);
+    stage.classList.toggle('zin', zoom <= 1.001);
+    document.getElementById('zin').disabled = zoom >= ZMAX - .001;
+    document.getElementById('zout').disabled = zoom <= ZMIN + .001;
+  }
+  function center(){ const { w, h } = stageSize(); const S = fit*zoom; tx = (w - bookW()*S)/2; ty = (h - PH*S)/2; }
+  function setZoom(z, cx, cy, animate){
+    z = Math.min(ZMAX, Math.max(ZMIN, z));
+    if (z > 1.001 && flip) cancelPeel();
+    const { w, h } = stageSize();
+    if (cx === undefined){ cx = w/2; cy = h/2; }
+    const S0 = fit*zoom, S1 = fit*z;
+    tx = cx - (cx - tx) * (S1/S0); ty = cy - (cy - ty) * (S1/S0);
+    zoom = z;
+    if (zoom <= 1.001){ zoom = 1; center(); }
+    apply(animate);
+  }
+  function toast(msg){ const t = document.getElementById('toast'); t.textContent = msg; t.classList.add('on'); clearTimeout(toast.t); toast.t = setTimeout(()=>t.classList.remove('on'), 1400); }
+
+  // ---- navigation UI ----
+  const count = document.getElementById('count');
+  const rail = document.getElementById('rail');
+  const thumbs = [];
+  function updateUI(){
+    const pages = pagesOfView(view);
+    const labs = pages.map(labelOf);
+    count.innerHTML = labs.length ? labs.join(' – ') + ' <small>/ 124</small>' : '&nbsp;';
+    thumbs.forEach(t => t.classList.remove('on'));
+    pages.forEach(p => thumbs[p].classList.add('on'));
+    const on = rail.querySelector('.thumb.on');
+    if (on){   // scroll only the rail (scrollIntoView would also scroll the page that hosts this one)
+      const left = on.offsetLeft - rail.offsetLeft - (rail.clientWidth - on.offsetWidth) / 2;
+      try { rail.scrollTo({ left, behavior: 'smooth' }); } catch (_) { rail.scrollLeft = left; }
+    }
+    const max = maxView();
+    document.getElementById('prev').disabled = document.getElementById('prev2').disabled = view <= 0;
+    document.getElementById('next').disabled = document.getElementById('next2').disabled = view >= max;
+  }
+  function show(v){ view = v; loadAround(v); place(v); updateUI(); }
+
+  // ================= page curl =================
+  // A turn folds one leaf along a straight line. Working in "leaf coordinates" (x from the spine outward,
+  // 0..W; y down, 0..H), the grabbed corner C moves to the point P; the fold line is the perpendicular
+  // bisector of C-P. The leaf's front face keeps the part on the spine side of the fold; the part beyond is
+  // folded over and shows the back face (the page on the other side of the sheet), reflected across the fold.
+  // Everything is 2D clip-paths and affine transforms, so no face ever depends on backface-visibility.
+  let flip = null;            // { mode: 'peel' | 'drag' | 'anim', fwd, from, to, F, B, U, St, S, C, P }
+  let busy = false;           // input lock while a turn (or the wait before it) is running
+  let pending = null;         // one queued target view, taken after the current turn
+  let turnTo = null;          // where the running (or about to run) programmatic turn goes
+  let deferRelayout = false;
+
+  const RECT = [{x:0,y:0},{x:W,y:0},{x:W,y:H},{x:0,y:H}];
+  const mir = p => ({ x: W - p.x, y: p.y }), mirV = v => ({ x: -v.x, y: v.y }), idP = p => p;
+  const mul = (A, B) => [A[0]*B[0] + A[2]*B[1], A[1]*B[0] + A[3]*B[1], A[0]*B[2] + A[2]*B[3], A[1]*B[2] + A[3]*B[3], A[0]*B[4] + A[2]*B[5] + A[4], A[1]*B[4] + A[3]*B[5] + A[5]];
+  const f6 = x => +x.toFixed(5);
+  const easeInOut = t => -(Math.cos(Math.PI * t) - 1) / 2;
+  const easeOut = t => 1 - Math.pow(1 - t, 3);
+
+  function clipHalf(poly, M, n, sign){        // keep the part where sign*((Q-M)·n) >= 0
+    const out = [];
+    for (let i = 0; i < poly.length; i++){
+      const A = poly[i], B = poly[(i+1) % poly.length];
+      const da = sign*((A.x-M.x)*n.x + (A.y-M.y)*n.y), db = sign*((B.x-M.x)*n.x + (B.y-M.y)*n.y);
+      if (da >= 0) out.push(A);
+      if ((da >= 0) !== (db >= 0)){ const t = da / (da - db); out.push({ x: A.x + (B.x-A.x)*t, y: A.y + (B.y-A.y)*t }); }
+    }
+    return out;
+  }
+  function clipLin(poly, a, b, c){            // keep the part where a*x + b*y + c >= 0
+    const out = [];
+    for (let i = 0; i < poly.length; i++){
+      const A = poly[i], B = poly[(i+1) % poly.length], da = a*A.x + b*A.y + c, db = a*B.x + b*B.y + c;
+      if (da >= 0) out.push(A);
+      if ((da >= 0) !== (db >= 0)){ const t = da / (da - db); out.push({ x: A.x + (B.x-A.x)*t, y: A.y + (B.y-A.y)*t }); }
+    }
+    return out;
+  }
+  const polyCss = (pts, map) => pts.length < 3 ? 'polygon(0 0,0 0,0 0)' :
+    'polygon(' + pts.map(p => { const q = map(p); return q.x.toFixed(2) + 'px ' + q.y.toFixed(2) + 'px'; }).join(',') + ')';
+
+  function facesFor(from, to){
+    const fwd = to > from;
+    if (portrait) return fwd ? { fwd, F: els[from], B: paper, U: els[to], St: null }
+                             : { fwd, F: paper, B: els[to], U: null, St: els[from] };
+    const [a, b] = spreads[from], [c, d] = spreads[to];
+    return fwd ? { fwd, F: slotEl(b,'R'), B: slotEl(c,'L'), U: slotEl(d,'R'), St: slotEl(a,'L') }
+               : { fwd, F: slotEl(a,'L'), B: slotEl(d,'R'), U: slotEl(c,'L'), St: slotEl(b,'R') };
+  }
+  const restOf = f => (portrait && !f.fwd) ? { x: 0, y: f.C.y } : { x: f.C.x, y: f.C.y };   // "not turned" tip position
+  const endOf  = f => ({ x: -W, y: f.C.y });                                                  // fully turned
+
+  function setupFlip(to, cy, mode){
+    const f = facesFor(view, to);
+    Object.assign(f, { from: view, to, mode, S: portrait ? 397 : PW, C: { x: W, y: cy } });
+    f.P = restOf(f);
+    loadAround(to, pagesOfView(view));
+    clearPlacement(); spine.classList.remove('on');
+    const near = f.fwd ? f.S : f.S - W, other = f.fwd ? f.S - W : f.S;
+    if (f.St) put(f.St, f.fwd ? 'L' : 'R', other, 1);
+    if (f.U) put(f.U, f.fwd ? 'R' : 'L', near, 1);
+    put(f.F, f.fwd ? 'R' : 'L', near, 3);
+    put(f.B, f.fwd ? 'L' : 'R', 0, 4);
+    f.F.classList.add('leaf'); f.B.classList.add('leaf');
+    if (portrait && !f.fwd) f.F.style.visibility = 'hidden';   // the sheet's other side is off the page here
+    flip = f; render(f);
+    return f;
+  }
+  function constrain(f, P){
+    // the sheet stays bound at the spine: the tip may not get farther from either spine end than the corner was
+    for (let k = 0; k < 3; k++){
+      for (const s of [{x:0, y:0}, {x:0, y:H}]){
+        const r = Math.hypot(f.C.x - s.x, f.C.y - s.y), dx = P.x - s.x, dy = P.y - s.y, d = Math.hypot(dx, dy);
+        if (d > r && d > 0) P = { x: s.x + dx*r/d, y: s.y + dy*r/d };
+      }
+    }
+    return P;
+  }
+  function strip(el, M, d, n, w, grad){
+    const s = el._fold, Ls = 2*(W + H);
+    s.style.display = 'block'; s.style.width = Ls + 'px'; s.style.height = Math.max(1, w).toFixed(1) + 'px';
+    s.style.transform = 'matrix(' + [d.x, d.y, n.x, n.y, M.x - d.x*Ls/2, M.y - d.y*Ls/2].map(f6).join(',') + ')';
+    s.style.background = grad;
+  }
+  function render(f){
+    const C = f.C, P = f.P = constrain(f, f.P);
+    const dx = C.x - P.x, dy = C.y - P.y, dist = Math.hypot(dx, dy);
+    const mapF = f.fwd ? idP : mir, mapU = f.fwd ? idP : mir, mapB = f.fwd ? mir : idP;
+    const vF = f.fwd ? (v => v) : mirV, vB = f.fwd ? mirV : (v => v);
+    if (dist < 0.5){
+      clip(f.F, ''); f.B.style.visibility = 'hidden'; f.B._edge.style.display = 'none';
+      f.B._fold.style.display = 'none'; if (f.U) f.U._fold.style.display = 'none';
+      return;
+    }
+    const n = { x: dx/dist, y: dy/dist }, M = { x: (C.x + P.x)/2, y: (C.y + P.y)/2 }, d = { x: -n.y, y: n.x };
+    const front = clipHalf(RECT, M, n, -1);
+    let flap = clipHalf(RECT, M, n, 1);
+    if (portrait){
+      // single-page view: the folded part is only drawn where it lands on the page, never in the margin beside it
+      const sg = f.fwd ? 1 : -1, mn = M.x*n.x + M.y*n.y;
+      flap = clipLin(flap, sg*(1 - 2*n.x*n.x), -sg*2*n.x*n.y, sg*2*n.x*mn);
+    }
+    clip(f.F, polyCss(front, mapF));
+    f.B.style.visibility = flap.length >= 3 ? '' : 'hidden';
+    clip(f.B, polyCss(flap, mapB));
+    // back face: its own coordinates -> leaf coordinates -> reflected across the fold -> book coordinates
+    const k = 2*(M.x*n.x + M.y*n.y);
+    let m = f.fwd ? [-1,0,0,1,W,0] : [1,0,0,1,0,0];
+    m = mul([1 - 2*n.x*n.x, -2*n.x*n.y, -2*n.x*n.y, 1 - 2*n.y*n.y, k*n.x, k*n.y], m);
+    m = mul(f.fwd ? [1,0,0,1,f.S,0] : [-1,0,0,1,f.S,0], m);
+    f.B.style.transform = 'matrix(' + m.map(f6).join(',') + ')';
+    // shading: the curl on the folded part, and the shadow it throws on the page underneath
+    const prog = Math.min(1, dist / (2*W));
+    const I = Math.min(1, 1.6 * Math.sin(Math.PI * prog));
+    const wb = Math.min(240, 36 + 0.3*dist), wu = Math.min(300, 30 + 0.42*dist);
+    strip(f.B, mapB(M), vB(d), vB(n), wb,
+      'linear-gradient(to bottom,rgba(0,0,0,' + (.30*I).toFixed(3) + ') 0%,rgba(255,255,255,' + (.16*I).toFixed(3) + ') 24%,rgba(255,255,255,0) 60%,rgba(0,0,0,' + (.05*I).toFixed(3) + ') 100%)');
+    f.B._edge.style.display = 'block'; f.B._edge.style.opacity = I.toFixed(3);   // soft rim on the folded part's free edges
+    if (f.U) strip(f.U, mapU(M), vF(d), vF(n), wu,
+      'linear-gradient(to bottom,rgba(0,0,0,' + (.42*I).toFixed(3) + ') 0%,rgba(0,0,0,' + (.12*I).toFixed(3) + ') 35%,rgba(0,0,0,0) 100%)');
+  }
+  function animateTo(f, P1, dur, ease, lift, done){
+    const P0 = { x: f.P.x, y: f.P.y };
+    const ctrl = { x: (P0.x + P1.x)/2, y: (P0.y + P1.y)/2 + (lift || 0) };
+    const tok = f.tok = (f.tok || 0) + 1, t0 = performance.now();
+    if (RM) dur = 1;
+    function step(){
+      if (flip !== f || f.tok !== tok) return;
+      const t = Math.max(0, Math.min(1, (performance.now() - t0) / dur)), e = ease(t), u = 1 - e;
+      f.P = { x: u*u*P0.x + 2*u*e*ctrl.x + e*e*P1.x, y: u*u*P0.y + 2*u*e*ctrl.y + e*e*P1.y };
+      render(f);
+      if (t < 1) requestAnimationFrame(step); else if (done) done();
+    }
+    requestAnimationFrame(step);
+  }
+  const liftFor = (f, amt) => f.C.y >= H - 1 ? -amt : f.C.y <= 1 ? amt : 0;   // corner arcs inward while turning
+  function durFor(f, quick){ const full = portrait ? 640 : 820; return quick ? full * 0.6 : full; }
+
+  function endFlip(completed){
+    const f = flip; if (!f) return;
+    flip = null; f.tok = -1; turnTo = null;
+    stage.classList.remove('flipping');
+    show(completed ? f.to : f.from);
+    busy = false;
+    if (deferRelayout){ deferRelayout = false; relayout(); }
+    if (pending !== null){ const t = pending; pending = null; if (t !== view) turn(t, { quick: true }); }
+  }
+  function cancelPeel(){ if (flip && flip.mode === 'peel'){ flip.tok = -1; flip = null; show(view); } }
+  function completeFrom(f, ease, quick){
+    f.mode = 'anim'; busy = true; stage.classList.add('flipping');
+    const P1 = endOf(f), frac = Math.min(1, Math.max(.15, (f.P.x - P1.x) / (2*W)));
+    animateTo(f, P1, durFor(f, quick) * (ease === easeOut ? .55 + .45*frac : 1), ease, liftFor(f, .35*H*frac), () => endFlip(true));
+  }
+
+  // programmatic turn (buttons, keys, wheel, thumbnails): waits until the pages involved are painted, then turns
+  async function turn(to, opts = {}){
+    const max = maxView();
+    if (to < 0 || to > max) return;
+    if (busy){ if (turnTo !== null && opts.queue) pending = to; return; }
+    if (flip && flip.mode === 'peel'){
+      if (flip.to === to){ turnTo = to; completeFrom(flip, easeInOut, opts.quick); return; }
+      cancelPeel();
+    }
+    if (to === view) return;
+    busy = true; turnTo = to;
+    if (zoom > 1.001){ zoom = 1; center(); apply(true); await wait(200); }
+    const fc = facesFor(view, to);
+    loadAround(to, pagesOfView(view));
+    const need = [fc.F, fc.B, fc.U, fc.St].filter(e => e && e._ready).map(e => e._ready);
+    let slow = setTimeout(() => toast('LOADING'), 350);
+    await Promise.race([Promise.all(need), wait(4000)]);
+    clearTimeout(slow);
+    const f = setupFlip(to, H, 'anim');
+    completeFrom(f, easeInOut, opts.quick);
+  }
+  function step(dir){
+    if (busy){
+      // one extra press during a turn is remembered (same direction only); key auto-repeat never queues
+      if (turnTo !== null && pending === null && Math.sign(turnTo - view) === dir){
+        const t = turnTo + dir; if (t >= 0 && t <= maxView()) pending = t;
+      }
+      return;
+    }
+    turn(view + dir);
+  }
+  const next = () => step(1), prev = () => step(-1);
+  function goPage(p){ const v = portrait ? p : spreadOfPage[p]; if (v === view && !busy) return; turn(v, { queue: true }); }
+
+  // ---- thumbnails ----
+  for (let i = 0; i < N; i++){
+    const b = document.createElement('button'); b.className = 'thumb'; b.type = 'button';
+    const lab = i === 0 ? 'Cover' : i === LAST ? 'Back' : String(i);
+    b.setAttribute('aria-label', i === 0 ? 'Front cover' : i === LAST ? 'Back cover' : 'Page ' + i);
+    b.innerHTML = '<img loading="lazy" alt="" src="thumbs/p' + pad(i) + '.webp"><i>' + lab + '</i>';
+    b.addEventListener('click', ()=> goPage(i));
+    rail.appendChild(b); thumbs.push(b);
+  }
+
+  // ---- layout / resize ----
+  function relayout(){
+    if (busy){ deferRelayout = true; return; }
+    cancelPeel();
+    const keepPage = pagesOfView(view)[0] ?? 0;
+    computeFit();
+    view = portrait ? keepPage : spreadOfPage[keepPage];
+    zoom = 1; center(); apply(false); show(view);
+  }
+  let rt; window.addEventListener('resize', ()=>{ clearTimeout(rt); rt = setTimeout(relayout, 120); });
+  relayout();
+
+  // ---- pointer: corner curl, swipe, tap-to-zoom, pan, pinch ----
+  function toBook(cx, cy){
+    const r = stage.getBoundingClientRect(), S = fit * zoom;
+    return { x: (cx - r.left - tx) / S + bookX0(), y: (cy - r.top - ty) / S };
+  }
+  // which leaf a point would grab: direction, corner, and whether it is in the corner / outer-edge zone
+  function zoneAt(bp){
+    if (zoom > 1.001 || bp.y < 0 || bp.y > H) return null;
+    const S = fit * zoom, cornerR = Math.min(130 / S, W * .36), edgeW = Math.max(W * .2, 72 / S);
+    let fwd, lx;
+    if (portrait){
+      const x = bp.x - 397; if (x < 0 || x > W) return null;
+      fwd = x >= W/2; lx = fwd ? x : -x;
+    } else {
+      if (bp.x < 0 || bp.x > 2*W) return null;
+      const [a, b] = spreads[view];
+      if (bp.x >= W){ if (b === null) return null; fwd = true; lx = bp.x - W; }
+      else { if (a === null) return null; fwd = false; lx = W - bp.x; }
+    }
+    const to = view + (fwd ? 1 : -1);
+    if (to < 0 || to > maxView()) return null;
+    const edgeDist = (portrait && !fwd) ? -lx : W - lx;       // distance from the edge you pull from
+    const vy = Math.min(bp.y, H - bp.y);
+    const corner = Math.hypot(edgeDist, vy) < cornerR;
+    const cy = corner ? (bp.y < H/2 ? 0 : H) : (bp.y < H*.3 ? 0 : bp.y > H*.7 ? H : bp.y);
+    return { fwd, to, cy, corner, edge: edgeDist < edgeW };
+  }
+  // pointer delta (screen px) -> leaf coordinates delta
+  function leafDelta(f, dxs, dys){ const S = fit * zoom; return { x: (f.fwd ? dxs : -dxs) / S, y: dys / S }; }
+
+  let ptr = null, pinch = null, panning = false;
+  const pts = new Map();
+  hit.addEventListener('pointerdown', e => {
+    if (e.button !== undefined && e.button > 0) return;
+    try { hit.setPointerCapture(e.pointerId); } catch (_) {}
+    pts.set(e.pointerId, { x: e.clientX, y: e.clientY });
+    if (pts.size === 2){
+      if (flip && flip.mode === 'drag') return;            // a second finger during a curl is ignored
+      cancelPeel();
+      const [p1, p2] = [...pts.values()];
+      pinch = { d: Math.hypot(p1.x-p2.x, p1.y-p2.y), z: zoom }; ptr = null; return;
+    }
+    if (pts.size > 2) return;
+    const now = performance.now();
+    ptr = { id: e.pointerId, x0: e.clientX, y0: e.clientY, t0: now, tx0: tx, ty0: ty, moved: false, mode: 'tap', samples: [{ t: now, x: e.clientX }] };
+    if (busy){ ptr.mode = 'none'; return; }
+    if (zoom > 1.001){ ptr.mode = 'pan'; panning = true; stage.classList.add('grabbing'); return; }
+    const z = zoneAt(toBook(e.clientX, e.clientY));
+    ptr.zone = z;
+    if (z && (z.corner || z.edge)){
+      // the outer edge / corner takes hold of the leaf right away; the tip then follows the pointer
+      let f = flip;
+      if (!(f && f.mode === 'peel' && f.to === z.to && (f.C.y === z.cy || !z.corner))){ cancelPeel(); f = setupFlip(z.to, z.cy, 'drag'); }
+      f.mode = 'drag'; f.tok = -1; busy = true;
+      ptr.mode = 'curl'; ptr.f = f; ptr.P0 = { x: f.P.x, y: f.P.y };
+      stage.classList.add('flipping');
+    } else cancelPeel();
+  });
+  hit.addEventListener('pointermove', e => {
+    if (!pts.has(e.pointerId)){ if (e.pointerType === 'mouse') hover(e); return; }
+    pts.set(e.pointerId, { x: e.clientX, y: e.clientY });
+    if (pinch && pts.size === 2){
+      const [p1, p2] = [...pts.values()];
+      const d = Math.hypot(p1.x-p2.x, p1.y-p2.y), r = stage.getBoundingClientRect();
+      setZoom(pinch.z * d / pinch.d, (p1.x+p2.x)/2 - r.left, (p1.y+p2.y)/2 - r.top, false);
+      return;
+    }
+    if (!ptr || ptr.id !== e.pointerId) return;
+    const now = performance.now();
+    ptr.samples.push({ t: now, x: e.clientX }); while (ptr.samples.length > 2 && now - ptr.samples[0].t > 120) ptr.samples.shift();
+    const dx = e.clientX - ptr.x0, dy = e.clientY - ptr.y0;
+    if (Math.abs(dx) > 4 || Math.abs(dy) > 4) ptr.moved = true;
+    if (ptr.mode === 'pan'){ tx = ptr.tx0 + dx; ty = ptr.ty0 + dy; apply(false); return; }
+    if (ptr.mode === 'curl'){
+      if (!ptr.moved) return;
+      const f = ptr.f, dl = leafDelta(f, dx, dy);
+      f.P = { x: ptr.P0.x + dl.x, y: ptr.P0.y + dl.y }; render(f); return;
+    }
+    if (ptr.mode === 'swipe'){
+      const f = ptr.f, dl = leafDelta(f, dx, dy), x = ptr.P0.x + 2.2*dl.x;
+      const prog = Math.min(1, Math.max(0, (f.C.x - x) / (2*W)));
+      f.P = { x, y: f.C.y + liftFor(f, .35*H) * Math.sin(Math.PI * prog) / 2 }; render(f); return;
+    }
+    if (ptr.mode === 'tap' && !busy && Math.abs(dx) > 8 && Math.abs(dx) > Math.abs(dy) * .8){
+      // a horizontal swipe anywhere on the page turns it too (leaf bends from the bottom corner)
+      const to = view + (dx < 0 ? 1 : -1);
+      if (to < 0 || to > maxView()){ ptr.mode = 'none'; return; }
+      cancelPeel();
+      const f = setupFlip(to, H, 'drag'); busy = true; stage.classList.add('flipping');
+      ptr.mode = 'swipe'; ptr.f = f; ptr.P0 = { x: f.P.x, y: f.P.y };
+      ptr.x0 = e.clientX - (dx < 0 ? -8 : 8);
+    }
+  });
+  function release(e, cancelled){
+    pts.delete(e.pointerId);
+    if (pinch){ if (pts.size < 2){ pinch = null; if (zoom <= 1.001) setZoom(1); } return; }
+    if (!ptr || ptr.id !== e.pointerId) return;
+    const p = ptr; ptr = null;
+    if (panning){ panning = false; stage.classList.remove('grabbing'); apply(false); }
+    const dt = performance.now() - p.t0;
+    if (p.mode === 'curl' || p.mode === 'swipe'){
+      const f = p.f;
+      if (flip !== f) return;
+      if (p.mode === 'curl' && !p.moved){
+        // a click on a corner turns the page; a click on the edge strip is a normal click
+        if (!cancelled && p.zone && p.zone.corner){ completeFrom(f, easeInOut); return; }
+        flip = null; f.tok = -1; stage.classList.remove('flipping'); show(view); busy = false;
+        if (!cancelled && dt < 400) tapZoom(e);
+        return;
+      }
+      const s = p.samples, a = s[0], b = s[s.length - 1];
+      const v = b.t > a.t ? (b.x - a.x) / (b.t - a.t) : 0;           // screen px per ms
+      const vLeaf = f.fwd ? v : -v;                                     // < 0 means "towards turning"
+      const thr = portrait ? (f.fwd ? W*.4 : -W*.4) : 0;      // single page: past ~60% of the page width; spread: past the spine
+      const done = !cancelled && (vLeaf < -.35 || (vLeaf <= .35 && f.P.x < thr));
+      if (done){ completeFrom(f, easeOut); return; }
+      const R = restOf(f), frac = Math.min(1, Math.hypot(f.P.x - R.x, f.P.y - R.y) / (2*W));
+      f.mode = 'anim';
+      animateTo(f, R, 160 + 420*frac, easeOut, 0, () => endFlip(false));
+      return;
+    }
+    if ((p.mode === 'tap' || p.mode === 'pan') && !p.moved && dt < 400 && !cancelled) tapZoom(e);
+  }
+  function tapZoom(e){
+    const r = stage.getBoundingClientRect();
+    if (zoom <= 1.001) setZoom(2, e.clientX - r.left, e.clientY - r.top, true);
+    else setZoom(1, undefined, undefined, true);
+  }
+  hit.addEventListener('pointerup', e => release(e, false));
+  hit.addEventListener('pointercancel', e => release(e, true));
+  hit.addEventListener('dblclick', e => e.preventDefault());
+
+  // hovering a page corner lifts it a little (peel), showing it can be pulled
+  function hover(e){
+    const z = (busy || zoom > 1.001) ? null : zoneAt(toBook(e.clientX, e.clientY));
+    stage.classList.toggle('grabzone', !!(z && (z.corner || z.edge)));
+    if (z && z.corner){
+      if (flip && flip.mode === 'peel' && (flip.to !== z.to || flip.C.y !== z.cy)) cancelPeel();
+      if (!flip){ setupFlip(z.to, z.cy, 'peel'); peelLoop(flip); }
+      if (flip && flip.mode === 'peel'){ const R = restOf(flip); flip.target = { x: R.x - 70, y: R.y + (z.cy === 0 ? 55 : -55) }; }
+    } else if (flip && flip.mode === 'peel') flip.target = restOf(flip);
+  }
+  function peelLoop(f){
+    f.target = restOf(f);
+    const tok = f.tok = (f.tok || 0) + 1;
+    let last = performance.now();
+    requestAnimationFrame(function tick(){
+      if (flip !== f || f.mode !== 'peel' || f.tok !== tok) return;
+      const now = performance.now(), k = 1 - Math.pow(.78, Math.min(100, now - last) / 16.7); last = now;   // frame-rate independent easing
+      const T = f.target;
+      f.P = { x: f.P.x + (T.x - f.P.x) * k, y: f.P.y + (T.y - f.P.y) * k };
+      const R = restOf(f);
+      if (T.x === R.x && T.y === R.y && Math.hypot(f.P.x - R.x, f.P.y - R.y) < 1.5){ cancelPeel(); return; }
+      render(f); requestAnimationFrame(tick);
+    });
+  }
+  hit.addEventListener('pointerleave', e => { if (e.pointerType === 'mouse' && flip && flip.mode === 'peel') flip.target = restOf(flip); stage.classList.remove('grabzone'); });
+
+  // wheel: one turn per scroll gesture (trackpad inertia keeps a gesture alive), Ctrl/⌘ + wheel zooms
+  let wheelLast = 0, wheelAcc = 0, wheelUsed = false, wheelPrev = 0;
+  hit.addEventListener('wheel', e => {
+    e.preventDefault();
+    const r = stage.getBoundingClientRect();
+    if (e.ctrlKey || e.metaKey){
+      const f = Math.exp(-e.deltaY * 0.0022);
+      setZoom(zoom * f, e.clientX - r.left, e.clientY - r.top, false);
+      return;
+    }
+    if (zoom > 1.001){ tx -= e.deltaX; ty -= e.deltaY; apply(false); return; }
+    const now = performance.now(), mag = Math.abs(e.deltaY) + Math.abs(e.deltaX), gap = now - wheelLast;
+    // a new gesture starts after a pause, unless the deltas are still decaying (trackpad inertia after a slow frame)
+    if (gap > 1000 || (gap > 280 && mag >= wheelPrev)){ wheelAcc = 0; wheelUsed = false; }
+    wheelLast = now; wheelPrev = mag;
+    if (wheelUsed || busy) { if (busy) wheelUsed = true; return; }
+    wheelAcc += (Math.abs(e.deltaY) >= Math.abs(e.deltaX) ? e.deltaY : e.deltaX) * (e.deltaMode === 1 ? 40 : 1);
+    if (Math.abs(wheelAcc) > 30){ wheelUsed = true; step(wheelAcc > 0 ? 1 : -1); }
+  }, { passive: false });
+
+  // ---- controls ----
+  document.getElementById('next').onclick = next; document.getElementById('next2').onclick = next;
+  document.getElementById('prev').onclick = prev; document.getElementById('prev2').onclick = prev;
+  document.getElementById('first').onclick = ()=> turn(0, { queue: true });
+  document.getElementById('last').onclick = ()=> turn(maxView(), { queue: true });
+  document.getElementById('zin').onclick = ()=> setZoom(zoom * 1.25, undefined, undefined, true);
+  document.getElementById('zout').onclick = ()=> setZoom(zoom / 1.25, undefined, undefined, true);
+  document.getElementById('z100').onclick = ()=> setZoom(1, undefined, undefined, true);
+  const gi = document.getElementById('goto');
+  gi.addEventListener('change', ()=>{ const n = parseInt(gi.value, 10); if (n >= 1 && n <= 124) goPage(n); });
+  gi.addEventListener('keydown', e => { if (e.key === 'Enter') gi.blur(); });
+
+  document.addEventListener('keydown', e => {
+    if (e.target === gi) return;
+    const k = e.key;
+    if (k === 'ArrowRight' || k === 'PageDown' || k === 'ArrowLeft' || k === 'PageUp'){
+      e.preventDefault();
+      if (e.repeat) return;                       // holding a key does not fire a burst of turns
+      (k === 'ArrowRight' || k === 'PageDown') ? next() : prev();
+    }
+    else if (k === 'Home'){ if (!e.repeat) turn(0, { queue: true }); }
+    else if (k === 'End'){ if (!e.repeat) turn(maxView(), { queue: true }); }
+    else if (k === '+' || k === '='){ e.preventDefault(); setZoom(zoom * 1.25, undefined, undefined, true); }
+    else if (k === '-' || k === '_'){ e.preventDefault(); setZoom(zoom / 1.25, undefined, undefined, true); }
+    else if (k === '0' || k === 'Escape'){ setZoom(1, undefined, undefined, true); }
+    else if (zoom > 1.001 && (k === 'ArrowUp' || k === 'ArrowDown')){ e.preventDefault(); ty += k === 'ArrowUp' ? 60 : -60; apply(true); }
+  });
+
+  const fs = document.getElementById('fs');
+  fs.addEventListener('click', ()=>{
+    try{
+      if (document.fullscreenElement) document.exitFullscreen();
+      else { const p = document.documentElement.requestFullscreen && document.documentElement.requestFullscreen(); p && p.catch && p.catch(()=>{ toast('FULL SCREEN UNAVAILABLE'); }); }
+    }catch(_){ toast('FULL SCREEN UNAVAILABLE'); }
+  });
+  document.addEventListener('fullscreenchange', ()=>{ fs.textContent = document.fullscreenElement ? 'Exit full screen' : 'Full screen'; setTimeout(relayout, 150); });
+
+  // test/debug hook (read-only)
+  window.__flipState = () => ({ view, portrait, busy, pending, mode: flip && flip.mode, fwd: flip && flip.fwd, P: flip && flip.P, C: flip && flip.C, S: flip && flip.S,
+    faces: flip && ['F','B','U','St'].reduce((o,k)=>{ const e = flip[k]; o[k] = e ? (e === blankL ? 'bL' : e === blankR ? 'bR' : e === paper ? 'paper' : els.indexOf(e)) : null; return o; }, {}),
+    scale: fit*zoom, tx: tx - bookX0()*fit*zoom, ty });
+})();
+
+</script>
+</body>
+</html>

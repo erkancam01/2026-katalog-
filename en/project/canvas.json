@@ -50,8 +50,8 @@
       "h": 1123,
       "title": "p.109 · Section divider — Door locks",
       "w": 794,
-      "x": 10642,
-      "y": 21168
+      "x": 0,
+      "y": 23814
     },
     "AraKol.dc.html": {
       "h": 1123,
@@ -64,8 +64,8 @@
       "h": 1123,
       "title": "Back cover",
       "w": 794,
-      "x": 24140,
-      "y": 21168
+      "x": 3496,
+      "y": 26460
     },
     "BolumAcilim.dc.html": {
       "h": 1123,
@@ -116,8 +116,8 @@
       "h": 1123,
       "title": "p.110 · Section opener — Door locks",
       "w": 794,
-      "x": 11436,
-      "y": 21168
+      "x": 2542,
+      "y": 23814
     },
     "BolumKol.dc.html": {
       "h": 1123,
@@ -177,72 +177,72 @@
     },
     "CiftAcilim100Cizim.dc.html": {
       "h": 1123,
-      "title": "p.11 · 100 kg — Assembly diagram",
-      "w": 794,
-      "x": 3496,
-      "y": 1323
-    },
-    "CiftAcilim100Veri.dc.html": {
-      "h": 1123,
-      "title": "p.12 · 100 kg — Technical data",
+      "title": "p.12 · 100 kg — Assembly diagram",
       "w": 794,
       "x": 794,
       "y": 2646
     },
-    "CiftAcilim130Cizim.dc.html": {
+    "CiftAcilim100Veri.dc.html": {
       "h": 1123,
-      "title": "p.13 · 130 kg — Assembly diagram",
+      "title": "p.13 · 100 kg — Technical data",
       "w": 794,
       "x": 0,
       "y": 2646
     },
-    "CiftAcilim130Veri.dc.html": {
+    "CiftAcilim130Cizim.dc.html": {
       "h": 1123,
-      "title": "p.14 · 130 kg — Technical data",
+      "title": "p.14 · 130 kg — Assembly diagram",
       "w": 794,
       "x": 2542,
       "y": 2646
     },
-    "CiftAcilim150Cizim.dc.html": {
+    "CiftAcilim130Veri.dc.html": {
       "h": 1123,
-      "title": "p.15 · 150 kg — Assembly diagram",
+      "title": "p.15 · 130 kg — Technical data",
       "w": 794,
       "x": 1748,
+      "y": 2646
+    },
+    "CiftAcilim150Cizim.dc.html": {
+      "h": 1123,
+      "title": "p.16 · 150 kg — Assembly diagram",
+      "w": 794,
+      "x": 4290,
       "y": 2646
     },
     "CiftAcilim150Veri.dc.html": {
       "h": 1123,
-      "title": "p.16 · 150 kg — Technical data",
-      "w": 794,
-      "x": 4290,
-      "y": 2646
-    },
-    "CiftAcilim170Cizim.dc.html": {
-      "h": 1123,
-      "title": "p.17 · 170 kg — Assembly diagram",
+      "title": "p.17 · 150 kg — Technical data",
       "w": 794,
       "x": 3496,
       "y": 2646
     },
-    "CiftAcilim170Veri.dc.html": {
+    "CiftAcilim170Cizim.dc.html": {
       "h": 1123,
-      "title": "p.18 · 170 kg — Technical data",
+      "title": "p.18 · 170 kg — Assembly diagram",
       "w": 794,
       "x": 794,
       "y": 3969
     },
+    "CiftAcilim170Veri.dc.html": {
+      "h": 1123,
+      "title": "p.19 · 170 kg — Technical data",
+      "w": 794,
+      "x": 0,
+      "y": 3969
+    },
     "CiftAcilim80Cizim.dc.html": {
       "h": 1123,
-      "title": "p.09 · 80 kg — Assembly diagram",
+      "title": "p.10 · 80 kg — Assembly diagram",
       "w": 794,
-      "x": 1748,
+      "x": 4290,
       "y": 1323
     },
     "CiftAcilim80Veri.dc.html": {
       "h": 1123,
-      "title": "p.10 · 80 kg — Technical data",
+      "title": "p.11 · 80 kg — Technical data",
       "w": 794,
-      "x": 4290,
+      "x": 3496,
       "y": 1323
     },
     "CiftAcilimBilesenler.dc.html": {
@@ -268,23 +268,23 @@
     },
     "CiftAcilimManivela.dc.html": {
       "h": 1123,
-      "title": "p.21 · Tilt & Turn — Concealed lever handle set",
+      "title": "p.09 · Tilt & Turn — Concealed lever handle set",
       "w": 794,
       "x": 1748,
-      "y": 3969
+      "y": 1323
     },
     "CiftAcilimPasif.dc.html": {
       "h": 1123,
-      "title": "p.19 · Tilt & Turn — Passive sash opening",
+      "title": "p.20 · Tilt & Turn — Passive sash opening",
       "w": 794,
-      "x": 20,
-      "y": 3983
+      "x": 2542,
+      "y": 3969
     },
     "CiftAcilimPasifVeri.dc.html": {
       "h": 1123,
-      "title": "p.20 · Tilt & Turn — Passive sash technical data",
+      "title": "p.21 · Tilt & Turn — Passive sash technical data",
       "w": 794,
-      "x": 2542,
+      "x": 1748,
       "y": 3969
     },
     "CiftAcilimTanitim.dc.html": {
@@ -338,24 +338,24 @@
     },
     "KaldirAraba16.dc.html": {
       "h": 1123,
-      "title": "p.93 · Carriage set 16 mm channel",
-      "w": 794,
-      "x": 1748,
-      "y": 19845
-    },
-    "KaldirAraba16b.dc.html": {
-      "h": 1123,
-      "title": "p.94 · Carriage set 300 kg · 16/18/22 profile",
+      "title": "p.94 · Carriage set 16 mm channel",
       "w": 794,
       "x": 4290,
       "y": 19845
     },
-    "KaldirAraba16c.dc.html": {
+    "KaldirAraba16b.dc.html": {
       "h": 1123,
-      "title": "p.95 · Carriage set 400 kg · 16/18/22 profile",
+      "title": "p.95 · Carriage set 300 kg · 16/18/22 profile",
       "w": 794,
       "x": 3496,
       "y": 19845
+    },
+    "KaldirAraba16c.dc.html": {
+      "h": 1123,
+      "title": "p.96 · Carriage set 400 kg · 16/18/22 profile",
+      "w": 794,
+      "x": 794,
+      "y": 21168
     },
     "KaldirAraba30.dc.html": {
       "h": 1123,
@@ -366,58 +366,58 @@
     },
     "KaldirAraba42.dc.html": {
       "h": 1123,
-      "title": "p.91 · Carriage set 42 mm channel",
+      "title": "p.92 · Carriage set 42 mm channel",
       "w": 794,
-      "x": 0,
+      "x": 2542,
       "y": 19845
     },
     "KaldirBakim.dc.html": {
       "h": 1123,
-      "title": "p.107 · Lift & slide — use and maintenance",
+      "title": "p.108 · Lift & slide — use and maintenance",
       "w": 794,
-      "x": 9054,
-      "y": 21168
+      "x": 794,
+      "y": 23814
     },
     "KaldirEkipman.dc.html": {
       "h": 1123,
-      "title": "p.101 · System equipment",
+      "title": "p.102 · System equipment",
       "w": 794,
-      "x": 4290,
-      "y": 21168
+      "x": 794,
+      "y": 22491
     },
     "KaldirIsleme.dc.html": {
       "h": 1123,
-      "title": "p.106 · Lift & slide — machining dimensions",
+      "title": "p.107 · Lift & slide — machining dimensions",
       "w": 794,
-      "x": 8260,
-      "y": 21168
+      "x": 3496,
+      "y": 22491
     },
     "KaldirIspanyolet.dc.html": {
       "h": 1123,
-      "title": "p.97 · Espagnolette and backset",
+      "title": "p.98 · Espagnolette and backset",
       "w": 794,
-      "x": 0,
+      "x": 2542,
       "y": 21168
     },
     "KaldirMontaj.dc.html": {
       "h": 1123,
-      "title": "p.100 · Installation details",
+      "title": "p.101 · Installation details",
       "w": 794,
       "x": 3496,
       "y": 21168
     },
     "KaldirMontaj16.dc.html": {
       "h": 1123,
-      "title": "p.96 · 16 mm channel assembly diagram",
+      "title": "p.97 · 16 mm channel assembly diagram",
       "w": 794,
-      "x": 794,
+      "x": 0,
       "y": 21168
     },
     "KaldirMontaj42.dc.html": {
       "h": 1123,
-      "title": "p.92 · 42 mm carriage assembly diagram",
+      "title": "p.93 · 42 mm carriage assembly diagram",
       "w": 794,
-      "x": 2542,
+      "x": 1748,
       "y": 19845
     },
     "KaldirSecim.dc.html": {
@@ -436,10 +436,11 @@
     },
     "KaldirSiparis.dc.html": {
       "h": 1123,
-      "title": "p.108 · Lift & slide — order list",
+      "title": "Lift & slide — order list (archive)",
       "w": 794,
-      "x": 9848,
-      "y": 21168
+      "x": 9614,
+      "y": 0,
+      "page": "arsiv"
     },
     "KaldirSistem.dc.html": {
       "h": 1123,
@@ -488,89 +489,69 @@
       "x": 2622,
       "y": 0
     },
-    "KilitCiftPim.dc.html": {
-      "h": 1123,
-      "title": "p.118 · Twin-pin 3-point lock — assembly diagram",
-      "w": 794,
-      "x": 17788,
-      "y": 21168
-    },
     "KilitCoklu.dc.html": {
       "h": 1123,
-      "title": "p.113 · Multipoint hook lock",
+      "title": "p.114 · Multipoint hook lock",
       "w": 794,
-      "x": 13818,
-      "y": 21168
+      "x": 794,
+      "y": 25137
     },
     "KilitKancaPim.dc.html": {
       "h": 1123,
-      "title": "p.117 · Hook-pin 3-point lock — assembly diagram",
+      "title": "p.113 · Hook-pin 3-point lock — assembly diagram",
       "w": 794,
-      "x": 16994,
-      "y": 21168
+      "x": 3496,
+      "y": 23814
     },
     "KilitKancali.dc.html": {
       "h": 1123,
-      "title": "p.114 · Hook main lock",
+      "title": "p.112 · Hook main lock",
       "w": 794,
-      "x": 14612,
-      "y": 21168
-    },
-    "KilitKancali3.dc.html": {
-      "h": 1123,
-      "title": "p.120 · Hook 3-point lock — assembly diagram",
-      "w": 794,
-      "x": 19376,
-      "y": 21168
+      "x": 4290,
+      "y": 23814
     },
     "KilitKarsilik.dc.html": {
       "h": 1123,
-      "title": "p.121 · Door locks — keepers and accessories",
+      "title": "p.120 · Door locks — keepers and accessories",
       "w": 794,
-      "x": 20170,
-      "y": 21168
+      "x": 794,
+      "y": 26460
     },
     "KilitMontaj.dc.html": {
       "h": 1123,
-      "title": "p.115 · Single-point lock set — assembly diagram",
+      "title": "p.117 · Single-point lock set — assembly diagram",
       "w": 794,
-      "x": 15406,
-      "y": 21168
+      "x": 1748,
+      "y": 25137
     },
     "KilitSecim.dc.html": {
       "h": 1123,
-      "title": "p.112 · Door locks — selection table",
+      "title": "Door locks — selection table (archive)",
       "w": 794,
-      "x": 13024,
-      "y": 21168
-    },
-    "KilitSiparis.dc.html": {
-      "h": 1123,
-      "title": "p.122 · Door locks — ordering information",
-      "w": 794,
-      "x": 20964,
-      "y": 21168
+      "x": 10488,
+      "y": 0,
+      "page": "arsiv"
     },
     "KilitSistem.dc.html": {
       "h": 1123,
       "title": "p.111 · Door locks — system overview",
       "w": 794,
-      "x": 12230,
-      "y": 21168
+      "x": 1748,
+      "y": 23814
     },
     "KilitTij.dc.html": {
       "h": 1123,
-      "title": "p.116 · Rod-driven single-point lock — assembly diagram",
+      "title": "p.116 · Rod-operated perimeter locking — assembly diagram",
       "w": 794,
-      "x": 16200,
-      "y": 21168
+      "x": 2542,
+      "y": 25137
     },
     "KilitTij2.dc.html": {
       "h": 1123,
-      "title": "p.119 · Rod-driven single-point lock — door profile",
+      "title": "p.115 · Standard-locking single-point lock — door profile",
       "w": 794,
-      "x": 18582,
-      "y": 21168
+      "x": 0,
+      "y": 25137
     },
     "KolBezault.dc.html": {
       "h": 1123,
@@ -595,17 +576,17 @@
     },
     "KolGizliSurme.dc.html": {
       "h": 1123,
-      "title": "p.102 · Sliding handle",
+      "title": "p.103 · Sliding handle",
       "w": 794,
-      "x": 5084,
-      "y": 21168
+      "x": 0,
+      "y": 22491
     },
     "KolKaldirSur.dc.html": {
       "h": 1123,
-      "title": "p.103 · Novus lift & slide handle",
+      "title": "p.104 · Novus lift & slide handle",
       "w": 794,
-      "x": 5878,
-      "y": 21168
+      "x": 2542,
+      "y": 22491
     },
     "KolKaldirSur2.dc.html": {
       "h": 1123,
@@ -696,17 +677,17 @@
     },
     "KolYeni.dc.html": {
       "h": 1123,
-      "title": "p.104 · Novus lift & slide handle — with sliding flush pull",
+      "title": "p.105 · Novus lift & slide handle — with sliding flush pull",
       "w": 794,
-      "x": 6672,
-      "y": 21168
+      "x": 1748,
+      "y": 22491
     },
     "KolYeni2.dc.html": {
       "h": 1123,
-      "title": "p.105 · Novus lift & slide handle — with sliding flush pull (2)",
+      "title": "p.106 · Novus lift & slide handle — with sliding flush pull (2)",
       "w": 794,
-      "x": 7466,
-      "y": 21168
+      "x": 4290,
+      "y": 22491
     },
     "Main.dc.html": {
       "h": 1123,
@@ -759,24 +740,31 @@
     },
     "Notlar1.dc.html": {
       "h": 1123,
-      "title": "p.123 · Notes",
+      "title": "p.121 · Notes",
       "w": 794,
-      "x": 21758,
-      "y": 21168
+      "x": 0,
+      "y": 26460
     },
     "Notlar2.dc.html": {
       "h": 1123,
-      "title": "p.124 · Notes",
+      "title": "p.122 · Notes",
       "w": 794,
-      "x": 22552,
-      "y": 21168
+      "x": 2542,
+      "y": 26460
     },
     "Notlar3.dc.html": {
       "h": 1123,
-      "title": "p.125 · Notes",
+      "title": "p.123 · Notes",
       "w": 794,
-      "x": 23346,
-      "y": 21168
+      "x": 1748,
+      "y": 26460
+    },
+    "Notlar4.dc.html": {
+      "h": 1123,
+      "title": "p.124 · Notes",
+      "w": 794,
+      "x": 4290,
+      "y": 26460
     },
     "ParalelMakas.dc.html": {
       "h": 1123,
@@ -911,10 +899,10 @@
     },
     "TekAcilim150Cevre.dc.html": {
       "h": 1123,
-      "title": "p.29 · Turn-Only — 150 kg perimeter locking assembly diagram",
+      "title": "p.32 · Turn-Only — 150 kg perimeter locking assembly diagram",
       "w": 794,
-      "x": 3496,
-      "y": 5292
+      "x": 2542,
+      "y": 6615
     },
     "TekAcilim150Standart.dc.html": {
       "h": 1123,
@@ -926,9 +914,9 @@
     },
     "TekAcilim150VeriCevre.dc.html": {
       "h": 1123,
-      "title": "p.34 · Turn-Only — 150 kg perimeter locking technical data",
+      "title": "p.33 · Turn-Only — 150 kg perimeter locking technical data",
       "w": 794,
-      "x": 4290,
+      "x": 1748,
       "y": 6615
     },
     "TekAcilim150VeriStandart.dc.html": {
@@ -941,9 +929,9 @@
     },
     "TekAcilim170Cevre.dc.html": {
       "h": 1123,
-      "title": "p.30 · Turn-Only — 170 kg perimeter locking assembly diagram",
+      "title": "p.34 · Turn-Only — 170 kg perimeter locking assembly diagram",
       "w": 794,
-      "x": 794,
+      "x": 4290,
       "y": 6615
     },
     "TekAcilim170Standart.dc.html": {
@@ -992,10 +980,10 @@
     },
     "TekAcilimCevre.dc.html": {
       "h": 1123,
-      "title": "p.28 · Turn-Only — Perimeter locking assembly diagram",
+      "title": "p.30 · Turn-Only — Perimeter locking assembly diagram",
       "w": 794,
-      "x": 4290,
-      "y": 5292
+      "x": 794,
+      "y": 6615
     },
     "TekAcilimCizim.dc.html": {
       "h": 1123,
@@ -1013,31 +1001,31 @@
     },
     "TekAcilimStandart.dc.html": {
       "h": 1123,
-      "title": "p.27 · Turn-Only — Standard set assembly diagram",
+      "title": "p.28 · Turn-Only — Standard set assembly diagram",
       "w": 794,
-      "x": 1748,
+      "x": 4290,
       "y": 5292
     },
     "TekAcilimVeri.dc.html": {
       "h": 1123,
-      "title": "p.31 · Turn-Only — Eco set technical data",
+      "title": "p.27 · Turn-Only — Eco set technical data",
+      "w": 794,
+      "x": 1748,
+      "y": 5292
+    },
+    "TekAcilimVeriCevre.dc.html": {
+      "h": 1123,
+      "title": "p.31 · Turn-Only — Perimeter locking technical data",
       "w": 794,
       "x": 0,
       "y": 6615
     },
-    "TekAcilimVeriCevre.dc.html": {
-      "h": 1123,
-      "title": "p.33 · Turn-Only — Perimeter locking technical data",
-      "w": 794,
-      "x": 1748,
-      "y": 6615
-    },
     "TekAcilimVeriStandart.dc.html": {
       "h": 1123,
-      "title": "p.32 · Turn-Only — Standard set technical data",
+      "title": "p.29 · Turn-Only — Standard set technical data",
       "w": 794,
-      "x": 2542,
-      "y": 6615
+      "x": 3496,
+      "y": 5292
     },
     "KaldirLama.dc.html": {
       "h": 1123,
@@ -1055,17 +1043,38 @@
     },
     "KaldirPimli.dc.html": {
       "h": 1123,
-      "title": "p.98 · Lift & slide — pin espagnolette and lock",
+      "title": "p.99 · Lift & slide — pin espagnolette and lock",
       "w": 794,
-      "x": 2542,
+      "x": 1748,
       "y": 21168
     },
     "KaldirEkipman2.dc.html": {
       "h": 1123,
-      "title": "p.99 · System equipment 2",
+      "title": "p.100 · System equipment 2",
       "w": 794,
-      "x": 1748,
+      "x": 4290,
       "y": 21168
+    },
+    "KilitCiftKanat.dc.html": {
+      "h": 1123,
+      "title": "p.118 · Door locks — double-leaf door solution",
+      "w": 794,
+      "x": 4290,
+      "y": 25137
+    },
+    "KilitRender.dc.html": {
+      "h": 1123,
+      "title": "p.119 · Door locks — render",
+      "w": 794,
+      "x": 3496,
+      "y": 25137
+    },
+    "KaldirArkaAraba30.dc.html": {
+      "h": 1123,
+      "title": "p.91 · Rear bogies 30 mm channel",
+      "w": 794,
+      "x": 0,
+      "y": 19845
     }
   },
   "createdOnFiles": {
@@ -1137,6 +1146,7 @@
     "CiftAcilimBilesenler.dc.html",
     "CiftAcilimBilesenler2.dc.html",
     "CiftAcilimBilesenler3.dc.html",
+    "CiftAcilimManivela.dc.html",
     "CiftAcilim80Cizim.dc.html",
     "CiftAcilim80Veri.dc.html",
     "CiftAcilim100Cizim.dc.html",
@@ -1149,20 +1159,19 @@
     "CiftAcilim170Veri.dc.html",
     "CiftAcilimPasif.dc.html",
     "CiftAcilimPasifVeri.dc.html",
-    "CiftAcilimManivela.dc.html",
     "TekAcilimSecim.dc.html",
     "TekAcilimBilesenler.dc.html",
     "TekAcilimBilesenler2.dc.html",
     "TekAcilimBilesenler3.dc.html",
     "TekAcilimCizim.dc.html",
-    "TekAcilimStandart.dc.html",
-    "TekAcilimCevre.dc.html",
-    "TekAcilim150Cevre.dc.html",
-    "TekAcilim170Cevre.dc.html",
     "TekAcilimVeri.dc.html",
+    "TekAcilimStandart.dc.html",
     "TekAcilimVeriStandart.dc.html",
+    "TekAcilimCevre.dc.html",
     "TekAcilimVeriCevre.dc.html",
+    "TekAcilim150Cevre.dc.html",
     "TekAcilim150VeriCevre.dc.html",
+    "TekAcilim170Cevre.dc.html",
     "TekAcilim170VeriCevre.dc.html",
     "EmniyetKilidi.dc.html",
     "Aksesuar1.dc.html",
@@ -1219,6 +1228,7 @@
     "KaldirLama.dc.html",
     "KaldirLama16.dc.html",
     "KaldirAraba30.dc.html",
+    "KaldirArkaAraba30.dc.html",
     "KaldirAraba42.dc.html",
     "KaldirMontaj42.dc.html",
     "KaldirAraba16.dc.html",
@@ -1236,25 +1246,25 @@
     "KolYeni2.dc.html",
     "KaldirIsleme.dc.html",
     "KaldirBakim.dc.html",
-    "KaldirSiparis.dc.html",
     "AraKilit.dc.html",
     "BolumKilit.dc.html",
     "KilitSistem.dc.html",
-    "KilitSecim.dc.html",
-    "KilitCoklu.dc.html",
     "KilitKancali.dc.html",
-    "KilitMontaj.dc.html",
-    "KilitTij.dc.html",
     "KilitKancaPim.dc.html",
-    "KilitCiftPim.dc.html",
+    "KilitCoklu.dc.html",
     "KilitTij2.dc.html",
-    "KilitKancali3.dc.html",
+    "KilitTij.dc.html",
+    "KilitMontaj.dc.html",
+    "KilitCiftKanat.dc.html",
+    "KilitRender.dc.html",
     "KilitKarsilik.dc.html",
-    "KilitSiparis.dc.html",
     "Notlar1.dc.html",
     "Notlar2.dc.html",
     "Notlar3.dc.html",
-    "ArkaKapak.dc.html"
+    "Notlar4.dc.html",
+    "ArkaKapak.dc.html",
+    "KaldirSiparis.dc.html",
+    "KilitSecim.dc.html"
   ],
   "pages": [
     {
@@ -1274,5 +1284,5 @@
       "name": "Archive"
     }
   ],
-  "title": "Bossy Product Catalog 2026 (EN)"
+  "title": "Bossy 2026 English Catalog"
 }
