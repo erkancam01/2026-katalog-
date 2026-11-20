@@ -105,7 +105,7 @@ header{display:flex;align-items:center;justify-content:space-between;gap:12px;pa
   <div class="count" id="count">Cover</div>
   <button class="btn" id="next2" type="button">Next ›</button>
   <button class="btn" id="last" type="button">End</button>
-  <label class="jump" for="goto">PAGE <input id="goto" type="number" min="1" max="124" inputmode="numeric"></label>
+  <label class="jump" for="goto">PAGE <input id="goto" type="number" min="1" max="126" inputmode="numeric"></label>
 </div>
 <div class="hint">← → keys, scroll, or grab a page corner and curl it to turn · click a page to zoom 2× · Ctrl + wheel / pinch to zoom · drag to pan when zoomed · + − 0 keys</div>
 <div class="rail" id="rail"></div>
@@ -113,7 +113,7 @@ header{display:flex;align-items:center;justify-content:space-between;gap:12px;pa
 <script>
 (function(){
   'use strict';
-  const N = 126;                 // p000 ön kapak, p001..p124 = s.01..s.124, p125 arka kapak
+  const N = 128;                 // p000 ön kapak, p001..p126 = s.01..s.126, p127 arka kapak
   const LAST = N - 1;
   const PW = 794, PH = 1123, W = PW, H = PH;
   const pad = n => String(n).padStart(3,'0');
@@ -259,7 +259,7 @@ header{display:flex;align-items:center;justify-content:space-between;gap:12px;pa
   function updateUI(){
     const pages = pagesOfView(view);
     const labs = pages.map(labelOf);
-    count.innerHTML = labs.length ? labs.join(' – ') + ' <small>/ 124</small>' : '&nbsp;';
+    count.innerHTML = labs.length ? labs.join(' – ') + ' <small>/ 126</small>' : '&nbsp;';
     thumbs.forEach(t => t.classList.remove('on'));
     pages.forEach(p => thumbs[p].classList.add('on'));
     const on = rail.querySelector('.thumb.on');
@@ -670,7 +670,7 @@ header{display:flex;align-items:center;justify-content:space-between;gap:12px;pa
   document.getElementById('zout').onclick = ()=> setZoom(zoom / 1.25, undefined, undefined, true);
   document.getElementById('z100').onclick = ()=> setZoom(1, undefined, undefined, true);
   const gi = document.getElementById('goto');
-  gi.addEventListener('change', ()=>{ const n = parseInt(gi.value, 10); if (n >= 1 && n <= 124) goPage(n); });
+  gi.addEventListener('change', ()=>{ const n = parseInt(gi.value, 10); if (n >= 1 && n <= 126) goPage(n); });
   gi.addEventListener('keydown', e => { if (e.key === 'Enter') gi.blur(); });
 
   document.addEventListener('keydown', e => {

@@ -1075,6 +1075,20 @@
       "w": 794,
       "x": 0,
       "y": 19845
+    },
+    "Notlar5.dc.html": {
+      "h": 1123,
+      "title": "p.125 · Notes",
+      "w": 794,
+      "x": 0,
+      "y": 27783
+    },
+    "Notlar6.dc.html": {
+      "h": 1123,
+      "title": "p.126 · Notes",
+      "w": 794,
+      "x": 794,
+      "y": 27783
     }
   },
   "createdOnFiles": {
@@ -1262,6 +1276,8 @@
     "Notlar2.dc.html",
     "Notlar3.dc.html",
     "Notlar4.dc.html",
+    "Notlar5.dc.html",
+    "Notlar6.dc.html",
     "ArkaKapak.dc.html",
     "KaldirSiparis.dc.html",
     "KilitSecim.dc.html"

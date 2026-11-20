@@ -371,6 +371,13 @@
       "x": 2542,
       "y": 19845
     },
+    "KaldirArkaAraba30.dc.html": {
+      "h": 1123,
+      "title": "s.91 · Arka arabalar 30 mm kanal",
+      "w": 794,
+      "x": 0,
+      "y": 19845
+    },
     "KaldirBakim.dc.html": {
       "h": 1123,
       "title": "s.108 · Kaldır-sür — kullanım ve bakım",
@@ -515,6 +522,14 @@
       "title": "D · Teknik çizim + kırmızı bant",
       "w": 794,
       "x": 2622,
+      "y": 0
+    },
+    "KapakMevcut.dc.html": {
+      "h": 1123,
+      "page": "kapak",
+      "title": "Mevcut kapak",
+      "w": 794,
+      "x": -874,
       "y": 0
     },
     "KilitCiftKanat.dc.html": {
@@ -808,6 +823,20 @@
       "x": 4290,
       "y": 26460
     },
+    "Notlar5.dc.html": {
+      "h": 1123,
+      "title": "s.125 · Notlar",
+      "w": 794,
+      "x": 0,
+      "y": 27783
+    },
+    "Notlar6.dc.html": {
+      "h": 1123,
+      "title": "s.126 · Notlar",
+      "w": 794,
+      "x": 794,
+      "y": 27783
+    },
     "ParalelMakas.dc.html": {
       "h": 1123,
       "title": "s.50 · Paralel makas 14″ · 18″",
@@ -891,6 +920,14 @@
       "w": 794,
       "x": 3496,
       "y": 11907
+    },
+    "Piece-wgix.dc.html": {
+      "frameless": true,
+      "h": 1123,
+      "title": "Svg",
+      "w": 794,
+      "x": 5196,
+      "y": 23210
     },
     "SecimGrafigi.dc.html": {
       "h": 1123,
@@ -1068,13 +1105,6 @@
       "w": 794,
       "x": 3496,
       "y": 5292
-    },
-    "KaldirArkaAraba30.dc.html": {
-      "h": 1123,
-      "title": "s.91 · Arka arabalar 30 mm kanal",
-      "w": 794,
-      "x": 0,
-      "y": 19845
     }
   },
   "createdOnFiles": {
@@ -1115,6 +1145,7 @@
     }
   },
   "order": [
+    "KapakMevcut.dc.html",
     "KapakA.dc.html",
     "KapakB.dc.html",
     "KapakC.dc.html",
@@ -1264,7 +1295,10 @@
     "Notlar2.dc.html",
     "Notlar3.dc.html",
     "Notlar4.dc.html",
-    "ArkaKapak.dc.html"
+    "Notlar5.dc.html",
+    "Notlar6.dc.html",
+    "ArkaKapak.dc.html",
+    "Piece-wgix.dc.html"
   ],
   "pages": [
     {
